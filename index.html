@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
-<head>
+<html lang="en-US"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
     <title>Tabel Periodik Elemen</title>
@@ -15,28 +14,28 @@
     <tbody>
 
     <tr class="horizontal">
-        <td>Group</td>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>4</td>
-        <td>5</td>
-        <td>6</td>
-        <td>7</td>
-        <td>8</td>
-        <td>9</td>
-        <td>10</td>
-        <td>11</td>
-        <td>12</td>
-        <td>13</td>
-        <td>14</td>
-        <td>15</td>
-        <td>16</td>
-        <td>17</td>
-        <td>18</td>
+        <td class="info">Group</td>
+        <td class="info">1</td>
+        <td class="info">2</td>
+        <td class="info">3</td>
+        <td class="info">4</td>
+        <td class="info">5</td>
+        <td class="info">6</td>
+        <td class="info">7</td>
+        <td class="info">8</td>
+        <td class="info">9</td>
+        <td class="info">10</td>
+        <td class="info">11</td>
+        <td class="info">12</td>
+        <td class="info">13</td>
+        <td class="info">14</td>
+        <td class="info">15</td>
+        <td class="info">16</td>
+        <td class="info">17</td>
+        <td class="info">18</td>
     </tr>
     <tr>
-        <td>Period<br>1</td>
+        <td class="info">Period<br>1</td>
         <td id="1" class="element" onclick="onElementClick(1)">
             <div class="non-metal gases unsur" title="hydrogen"><sup>1</sup><br>H</div>
         </td>
@@ -46,7 +45,7 @@
         </td>
     </tr>
     <tr>
-        <td>2</td>
+        <td class="info">2</td>
         <td id="3" class="element" onclick="onElementClick(3)">
             <div class="alkali solid unsur" title="lithium "><sup>3</sup><br>Li</div>
         </td>
@@ -74,7 +73,7 @@
         </td>
     </tr>
     <tr>
-        <td>3</td>
+        <td class="info">3</td>
         <td id="11" class="element" onclick="onElementClick(11)">
             <div class="alkali solid unsur" title="sodium "><sup>11</sup><br>Na</div>
         </td>
@@ -102,7 +101,7 @@
         </td>
     </tr>
     <tr>
-        <td>4</td>
+        <td class="info">4</td>
         <td id="19" class="element" onclick="onElementClick(19)">
             <div class="alkali solid unsur" title="potassium "><sup>19</sup><br>K</div>
         </td>
@@ -159,7 +158,7 @@
         </td>
     </tr>
     <tr>
-        <td>5</td>
+        <td class="info">5</td>
         <td id="37" class="element" onclick="onElementClick(37)">
             <div class="alkali solid unsur" title="rubidium "><sup>37</sup><br>Rb</div>
         </td>
@@ -216,14 +215,14 @@
         </td>
     </tr>
     <tr>
-        <td>6</td>
+        <td class="info">6</td>
         <td id="55" class="element" onclick="onElementClick(55)">
             <div class="alkali liquid unsur" title="cesium "><sup>55</sup><br>Cs</div>
         </td>
         <td id="56" class="element" onclick="onElementClick(56)">
             <div class="alkalie solid unsur" title="barium "><sup>56</sup><br>Ba</div>
         </td>
-        <td id="57-71" class="element" onclick="onElementClick(57-71)">
+        <td id="57-71">
             <div class="lanthanide solid"><sup>57-71</sup><br></div>
         </td>
         <td id="72" class="element" onclick="onElementClick(72)">
@@ -273,14 +272,14 @@
         </td>
     </tr>
     <tr>
-        <td>7</td>
+        <td class="info">7</td>
         <td id="87" class="element" onclick="onElementClick(87)">
             <div class="alkali liquid unsur" title="francium "><sup>87</sup><br>Fr</div>
         </td>
         <td id="88" class="element" onclick="onElementClick(88)">
             <div class="alkalie solid unsur" title="radium "><sup>88</sup><br>Ra</div>
         </td>
-        <td id="89-103" class="element" onclick="onElementClick(89-103)">
+        <td id="89-103">
             <div class="actinide solid"><sup>89-103</sup><br></div>
         </td>
         <td id="104" class="element" onclick="onElementClick(104)">
@@ -436,7 +435,9 @@
 </table>
 <br>
 <h2>Periodic Table Key</h2>
-<table>
+
+        `
+    <table class="a">
     <tbody>
     <tr>
         <td>
@@ -480,17 +481,15 @@
         </td>
         <td>
             <div class="unknown key"><sup>Sifat Belum<br>Diketahui</sup></div>
-        </td>
-        `
-    </tr>
+        </td></tr>
     </tbody>
 </table>
 
 <!-- Dialog -->
-<div id="dialogResult" class="modal">
+<div id="dialogResult" class="modal" style="display: none;">
 
     <div class="modal-content">
-        <span id="dialogClose" class="close">&times;</span>
+        <span id="dialogClose" class="close">×</span>
 
         <!-- Tabs -->
         <div class="tab">
@@ -515,7 +514,7 @@
         <!-- Tab content -->
         <div id="nama" class="tabcontent">
             <h3>Nama</h3>
-            <p></p>
+            <p>Besi</p>
         </div>
 
         <div id="penjelasan" class="tabcontent">
@@ -525,67 +524,73 @@
 
         <div id="massaAtom" class="tabcontent">
             <h3>Massa Atom</h3>
-            <p></p>
+            <p>55.845(2)</p>
         </div>
 
         <div id="electroNegatifitas" class="tabcontent">
             <h3>Elektronegatifitas</h3>
-            <p></p>
+            <p>1.83</p>
         </div>
 
         <div id="firstIonizationEnergy" class="tabcontent">
             <h3>Energi Ionisasi Tertinggi</h3>
-            <p></p>
+            <p>7.9024</p>
         </div>
 
         <div id="atomicRadius" class="tabcontent">
             <h3>Jari - Jari Atom</h3>
-            <p></p>
+            <p>140</p>
         </div>
 
         <div id="vanDerWaalsRadius" class="tabcontent">
             <h3>Jari - Jari Van Der Waals</h3>
-            <p></p>
+            <p>no data</p>
         </div>
 
         <div id="covalentRadius" class="tabcontent">
             <h3>Jari - Jari kovalen</h3>
-            <p></p>
+            <p>125</p>
         </div>
 
         <div id="valenceElectron" class="tabcontent">
             <h3>Elektron Valensi</h3>
-            <p></p>
+            <p>2</p>
         </div>
 
         <div id="meltPoint" class="tabcontent">
             <h3>Titik Leleh</h3>
-            <p></p>
+            <p>1,535</p>
         </div>
 
         <div id="boilPoint" class="tabcontent">
             <h3>Titik Didih</h3>
-            <p></p>
+            <p>2,750</p>
         </div>
 
         <div id="density" class="tabcontent">
             <h3>Kepadatan</h3>
-            <p></p>
+            <p>7.87</p>
         </div>
 
         <div id="discovery" class="tabcontent">
             <h3>Tahun Penemuan</h3>
-            <p></p>
+            <p>ancient</p>
         </div>
 
         <div id="electronConfiguration" class="tabcontent">
             <h3>Konfigurasi Elektron</h3>
-            <p></p>
+            <p>[Ar] 3d
+            <sup>6</sup>
+            4s
+            <sup>2</sup>
+        </p>
         </div>
 
         <div id="engName" class="tabcontent">
             <h3>Refrensi</h3>
-            <p></p>
+            <p>
+            <a href="https://en.wikipedia.org/wiki/Iron" title="Iron">Iron</a>
+        </p>
         </div>
     </div>
 </div>
@@ -646,5 +651,5 @@
 
 <!--</script>-->
 
-</body>
-</html>
+
+</body></html>

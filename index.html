@@ -486,13 +486,152 @@
     </tbody>
 </table>
 
-<!--&lt;!&ndash; Dialog &ndash;&gt;-->
-<!--<div id="dialogResult" class="modal">-->
-<!--<div class="modal-content">-->
-<!--<span class="close">&times;</span>-->
-<!--<p>Some text in the Modal..</p>-->
-<!--</div>-->
-<!--</div>-->
+<!-- Dialog -->
+<div id="dialogResult" class="modal">
+    <div class="modal-content">
+
+        <span id="dialogClose" class="close">&times;</span>
+
+        <!-- Tabs -->
+        <div class="tab">
+            <button class="tablinks" onclick="openTab(event, 'nama')">Nama</button>
+            <button class="tablinks" onclick="openTab(event, 'penjelasan')">Penjelasan</button>
+            <button class="tablinks" onclick="openTab(event, 'massaAtom')">Massa Atom</button>
+            <button class="tablinks" onclick="openTab(event, 'electroNegatifitas')">Elektronegatifitas</button>
+            <button class="tablinks" onclick="openTab(event, 'firstIonizationEnergy')">Energi Ionisasi Tertinggi
+            </button>
+            <button class="tablinks" onclick="openTab(event, 'atomicRadius')">Jari - Jari Atom</button>
+            <button class="tablinks" onclick="openTab(event, 'vanDerWaalsRadius')">Jari - Jari Van Der Waals</button>
+            <button class="tablinks" onclick="openTab(event, 'covalentRadius')">Jari - Jari kovalen</button>
+            <button class="tablinks" onclick="openTab(event, 'valenceElectron')">Elektron Valensi</button>
+            <button class="tablinks" onclick="openTab(event, 'meltPoint')">Titik Leleh</button>
+            <button class="tablinks" onclick="openTab(event, 'boilPoint')">Titik Didih</button>
+            <button class="tablinks" onclick="openTab(event, 'density')">Kepadatan</button>
+            <button class="tablinks" onclick="openTab(event, 'discovery')">Tahun Penemuan</button>
+            <button class="tablinks" onclick="openTab(event, 'electronConfiguration')">Konfigurasi Elektron</button>
+            <button class="tablinks" onclick="openTab(event, 'engName')">Refrensi</button>
+        </div>
+
+        <!-- Tab content -->
+        <div id="nama" class="tabcontent">
+            <h3>Nama</h3>
+            <p></p>
+        </div>
+
+        <div id="penjelasan" class="tabcontent">
+            <h3>Penjelasan</h3>
+            <p></p>
+        </div>
+
+        <div id="massaAtom" class="tabcontent">
+            <h3>Massa Atom</h3>
+            <p></p>
+        </div>
+
+        <div id="electroNegatifitas" class="tabcontent">
+            <h3>Elektronegatifitas</h3>
+            <p></p>
+        </div>
+
+        <div id="firstIonizationEnergy" class="tabcontent">
+            <h3>Energi Ionisasi Tertinggi</h3>
+            <p></p>
+        </div>
+
+        <div id="atomicRadius" class="tabcontent">
+            <h3>Jari - Jari Atom</h3>
+            <p></p>
+        </div>
+
+        <div id="vanDerWaalsRadius" class="tabcontent">
+            <h3>Jari - Jari Van Der Waals</h3>
+            <p></p>
+        </div>
+
+        <div id="covalentRadius" class="tabcontent">
+            <h3>Jari - Jari kovalen</h3>
+            <p></p>
+        </div>
+
+        <div id="valenceElectron" class="tabcontent">
+            <h3>Elektron Valensi</h3>
+            <p></p>
+        </div>
+
+        <div id="meltPoint" class="tabcontent">
+            <h3>Titik Leleh</h3>
+            <p></p>
+        </div>
+
+        <div id="boilPoint" class="tabcontent">
+            <h3>Titik Didih</h3>
+            <p></p>
+        </div>
+
+        <div id="density" class="tabcontent">
+            <h3>Kepadatan</h3>
+            <p></p>
+        </div>
+
+        <div id="discovery" class="tabcontent">
+            <h3>Tahun Penemuan</h3>
+            <p></p>
+        </div>
+
+        <div id="electronConfiguration" class="tabcontent">
+            <h3>Konfigurasi Elektron</h3>
+            <p></p>
+        </div>
+
+        <div id="engName" class="tabcontent">
+            <h3>Refrensi</h3>
+            <p></p>
+        </div>
+    </div>
+</div>
+
+<script>
+    var close = document.getElementById("dialogClose");
+
+    // When the user clicks on <close> (x), close the modal
+    close.onclick = function () {
+        if (dialog === null) {
+            dialog = document.getElementById('dialogResult');
+        }
+        dialog.style.display = "none";
+    };
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function (event) {
+        if (event.target === dialog) {
+            if (dialog === null) {
+                dialog = document.getElementById('dialogResult');
+            }
+            dialog.style.display = "none";
+        }
+    };
+
+    function openTab(evt, tabName) {
+        // Declare all variables
+        var i, tabcontent, tablinks;
+
+        // Get all elements with class="tabcontent" and hide them
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+
+        // Show the current tab, and add an "active" class to the button that opened the tab
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+</script>
 
 <!-- Script to modify the HTML -->
 <!--<script>-->

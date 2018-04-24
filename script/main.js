@@ -1,9 +1,26 @@
 var DATA_URL = 'https://periodictable-be9c8.firebaseapp.com/data/document.xml';
 var xmlDoc = null;
 
+// Dialog things
+var dialog = null;
+
 function onElementClick(atomicNumber) {
     getElement(atomicNumber, function (element) {
-        alert(element['nama']);
+        if (dialog === null) {
+            dialog = document.getElementById('dialogResult');
+        }
+        dialog.style.display = 'block';
+
+        for (var key in element) {
+
+            // skip loop if the property is from prototype
+            if (!element.hasOwnProperty(key)) continue;
+
+            var doc = document.getElementById(key);
+            if (doc !== null) {
+                doc.getElementsByTagName('p')[0].innerHTML = element[key];
+            }
+        }
     });
 }
 
@@ -14,7 +31,7 @@ function getElement(atomicNumber, callback) {
             requestCallback(atomicNumber, callback);
         });
     } else {
-        requestCallback(atomicNumber, callback)
+        requestCallback(atomicNumber, callback);
     }
 }
 

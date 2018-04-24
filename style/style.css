@@ -75,6 +75,10 @@ h2 {
     text-decoration: none;
 }
 
+table.navbar tr.horizontal {
+    text-align: center;
+}
+
 table.navbar td {
     border: 1px solid #FFF;
 }
@@ -188,6 +192,7 @@ td .synthetic {
 
 /* Modal Content/Box */
 .modal-content {
+    position: relative;
     background-color: #fefefe;
     margin: 15% auto; /* 15% from the top and centered */
     padding: 20px;
@@ -197,9 +202,12 @@ td .synthetic {
 
 /* The Close Button */
 .close {
-    color: #aaa;
+    position: absolute;
+    top: -25px; 
+    right: -9px;
+    color: #D50000;
     float: right;
-    font-size: 28px;
+    font-size: 35px;
     font-weight: bold;
 }
 

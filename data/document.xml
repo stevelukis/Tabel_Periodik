@@ -1,2434 +1,2790 @@
+<?xml version="1.0" encoding="utf-8"?>
 <dataUnsur id="main">
-<unsur id="1">
-<nama>Hidrogen</nama>
-<penjelasan> </penjelasan>
-<massaAtom>1.00794(7)</massaAtom>
-<electroNegatifitas>2.2</electroNegatifitas>
-<firstIonizationEnergy>13.59844</firstIonizationEnergy>
-<atomicRadius>25</atomicRadius>
-<vanDerWaalsRadius>120</vanDerWaalsRadius>
-<covalentRadius>38</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>-259</meltPoint>
-<boilPoint>-253</boilPoint>
-<density>0.09</density>
-<discovery>1776</discovery>
-<electronConfiguration>1s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Hydrogen" title="Hydrogen">Hydrogen</a></engName>
-</unsur>
-
-<unsur id="2">
-<nama>Helium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>4.002602(2)</massaAtom>
-<electroNegatifitas>no data</electroNegatifitas>
-<firstIonizationEnergy>24.58741</firstIonizationEnergy>
-<atomicRadius>31</atomicRadius>
-<vanDerWaalsRadius>140</vanDerWaalsRadius>
-<covalentRadius>32</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>-272</meltPoint>
-<boilPoint>-269</boilPoint>
-<density>0.18</density>
-<discovery>1895</discovery>
-<electronConfiguration>1s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Helium" title="Helium">Helium</a></engName>
-</unsur>
-
-<unsur id="3">
-<nama>Litium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>6.941(2)</massaAtom>
-<electroNegatifitas>0.98</electroNegatifitas>
-<firstIonizationEnergy>5.39172</firstIonizationEnergy>
-<atomicRadius>145</atomicRadius>
-<vanDerWaalsRadius>182</vanDerWaalsRadius>
-<covalentRadius>134</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>180</meltPoint>
-<boilPoint>1,347</boilPoint>
-<density>0.53</density>
-<discovery>1817</discovery>
-<electronConfiguration>[He] 2s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Lithium" title="Lithium">Lithium</a></engName>
-</unsur>
-
-<unsur id="4">
-<nama>Berilium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>9.012182(3)</massaAtom>
-<electroNegatifitas>1.57</electroNegatifitas>
-<firstIonizationEnergy>9.3227</firstIonizationEnergy>
-<atomicRadius>105</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>90</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,278</meltPoint>
-<boilPoint>2,970</boilPoint>
-<density>1.85</density>
-<discovery>1797</discovery>
-<electronConfiguration>[He] 2s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Beryllium" title="Beryllium">Beryllium</a></engName>
-</unsur>
-
-<unsur id="5">
-<nama>Boron</nama>
-<penjelasan> </penjelasan>
-<massaAtom>10.811(7)</massaAtom>
-<electroNegatifitas>2.04</electroNegatifitas>
-<firstIonizationEnergy>8.29803</firstIonizationEnergy>
-<atomicRadius>85</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>82</covalentRadius>
-<valenceElectron>3</valenceElectron>
-<meltPoint>2,300</meltPoint>
-<boilPoint>2,550</boilPoint>
-<density>2.34</density>
-<discovery>1808</discovery>
-<electronConfiguration>[He] 2s
-                            <sup>2</sup> 2p
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Boron" title="Boron">Boron</a></engName>
-</unsur>
-
-<unsur id="6">
-<nama>Karbon</nama>
-<penjelasan> </penjelasan>
-<massaAtom>12.0107(8)</massaAtom>
-<electroNegatifitas>2.55</electroNegatifitas>
-<firstIonizationEnergy>11.2603</firstIonizationEnergy>
-<atomicRadius>70</atomicRadius>
-<vanDerWaalsRadius>170</vanDerWaalsRadius>
-<covalentRadius>77</covalentRadius>
-<valenceElectron>4</valenceElectron>
-<meltPoint>3,500</meltPoint>
-<boilPoint>4,827</boilPoint>
-<density>2.26</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[He] 2s
-                            <sup>2</sup> 2p
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Carbon" title="Carbon">Carbon</a></engName>
-</unsur>
-
-<unsur id="7">
-<nama>Nitrogen</nama>
-<penjelasan> </penjelasan>
-<massaAtom>14.0067(2)</massaAtom>
-<electroNegatifitas>3.04</electroNegatifitas>
-<firstIonizationEnergy>14.53414</firstIonizationEnergy>
-<atomicRadius>65</atomicRadius>
-<vanDerWaalsRadius>155</vanDerWaalsRadius>
-<covalentRadius>75</covalentRadius>
-<valenceElectron>5</valenceElectron>
-<meltPoint>-210</meltPoint>
-<boilPoint>-196</boilPoint>
-<density>1.25</density>
-<discovery>1772</discovery>
-<electronConfiguration>[He] 2s
-                            <sup>2</sup> 2p
-                            <sup>3</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Nitrogen" title="Nitrogen">Nitrogen</a></engName>
-</unsur>
-
-<unsur id="8">
-<nama>Oksigen</nama>
-<penjelasan> </penjelasan>
-<massaAtom>15.9994(3)</massaAtom>
-<electroNegatifitas>3.44</electroNegatifitas>
-<firstIonizationEnergy>13.61806</firstIonizationEnergy>
-<atomicRadius>60</atomicRadius>
-<vanDerWaalsRadius>152</vanDerWaalsRadius>
-<covalentRadius>73</covalentRadius>
-<valenceElectron>6</valenceElectron>
-<meltPoint>-218</meltPoint>
-<boilPoint>-183</boilPoint>
-<density>1.43</density>
-<discovery>1774</discovery>
-<electronConfiguration>[He] 2s
-                            <sup>2</sup> 2p
-                            <sup>4</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Oxygen" title="Oxygen">Oxygen</a></engName>
-</unsur>
-
-<unsur id="9">
-<nama>Fluor</nama>
-<penjelasan> </penjelasan>
-<massaAtom>18.9984032(5)</massaAtom>
-<electroNegatifitas>3.98</electroNegatifitas>
-<firstIonizationEnergy>17.42282</firstIonizationEnergy>
-<atomicRadius>50</atomicRadius>
-<vanDerWaalsRadius>147</vanDerWaalsRadius>
-<covalentRadius>71</covalentRadius>
-<valenceElectron>7</valenceElectron>
-<meltPoint>-220</meltPoint>
-<boilPoint>-188</boilPoint>
-<density>1.70</density>
-<discovery>1886</discovery>
-<electronConfiguration>[He] 2s
-                            <sup>2</sup> 2p
-                            <sup>5</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Fluorine" title="Fluorine">Fluorine</a></engName>
-</unsur>
-
-<unsur id="10">
-<nama>Neon</nama>
-<penjelasan> </penjelasan>
-<massaAtom>20.10097(6)</massaAtom>
-<electroNegatifitas>no data</electroNegatifitas>
-<firstIonizationEnergy>21.5646</firstIonizationEnergy>
-<atomicRadius>38</atomicRadius>
-<vanDerWaalsRadius>154</vanDerWaalsRadius>
-<covalentRadius>69</covalentRadius>
-<valenceElectron>8</valenceElectron>
-<meltPoint>-249</meltPoint>
-<boilPoint>-246</boilPoint>
-<density>0.90</density>
-<discovery>1898</discovery>
-<electronConfiguration>[He] 2s
-                            <sup>2</sup> 2p
-                            <sup>6</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Neon" title="Neon">Neon</a></engName>
-</unsur>
-
-<unsur id="11">
-<nama>Natrium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>22.98976928(2)</massaAtom>
-<electroNegatifitas>0.93</electroNegatifitas>
-<firstIonizationEnergy>5.13908</firstIonizationEnergy>
-<atomicRadius>180</atomicRadius>
-<vanDerWaalsRadius>227</vanDerWaalsRadius>
-<covalentRadius>154</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>98</meltPoint>
-<boilPoint>883</boilPoint>
-<density>0.97</density>
-<discovery>1807</discovery>
-<electronConfiguration>[Ne] 3s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Sodium" title="Sodium">Sodium</a></engName>
-</unsur>
-
-<unsur id="12">
-<nama>Magnesium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>24.3050(6)</massaAtom>
-<electroNegatifitas>1.31</electroNegatifitas>
-<firstIonizationEnergy>7.64624</firstIonizationEnergy>
-<atomicRadius>150</atomicRadius>
-<vanDerWaalsRadius>173</vanDerWaalsRadius>
-<covalentRadius>130</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>639</meltPoint>
-<boilPoint>1,090</boilPoint>
-<density>1.74</density>
-<discovery>1755</discovery>
-<electronConfiguration>[Ne] 3s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Magnesium" title="Magnesium">Magnesium</a></engName>
-</unsur>
-
-<unsur id="13">
-<nama>Alumunium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>26.9815386(8)</massaAtom>
-<electroNegatifitas>1.61</electroNegatifitas>
-<firstIonizationEnergy>5.98577</firstIonizationEnergy>
-<atomicRadius>125</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>118</covalentRadius>
-<valenceElectron>3</valenceElectron>
-<meltPoint>660</meltPoint>
-<boilPoint>2,467</boilPoint>
-<density>2.70</density>
-<discovery>1825</discovery>
-<electronConfiguration>[Ne] 3s
-                            <sup>2</sup> 3p
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Aluminium" title="Aluminium">Aluminium</a></engName>
-</unsur>
-
-<unsur id="14">
-<nama>Silikon</nama>
-<penjelasan> </penjelasan>
-<massaAtom>28.0855(3)</massaAtom>
-<electroNegatifitas>1.9</electroNegatifitas>
-<firstIonizationEnergy>8.15169</firstIonizationEnergy>
-<atomicRadius>110</atomicRadius>
-<vanDerWaalsRadius>210</vanDerWaalsRadius>
-<covalentRadius>111</covalentRadius>
-<valenceElectron>4</valenceElectron>
-<meltPoint>1,410</meltPoint>
-<boilPoint>2,355</boilPoint>
-<density>2.33</density>
-<discovery>1824</discovery>
-<electronConfiguration>[Ne] 3s
-                            <sup>2</sup> 3p
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Silicon" title="Silicon">Silicon</a></engName>
-</unsur>
-
-<unsur id="15">
-<nama>Fosfor</nama>
-<penjelasan> </penjelasan>
-<massaAtom>30.973762(2)</massaAtom>
-<electroNegatifitas>2.19</electroNegatifitas>
-<firstIonizationEnergy>10.48669</firstIonizationEnergy>
-<atomicRadius>100</atomicRadius>
-<vanDerWaalsRadius>180</vanDerWaalsRadius>
-<covalentRadius>106</covalentRadius>
-<valenceElectron>5</valenceElectron>
-<meltPoint>44</meltPoint>
-<boilPoint>280</boilPoint>
-<density>1.82</density>
-<discovery>1669</discovery>
-<electronConfiguration>[Ne] 3s
-                            <sup>2</sup> 3p
-                            <sup>3</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Phosphorus" title="Phosphorus">Phosphorus</a></engName>
-</unsur>
-
-<unsur id="16">
-<nama>Belerang</nama>
-<penjelasan> </penjelasan>
-<massaAtom>32.065(5)</massaAtom>
-<electroNegatifitas>2.58</electroNegatifitas>
-<firstIonizationEnergy>10.36001</firstIonizationEnergy>
-<atomicRadius>100</atomicRadius>
-<vanDerWaalsRadius>180</vanDerWaalsRadius>
-<covalentRadius>102</covalentRadius>
-<valenceElectron>6</valenceElectron>
-<meltPoint>113</meltPoint>
-<boilPoint>445</boilPoint>
-<density>2.07</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[Ne] 3s
-                            <sup>2</sup> 3p
-                            <sup>4</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Sulphur" class="mw-redirect" title="Sulphur">Sulphur</a></engName>
-</unsur>
-
-<unsur id="17">
-<nama>Klor</nama>
-<penjelasan> </penjelasan>
-<massaAtom>35.453(2)</massaAtom>
-<electroNegatifitas>3.16</electroNegatifitas>
-<firstIonizationEnergy>12.96764</firstIonizationEnergy>
-<atomicRadius>100</atomicRadius>
-<vanDerWaalsRadius>175</vanDerWaalsRadius>
-<covalentRadius>99</covalentRadius>
-<valenceElectron>7</valenceElectron>
-<meltPoint>-101</meltPoint>
-<boilPoint>-35</boilPoint>
-<density>3.21</density>
-<discovery>1774</discovery>
-<electronConfiguration>[Ne] 3s
-                            <sup>2</sup> 3p
-                            <sup>5</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Chlorine" title="Chlorine">Chlorine</a></engName>
-</unsur>
-
-<unsur id="18">
-<nama>Argon</nama>
-<penjelasan> </penjelasan>
-<massaAtom>39.948(1)</massaAtom>
-<electroNegatifitas>no data</electroNegatifitas>
-<firstIonizationEnergy>15.75962</firstIonizationEnergy>
-<atomicRadius>71</atomicRadius>
-<vanDerWaalsRadius>188</vanDerWaalsRadius>
-<covalentRadius>97</covalentRadius>
-<valenceElectron>8</valenceElectron>
-<meltPoint>-189</meltPoint>
-<boilPoint>-186</boilPoint>
-<density>1.78</density>
-<discovery>1894</discovery>
-<electronConfiguration>[Ne] 3s
-                            <sup>2</sup> 3p
-                            <sup>6</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Argon" title="Argon">Argon</a></engName>
-</unsur>
-
-<unsur id="19">
-<nama>Kalium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>39.0983(1)</massaAtom>
-<electroNegatifitas>0.82</electroNegatifitas>
-<firstIonizationEnergy>4.34066</firstIonizationEnergy>
-<atomicRadius>220</atomicRadius>
-<vanDerWaalsRadius>275</vanDerWaalsRadius>
-<covalentRadius>196</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>64</meltPoint>
-<boilPoint>774</boilPoint>
-<density>0.86</density>
-<discovery>1807</discovery>
-<electronConfiguration>[Ar] 4s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Potassium" title="Potassium">Potassium</a></engName>
-</unsur>
-
-<unsur id="20">
-<nama>Kalsium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>40.078(4)</massaAtom>
-<electroNegatifitas>1</electroNegatifitas>
-<firstIonizationEnergy>6.11316</firstIonizationEnergy>
-<atomicRadius>180</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>174</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>839</meltPoint>
-<boilPoint>1,484</boilPoint>
-<density>1.55</density>
-<discovery>1808</discovery>
-<electronConfiguration>[Ar] 4s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Calcium" title="Calcium">Calcium</a></engName>
-</unsur>
-
-<unsur id="21">
-<nama>Skandium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>44.955912(6)</massaAtom>
-<electroNegatifitas>1.36</electroNegatifitas>
-<firstIonizationEnergy>6.5615</firstIonizationEnergy>
-<atomicRadius>160</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>144</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,539</meltPoint>
-<boilPoint>2,832</boilPoint>
-<density>2.99</density>
-<discovery>1879</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>1</sup> 4s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Scandium" title="Scandium">Scandium</a></engName>
-</unsur>
-
-<unsur id="22">
-<nama>Titanium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>47.867(1)</massaAtom>
-<electroNegatifitas>1.54</electroNegatifitas>
-<firstIonizationEnergy>6.8281</firstIonizationEnergy>
-<atomicRadius>140</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>136</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,660</meltPoint>
-<boilPoint>3,287</boilPoint>
-<density>4.54</density>
-<discovery>1791</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>2</sup> 4s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Titanium" title="Titanium">Titanium</a></engName>
-</unsur>
-
-<unsur id="23">
-<nama>Vanadium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>50.9415(1)</massaAtom>
-<electroNegatifitas>1.63</electroNegatifitas>
-<firstIonizationEnergy>6.7462</firstIonizationEnergy>
-<atomicRadius>135</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>125</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,890</meltPoint>
-<boilPoint>3,380</boilPoint>
-<density>6.11</density>
-<discovery>1830</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>3</sup> 4s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Vanadium" title="Vanadium">Vanadium</a></engName>
-</unsur>
-
-<unsur id="24">
-<nama>Krom</nama>
-<penjelasan> </penjelasan>
-<massaAtom>51.9961(6)</massaAtom>
-<electroNegatifitas>1.66</electroNegatifitas>
-<firstIonizationEnergy>6.7665</firstIonizationEnergy>
-<atomicRadius>140</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>127</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>1,857</meltPoint>
-<boilPoint>2,672</boilPoint>
-<density>7.19</density>
-<discovery>1797</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>5</sup> 4s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Chromium" title="Chromium">Chromium</a></engName>
-</unsur>
-
-<unsur id="25">
-<nama>Mangan</nama>
-<penjelasan> </penjelasan>
-<massaAtom>54.938045(5)</massaAtom>
-<electroNegatifitas>1.55</electroNegatifitas>
-<firstIonizationEnergy>7.43402</firstIonizationEnergy>
-<atomicRadius>140</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>139</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,245</meltPoint>
-<boilPoint>1,962</boilPoint>
-<density>7.43</density>
-<discovery>1774</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>5</sup> 4s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Manganese" title="Manganese">Manganese</a></engName>
-</unsur>
-
-<unsur id="26">
-<nama>Besi</nama>
-<penjelasan> </penjelasan>
-<massaAtom>55.845(2)</massaAtom>
-<electroNegatifitas>1.83</electroNegatifitas>
-<firstIonizationEnergy>7.9024</firstIonizationEnergy>
-<atomicRadius>140</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>125</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,535</meltPoint>
-<boilPoint>2,750</boilPoint>
-<density>7.87</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>6</sup> 4s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Iron" title="Iron">Iron</a></engName>
-</unsur>
-
-<unsur id="27">
-<nama>Kobalt</nama>
-<penjelasan> </penjelasan>
-<massaAtom>58.933195(5)</massaAtom>
-<electroNegatifitas>1.91</electroNegatifitas>
-<firstIonizationEnergy>7.6398</firstIonizationEnergy>
-<atomicRadius>135</atomicRadius>
-<vanDerWaalsRadius>163</vanDerWaalsRadius>
-<covalentRadius>121</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,495</meltPoint>
-<boilPoint>2,870</boilPoint>
-<density>8.90</density>
-<discovery>1735</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>7</sup> 4s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Cobalt" title="Cobalt">Cobalt</a></engName>
-</unsur>
-
-<unsur id="28">
-<nama>Nikel</nama>
-<penjelasan> </penjelasan>
-<massaAtom>58.6934(4)</massaAtom>
-<electroNegatifitas>1.88</electroNegatifitas>
-<firstIonizationEnergy>7.881</firstIonizationEnergy>
-<atomicRadius>135</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>126</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,453</meltPoint>
-<boilPoint>2,732</boilPoint>
-<density>8.90</density>
-<discovery>1751</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>8</sup> 4s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Nickel" title="Nickel">Nickel</a></engName>
-</unsur>
-
-<unsur id="29">
-<nama>Tembaga</nama>
-<penjelasan> </penjelasan>
-<massaAtom>63.546(3)</massaAtom>
-<electroNegatifitas>1.9</electroNegatifitas>
-<firstIonizationEnergy>7.72638</firstIonizationEnergy>
-<atomicRadius>135</atomicRadius>
-<vanDerWaalsRadius>140</vanDerWaalsRadius>
-<covalentRadius>138</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>1,083</meltPoint>
-<boilPoint>2,567</boilPoint>
-<density>8.96</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>10</sup> 4s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Copper" title="Copper">Copper</a></engName>
-</unsur>
-
-<unsur id="30">
-<nama>Seng</nama>
-<penjelasan> </penjelasan>
-<massaAtom>65.38(2)</massaAtom>
-<electroNegatifitas>1.65</electroNegatifitas>
-<firstIonizationEnergy>9.3942</firstIonizationEnergy>
-<atomicRadius>135</atomicRadius>
-<vanDerWaalsRadius>139</vanDerWaalsRadius>
-<covalentRadius>131</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>420</meltPoint>
-<boilPoint>907</boilPoint>
-<density>7.13</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>10</sup> 4s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Zinc" title="Zinc">Zinc</a></engName>
-</unsur>
-
-<unsur id="31">
-<nama>Galium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>69.723(1)</massaAtom>
-<electroNegatifitas>1.81</electroNegatifitas>
-<firstIonizationEnergy>5.9993</firstIonizationEnergy>
-<atomicRadius>130</atomicRadius>
-<vanDerWaalsRadius>187</vanDerWaalsRadius>
-<covalentRadius>126</covalentRadius>
-<valenceElectron>3</valenceElectron>
-<meltPoint>30</meltPoint>
-<boilPoint>2,403</boilPoint>
-<density>5.91</density>
-<discovery>1875</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>10</sup> 4s
-                            <sup>2</sup> 4p
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Gallium" title="Gallium">Gallium</a></engName>
-</unsur>
-
-<unsur id="32">
-<nama>Germanium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>72.64(1)</massaAtom>
-<electroNegatifitas>2.01</electroNegatifitas>
-<firstIonizationEnergy>7.8994</firstIonizationEnergy>
-<atomicRadius>125</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>122</covalentRadius>
-<valenceElectron>4</valenceElectron>
-<meltPoint>937</meltPoint>
-<boilPoint>2,830</boilPoint>
-<density>5.32</density>
-<discovery>1886</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>10</sup> 4s
-                            <sup>2</sup> 4p
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Germanium" title="Germanium">Germanium</a></engName>
-</unsur>
-
-<unsur id="33">
-<nama>Arsen</nama>
-<penjelasan> </penjelasan>
-<massaAtom>74.92160(2)</massaAtom>
-<electroNegatifitas>2.18</electroNegatifitas>
-<firstIonizationEnergy>9.7886</firstIonizationEnergy>
-<atomicRadius>115</atomicRadius>
-<vanDerWaalsRadius>185</vanDerWaalsRadius>
-<covalentRadius>119</covalentRadius>
-<valenceElectron>5</valenceElectron>
-<meltPoint>81</meltPoint>
-<boilPoint>613</boilPoint>
-<density>5.72</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>10</sup> 4s
-                            <sup>2</sup> 4p
-                            <sup>3</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Arsenic" title="Arsenic">Arsenic</a></engName>
-</unsur>
-
-<unsur id="34">
-<nama>Selenium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>78.96(3)</massaAtom>
-<electroNegatifitas>2.55</electroNegatifitas>
-<firstIonizationEnergy>9.75238</firstIonizationEnergy>
-<atomicRadius>115</atomicRadius>
-<vanDerWaalsRadius>190</vanDerWaalsRadius>
-<covalentRadius>116</covalentRadius>
-<valenceElectron>6</valenceElectron>
-<meltPoint>217</meltPoint>
-<boilPoint>685</boilPoint>
-<density>4.79</density>
-<discovery>1817</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>10</sup> 4s
-                            <sup>2</sup> 4p
-                            <sup>4</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Selenium" title="Selenium">Selenium</a></engName>
-</unsur>
-
-<unsur id="35">
-<nama>Brom</nama>
-<penjelasan> </penjelasan>
-<massaAtom>79.904(1)</massaAtom>
-<electroNegatifitas>2.96</electroNegatifitas>
-<firstIonizationEnergy>11.81381</firstIonizationEnergy>
-<atomicRadius>115</atomicRadius>
-<vanDerWaalsRadius>185</vanDerWaalsRadius>
-<covalentRadius>114</covalentRadius>
-<valenceElectron>7</valenceElectron>
-<meltPoint>-7</meltPoint>
-<boilPoint>59</boilPoint>
-<density>3.12</density>
-<discovery>1826</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>10</sup> 4s
-                            <sup>2</sup> 4p
-                            <sup>5</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Bromine" title="Bromine">Bromine</a></engName>
-</unsur>
-
-<unsur id="36">
-<nama>Kripton</nama>
-<penjelasan> </penjelasan>
-<massaAtom>83.798(2)</massaAtom>
-<electroNegatifitas>3</electroNegatifitas>
-<firstIonizationEnergy>13.99961</firstIonizationEnergy>
-<atomicRadius>88</atomicRadius>
-<vanDerWaalsRadius>202</vanDerWaalsRadius>
-<covalentRadius>110</covalentRadius>
-<valenceElectron>8</valenceElectron>
-<meltPoint>-157</meltPoint>
-<boilPoint>-153</boilPoint>
-<density>3.75</density>
-<discovery>1898</discovery>
-<electronConfiguration>[Ar] 3d
-                            <sup>10</sup> 4s
-                            <sup>2</sup> 4p
-                            <sup>6</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Krypton" title="Krypton">Krypton</a></engName>
-</unsur>
-
-<unsur id="37">
-<nama>Rubidium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>85.4678(3)</massaAtom>
-<electroNegatifitas>0.82</electroNegatifitas>
-<firstIonizationEnergy>4.17713</firstIonizationEnergy>
-<atomicRadius>235</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>211</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>39</meltPoint>
-<boilPoint>688</boilPoint>
-<density>1.63</density>
-<discovery>1861</discovery>
-<electronConfiguration>[Kr] 5s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Rubidium" title="Rubidium">Rubidium</a></engName>
-</unsur>
-
-<unsur id="38">
-<nama>Strontium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>87.62(1)</massaAtom>
-<electroNegatifitas>0.95</electroNegatifitas>
-<firstIonizationEnergy>5.6949</firstIonizationEnergy>
-<atomicRadius>200</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>192</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>769</meltPoint>
-<boilPoint>1,384</boilPoint>
-<density>2.54</density>
-<discovery>1790</discovery>
-<electronConfiguration>[Kr] 5s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Strontium" title="Strontium">Strontium</a></engName>
-</unsur>
-
-<unsur id="39">
-<nama>Itrium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>88.90585(2)</massaAtom>
-<electroNegatifitas>1.22</electroNegatifitas>
-<firstIonizationEnergy>6.2171</firstIonizationEnergy>
-<atomicRadius>180</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>162</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,523</meltPoint>
-<boilPoint>3,337</boilPoint>
-<density>4.47</density>
-<discovery>1794</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>1</sup> 5s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Yttrium" title="Yttrium">Yttrium</a></engName>
-</unsur>
-
-<unsur id="40">
-<nama>Zirkonium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>91.224(2)</massaAtom>
-<electroNegatifitas>1.33</electroNegatifitas>
-<firstIonizationEnergy>6.6339</firstIonizationEnergy>
-<atomicRadius>155</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>148</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,852</meltPoint>
-<boilPoint>4,377</boilPoint>
-<density>6.51</density>
-<discovery>1789</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>2</sup> 5s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Zirconium" title="Zirconium">Zirconium</a></engName>
-</unsur>
-
-<unsur id="41">
-<nama>Niobium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>92.90638(2)</massaAtom>
-<electroNegatifitas>1.6</electroNegatifitas>
-<firstIonizationEnergy>6.75885</firstIonizationEnergy>
-<atomicRadius>145</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>137</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>2,468</meltPoint>
-<boilPoint>4,927</boilPoint>
-<density>8.57</density>
-<discovery>1801</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>4</sup> 5s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Niobium" title="Niobium">Niobium</a></engName>
-</unsur>
-
-<unsur id="42">
-<nama>Molibden</nama>
-<penjelasan> </penjelasan>
-<massaAtom>95.96(2)</massaAtom>
-<electroNegatifitas>2.16</electroNegatifitas>
-<firstIonizationEnergy>7.09243</firstIonizationEnergy>
-<atomicRadius>145</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>145</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>2,617</meltPoint>
-<boilPoint>4,612</boilPoint>
-<density>10.22</density>
-<discovery>1781</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>5</sup> 5s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Molybdenum" title="Molybdenum">Molybdenum</a></engName>
-</unsur>
-
-<unsur id="43">
-<nama>Teknetium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[98]</massaAtom>
-<electroNegatifitas>1.9</electroNegatifitas>
-<firstIonizationEnergy>7.28</firstIonizationEnergy>
-<atomicRadius>135</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>156</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>2,200</meltPoint>
-<boilPoint>4,877</boilPoint>
-<density>11.50</density>
-<discovery>1937</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>5</sup> 5s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Technetium" title="Technetium">Technetium</a></engName>
-</unsur>
-
-<unsur id="44">
-<nama>Ruthenium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>101.07(2)</massaAtom>
-<electroNegatifitas>2.2</electroNegatifitas>
-<firstIonizationEnergy>7.3605</firstIonizationEnergy>
-<atomicRadius>130</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>126</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>2,250</meltPoint>
-<boilPoint>3,900</boilPoint>
-<density>12.37</density>
-<discovery>1844</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>7</sup> 5s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Ruthenium" title="Ruthenium">Ruthenium</a></engName>
-</unsur>
-
-<unsur id="45">
-<nama>Rodium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>102.90550(2)</massaAtom>
-<electroNegatifitas>2.28</electroNegatifitas>
-<firstIonizationEnergy>7.4589</firstIonizationEnergy>
-<atomicRadius>135</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>135</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>1,966</meltPoint>
-<boilPoint>3,727</boilPoint>
-<density>12.41</density>
-<discovery>1803</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>8</sup> 5s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Rhodium" title="Rhodium">Rhodium</a></engName>
-</unsur>
-
-<unsur id="46">
-<nama>Paladium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>106.42(1)</massaAtom>
-<electroNegatifitas>2.2</electroNegatifitas>
-<firstIonizationEnergy>8.3369</firstIonizationEnergy>
-<atomicRadius>140</atomicRadius>
-<vanDerWaalsRadius>163</vanDerWaalsRadius>
-<covalentRadius>131</covalentRadius>
-<valenceElectron>18</valenceElectron>
-<meltPoint>1,552</meltPoint>
-<boilPoint>2,927</boilPoint>
-<density>12.02</density>
-<discovery>1803</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>10</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Palladium" title="Palladium">Palladium</a></engName>
-</unsur>
-
-<unsur id="47">
-<nama>Perak</nama>
-<penjelasan> </penjelasan>
-<massaAtom>107.8682(2)</massaAtom>
-<electroNegatifitas>1.93</electroNegatifitas>
-<firstIonizationEnergy>7.5762</firstIonizationEnergy>
-<atomicRadius>160</atomicRadius>
-<vanDerWaalsRadius>172</vanDerWaalsRadius>
-<covalentRadius>153</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>962</meltPoint>
-<boilPoint>2,212</boilPoint>
-<density>10.50</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>10</sup> 5s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Silver" title="Silver">Silver</a></engName>
-</unsur>
-
-<unsur id="48">
-<nama>Kadmium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>112.411(8)</massaAtom>
-<electroNegatifitas>1.69</electroNegatifitas>
-<firstIonizationEnergy>8.9938</firstIonizationEnergy>
-<atomicRadius>155</atomicRadius>
-<vanDerWaalsRadius>158</vanDerWaalsRadius>
-<covalentRadius>148</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>321</meltPoint>
-<boilPoint>765</boilPoint>
-<density>8.65</density>
-<discovery>1817</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>10</sup> 5s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Cadmium" title="Cadmium">Cadmium</a></engName>
-</unsur>
-
-<unsur id="49">
-<nama>Indium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>114.818(3)</massaAtom>
-<electroNegatifitas>1.78</electroNegatifitas>
-<firstIonizationEnergy>5.78636</firstIonizationEnergy>
-<atomicRadius>155</atomicRadius>
-<vanDerWaalsRadius>193</vanDerWaalsRadius>
-<covalentRadius>144</covalentRadius>
-<valenceElectron>3</valenceElectron>
-<meltPoint>157</meltPoint>
-<boilPoint>2,000</boilPoint>
-<density>7.31</density>
-<discovery>1863</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>10</sup> 5s
-                            <sup>2</sup> 5p
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Indium" title="Indium">Indium</a></engName>
-</unsur>
-
-<unsur id="50">
-<nama>Timah</nama>
-<penjelasan> </penjelasan>
-<massaAtom>118.710(7)</massaAtom>
-<electroNegatifitas>1.96</electroNegatifitas>
-<firstIonizationEnergy>7.3439</firstIonizationEnergy>
-<atomicRadius>145</atomicRadius>
-<vanDerWaalsRadius>217</vanDerWaalsRadius>
-<covalentRadius>141</covalentRadius>
-<valenceElectron>4</valenceElectron>
-<meltPoint>232</meltPoint>
-<boilPoint>2,270</boilPoint>
-<density>7.31</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>10</sup> 5s
-                            <sup>2</sup> 5p
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Tin" title="Tin">Tin</a></engName>
-</unsur>
-
-<unsur id="51">
-<nama>Antimon</nama>
-<penjelasan> </penjelasan>
-<massaAtom>121.760(1)</massaAtom>
-<electroNegatifitas>2.05</electroNegatifitas>
-<firstIonizationEnergy>8.6084</firstIonizationEnergy>
-<atomicRadius>145</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>138</covalentRadius>
-<valenceElectron>5</valenceElectron>
-<meltPoint>630</meltPoint>
-<boilPoint>1,750</boilPoint>
-<density>6.68</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>10</sup> 5s
-                            <sup>2</sup> 5p
-                            <sup>3</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Antimony" title="Antimony">Antimony</a></engName>
-</unsur>
-
-<unsur id="52">
-<nama>Telurium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>127.60(3)</massaAtom>
-<electroNegatifitas>2.1</electroNegatifitas>
-<firstIonizationEnergy>9.0096</firstIonizationEnergy>
-<atomicRadius>140</atomicRadius>
-<vanDerWaalsRadius>206</vanDerWaalsRadius>
-<covalentRadius>135</covalentRadius>
-<valenceElectron>6</valenceElectron>
-<meltPoint>449</meltPoint>
-<boilPoint>990</boilPoint>
-<density>6.24</density>
-<discovery>1783</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>10</sup> 5s
-                            <sup>2</sup> 5p
-                            <sup>4</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Tellurium" title="Tellurium">Tellurium</a></engName>
-</unsur>
-
-<unsur id="53">
-<nama>Yodium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>126.90447(3)</massaAtom>
-<electroNegatifitas>2.66</electroNegatifitas>
-<firstIonizationEnergy>10.45126</firstIonizationEnergy>
-<atomicRadius>140</atomicRadius>
-<vanDerWaalsRadius>198</vanDerWaalsRadius>
-<covalentRadius>133</covalentRadius>
-<valenceElectron>7</valenceElectron>
-<meltPoint>114</meltPoint>
-<boilPoint>184</boilPoint>
-<density>4.93</density>
-<discovery>1811</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>10</sup> 5s
-                            <sup>2</sup> 5p
-                            <sup>5</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Iodine" title="Iodine">Iodine</a></engName>
-</unsur>
-
-<unsur id="54">
-<nama>Xenon</nama>
-<penjelasan> </penjelasan>
-<massaAtom>131.293(6)</massaAtom>
-<electroNegatifitas>2.6</electroNegatifitas>
-<firstIonizationEnergy>12.1298</firstIonizationEnergy>
-<atomicRadius>108</atomicRadius>
-<vanDerWaalsRadius>216</vanDerWaalsRadius>
-<covalentRadius>130</covalentRadius>
-<valenceElectron>8</valenceElectron>
-<meltPoint>-112</meltPoint>
-<boilPoint>-108</boilPoint>
-<density>5.90</density>
-<discovery>1898</discovery>
-<electronConfiguration>[Kr] 4d
-                            <sup>10</sup> 5s
-                            <sup>2</sup> 5p
-                            <sup>6</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Xenon" title="Xenon">Xenon</a></engName>
-</unsur>
-
-<unsur id="55">
-<nama>Sesium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>132.9054519(2)</massaAtom>
-<electroNegatifitas>0.79</electroNegatifitas>
-<firstIonizationEnergy>3.8939</firstIonizationEnergy>
-<atomicRadius>260</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>225</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>29</meltPoint>
-<boilPoint>678</boilPoint>
-<density>1.87</density>
-<discovery>1860</discovery>
-<electronConfiguration>[Xe] 6s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Caesium" title="Caesium">Caesium</a></engName>
-</unsur>
-
-<unsur id="56">
-<nama>Barium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>137.327(7)</massaAtom>
-<electroNegatifitas>0.89</electroNegatifitas>
-<firstIonizationEnergy>5.2117</firstIonizationEnergy>
-<atomicRadius>215</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>198</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>725</meltPoint>
-<boilPoint>1,140</boilPoint>
-<density>3.59</density>
-<discovery>1808</discovery>
-<electronConfiguration>[Xe] 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Barium" title="Barium">Barium</a></engName>
-</unsur>
-
-<unsur id="57">
-<nama>Lantanum</nama>
-<penjelasan> </penjelasan>
-<massaAtom>138.90547(7)</massaAtom>
-<electroNegatifitas>1.1</electroNegatifitas>
-<firstIonizationEnergy>5.5769</firstIonizationEnergy>
-<atomicRadius>195</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>169</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>920</meltPoint>
-<boilPoint>3,469</boilPoint>
-<density>6.15</density>
-<discovery>1839</discovery>
-<electronConfiguration>[Xe] 5d
-                            <sup>1</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Lanthanum" title="Lanthanum">Lanthanum</a></engName>
-</unsur>
-
-<unsur id="58">
-<nama>Serium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>140.116(1)</massaAtom>
-<electroNegatifitas>1.12</electroNegatifitas>
-<firstIonizationEnergy>5.5387</firstIonizationEnergy>
-<atomicRadius>185</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>795</meltPoint>
-<boilPoint>3,257</boilPoint>
-<density>6.77</density>
-<discovery>1803</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>1</sup> 5d
-                            <sup>1</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Cerium" title="Cerium">Cerium</a></engName>
-</unsur>
-
-<unsur id="59">
-<nama>Praseodimium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>140.90765(2)</massaAtom>
-<electroNegatifitas>1.13</electroNegatifitas>
-<firstIonizationEnergy>5.473</firstIonizationEnergy>
-<atomicRadius>185</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>935</meltPoint>
-<boilPoint>3,127</boilPoint>
-<density>6.77</density>
-<discovery>1885</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>3</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Praseodymium" title="Praseodymium">Praseodymium</a></engName>
-</unsur>
-
-<unsur id="60">
-<nama>Neodimium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>144.242(3)</massaAtom>
-<electroNegatifitas>1.14</electroNegatifitas>
-<firstIonizationEnergy>5.525</firstIonizationEnergy>
-<atomicRadius>185</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,010</meltPoint>
-<boilPoint>3,127</boilPoint>
-<density>7.01</density>
-<discovery>1885</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>4</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Neodymium" title="Neodymium">Neodymium</a></engName>
-</unsur>
-
-<unsur id="61">
-<nama>Prometium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[145]</massaAtom>
-<electroNegatifitas>no data</electroNegatifitas>
-<firstIonizationEnergy>5.582</firstIonizationEnergy>
-<atomicRadius>185</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,100</meltPoint>
-<boilPoint>3,000</boilPoint>
-<density>7.30</density>
-<discovery>1945</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>5</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Promethium" title="Promethium">Promethium</a></engName>
-</unsur>
-
-<unsur id="62">
-<nama>Samarium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>150.36(2)</massaAtom>
-<electroNegatifitas>1.17</electroNegatifitas>
-<firstIonizationEnergy>5.6436</firstIonizationEnergy>
-<atomicRadius>185</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,072</meltPoint>
-<boilPoint>1,900</boilPoint>
-<density>7.52</density>
-<discovery>1879</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>6</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Samarium" title="Samarium">Samarium</a></engName>
-</unsur>
-
-<unsur id="63">
-<nama>Europium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>151.964(1)</massaAtom>
-<electroNegatifitas>no data</electroNegatifitas>
-<firstIonizationEnergy>5.6704</firstIonizationEnergy>
-<atomicRadius>185</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>822</meltPoint>
-<boilPoint>1,597</boilPoint>
-<density>5.24</density>
-<discovery>1901</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>7</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Europium" title="Europium">Europium</a></engName>
-</unsur>
-
-<unsur id="64">
-<nama>Gadolinium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>157.25(3)</massaAtom>
-<electroNegatifitas>1.2</electroNegatifitas>
-<firstIonizationEnergy>6.1501</firstIonizationEnergy>
-<atomicRadius>180</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,311</meltPoint>
-<boilPoint>3,233</boilPoint>
-<density>7.90</density>
-<discovery>1880</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>7</sup> 5d
-                            <sup>1</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Gadolinium" title="Gadolinium">Gadolinium</a></engName>
-</unsur>
-
-<unsur id="65">
-<nama>Terbium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>158.92535(2)</massaAtom>
-<electroNegatifitas>no data</electroNegatifitas>
-<firstIonizationEnergy>5.8638</firstIonizationEnergy>
-<atomicRadius>175</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,360</meltPoint>
-<boilPoint>3,041</boilPoint>
-<density>8.23</density>
-<discovery>1843</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>9</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Terbium" title="Terbium">Terbium</a></engName>
-</unsur>
-
-<unsur id="66">
-<nama>Disprosium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>162.500(1)</massaAtom>
-<electroNegatifitas>1.22</electroNegatifitas>
-<firstIonizationEnergy>5.9389</firstIonizationEnergy>
-<atomicRadius>175</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,412</meltPoint>
-<boilPoint>2,562</boilPoint>
-<density>8.55</density>
-<discovery>1886</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>10</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Dysprosium" title="Dysprosium">Dysprosium</a></engName>
-</unsur>
-
-<unsur id="67">
-<nama>Holmium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>164.93032(2)</massaAtom>
-<electroNegatifitas>1.23</electroNegatifitas>
-<firstIonizationEnergy>6.0215</firstIonizationEnergy>
-<atomicRadius>175</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,470</meltPoint>
-<boilPoint>2,720</boilPoint>
-<density>8.80</density>
-<discovery>1867</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>11</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Holmium" title="Holmium">Holmium</a></engName>
-</unsur>
-
-<unsur id="68">
-<nama>Erbium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>167.259(3)</massaAtom>
-<electroNegatifitas>1.24</electroNegatifitas>
-<firstIonizationEnergy>6.1077</firstIonizationEnergy>
-<atomicRadius>175</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,522</meltPoint>
-<boilPoint>2,510</boilPoint>
-<density>9.07</density>
-<discovery>1842</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>12</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Erbium" title="Erbium">Erbium</a></engName>
-</unsur>
-
-<unsur id="69">
-<nama>Tulium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>168.93421(2)</massaAtom>
-<electroNegatifitas>1.25</electroNegatifitas>
-<firstIonizationEnergy>6.18431</firstIonizationEnergy>
-<atomicRadius>175</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,545</meltPoint>
-<boilPoint>1,727</boilPoint>
-<density>9.32</density>
-<discovery>1879</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>13</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Thulium" title="Thulium">Thulium</a></engName>
-</unsur>
-
-<unsur id="70">
-<nama>Iterbium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>173.054(5)</massaAtom>
-<electroNegatifitas>no data</electroNegatifitas>
-<firstIonizationEnergy>6.25416</firstIonizationEnergy>
-<atomicRadius>175</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>824</meltPoint>
-<boilPoint>1,466</boilPoint>
-<density>6.90</density>
-<discovery>1878</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Ytterbium" title="Ytterbium">Ytterbium</a></engName>
-</unsur>
-
-<unsur id="71">
-<nama>Lutetium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>174.9668(1)</massaAtom>
-<electroNegatifitas>1.27</electroNegatifitas>
-<firstIonizationEnergy>5.4259</firstIonizationEnergy>
-<atomicRadius>175</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>160</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,656</meltPoint>
-<boilPoint>3,315</boilPoint>
-<density>9.84</density>
-<discovery>1907</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>1</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Lutetium" title="Lutetium">Lutetium</a></engName>
-</unsur>
-
-<unsur id="72">
-<nama>Hafnium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>178.49(2)</massaAtom>
-<electroNegatifitas>1.3</electroNegatifitas>
-<firstIonizationEnergy>6.82507</firstIonizationEnergy>
-<atomicRadius>155</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>150</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>2,150</meltPoint>
-<boilPoint>5,400</boilPoint>
-<density>13.31</density>
-<discovery>1923</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>2</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Hafnium" title="Hafnium">Hafnium</a></engName>
-</unsur>
-
-<unsur id="73">
-<nama>Tantalum</nama>
-<penjelasan> </penjelasan>
-<massaAtom>180.94788(2)</massaAtom>
-<electroNegatifitas>1.5</electroNegatifitas>
-<firstIonizationEnergy>7.5496</firstIonizationEnergy>
-<atomicRadius>145</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>138</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>2,996</meltPoint>
-<boilPoint>5,425</boilPoint>
-<density>16.65</density>
-<discovery>1802</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>3</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Tantalum" title="Tantalum">Tantalum</a></engName>
-</unsur>
-
-<unsur id="74">
-<nama>Tungsten</nama>
-<penjelasan> </penjelasan>
-<massaAtom>183.84(1)</massaAtom>
-<electroNegatifitas>2.36</electroNegatifitas>
-<firstIonizationEnergy>7.864</firstIonizationEnergy>
-<atomicRadius>135</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>146</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>3,410</meltPoint>
-<boilPoint>5,660</boilPoint>
-<density>19.35</density>
-<discovery>1783</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>4</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Tungsten" title="Tungsten">Tungsten</a></engName>
-</unsur>
-
-<unsur id="75">
-<nama>Renium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>186.207(1)</massaAtom>
-<electroNegatifitas>1.9</electroNegatifitas>
-<firstIonizationEnergy>7.8335</firstIonizationEnergy>
-<atomicRadius>135</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>159</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>3,180</meltPoint>
-<boilPoint>5,627</boilPoint>
-<density>21.04</density>
-<discovery>1925</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>5</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Rhenium" title="Rhenium">Rhenium</a></engName>
-</unsur>
-
-<unsur id="76">
-<nama>Osmium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>190.23(3)</massaAtom>
-<electroNegatifitas>2.2</electroNegatifitas>
-<firstIonizationEnergy>8.4382</firstIonizationEnergy>
-<atomicRadius>130</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>128</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>3,045</meltPoint>
-<boilPoint>5,027</boilPoint>
-<density>22.60</density>
-<discovery>1803</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>6</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Osmium" title="Osmium">Osmium</a></engName>
-</unsur>
-
-<unsur id="77">
-<nama>Iridium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>192.217(3)</massaAtom>
-<electroNegatifitas>2.2</electroNegatifitas>
-<firstIonizationEnergy>8.967</firstIonizationEnergy>
-<atomicRadius>135</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>137</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>2,410</meltPoint>
-<boilPoint>4,527</boilPoint>
-<density>22.40</density>
-<discovery>1803</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>7</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Iridium" title="Iridium">Iridium</a></engName>
-</unsur>
-
-<unsur id="78">
-<nama>Platina</nama>
-<penjelasan> </penjelasan>
-<massaAtom>195.084(9)</massaAtom>
-<electroNegatifitas>2.28</electroNegatifitas>
-<firstIonizationEnergy>8.9587</firstIonizationEnergy>
-<atomicRadius>135</atomicRadius>
-<vanDerWaalsRadius>175</vanDerWaalsRadius>
-<covalentRadius>128</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>1,772</meltPoint>
-<boilPoint>3,827</boilPoint>
-<density>21.45</density>
-<discovery>1735</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>9</sup> 6s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Platinum" title="Platinum">Platinum</a></engName>
-</unsur>
-
-<unsur id="79">
-<nama>Emas</nama>
-<penjelasan> </penjelasan>
-<massaAtom>196.966569(4)</massaAtom>
-<electroNegatifitas>2.54</electroNegatifitas>
-<firstIonizationEnergy>9.2255</firstIonizationEnergy>
-<atomicRadius>135</atomicRadius>
-<vanDerWaalsRadius>166</vanDerWaalsRadius>
-<covalentRadius>144</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>1,064</meltPoint>
-<boilPoint>2,807</boilPoint>
-<density>19.32</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>10</sup> 6s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Gold" title="Gold">Gold</a></engName>
-</unsur>
-
-<unsur id="80">
-<nama>Raksa</nama>
-<penjelasan> </penjelasan>
-<massaAtom>200.59(2)</massaAtom>
-<electroNegatifitas>2</electroNegatifitas>
-<firstIonizationEnergy>10.4375</firstIonizationEnergy>
-<atomicRadius>150</atomicRadius>
-<vanDerWaalsRadius>155</vanDerWaalsRadius>
-<covalentRadius>149</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>-39</meltPoint>
-<boilPoint>357</boilPoint>
-<density>13.55</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>10</sup> 6s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Mercury_(element)" title="Mercury (element)">Mercury</a></engName>
-</unsur>
-
-<unsur id="81">
-<nama>Talium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>204.3833(2)</massaAtom>
-<electroNegatifitas>1.62</electroNegatifitas>
-<firstIonizationEnergy>6.1082</firstIonizationEnergy>
-<atomicRadius>190</atomicRadius>
-<vanDerWaalsRadius>196</vanDerWaalsRadius>
-<covalentRadius>148</covalentRadius>
-<valenceElectron>3</valenceElectron>
-<meltPoint>303</meltPoint>
-<boilPoint>1,457</boilPoint>
-<density>11.85</density>
-<discovery>1861</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>10</sup> 6s
-                            <sup>2</sup> 6p
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Thallium" title="Thallium">Thallium</a></engName>
-</unsur>
-
-<unsur id="82">
-<nama>Timbal</nama>
-<penjelasan> </penjelasan>
-<massaAtom>207.2(1)</massaAtom>
-<electroNegatifitas>2.33</electroNegatifitas>
-<firstIonizationEnergy>7.41666</firstIonizationEnergy>
-<atomicRadius>180</atomicRadius>
-<vanDerWaalsRadius>202</vanDerWaalsRadius>
-<covalentRadius>147</covalentRadius>
-<valenceElectron>4</valenceElectron>
-<meltPoint>327</meltPoint>
-<boilPoint>1,740</boilPoint>
-<density>11.35</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>10</sup> 6s
-                            <sup>2</sup> 6p
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Lead" title="Lead">Lead</a></engName>
-</unsur>
-
-<unsur id="83">
-<nama>Bismut</nama>
-<penjelasan> </penjelasan>
-<massaAtom>208.98040(1)</massaAtom>
-<electroNegatifitas>2.02</electroNegatifitas>
-<firstIonizationEnergy>7.2856</firstIonizationEnergy>
-<atomicRadius>160</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>146</covalentRadius>
-<valenceElectron>5</valenceElectron>
-<meltPoint>271</meltPoint>
-<boilPoint>1,560</boilPoint>
-<density>9.75</density>
-<discovery>ancient</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>10</sup> 6s
-                            <sup>2</sup> 6p
-                            <sup>3</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Bismuth" title="Bismuth">Bismuth</a></engName>
-</unsur>
-
-<unsur id="84">
-<nama>Polonium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[209]</massaAtom>
-<electroNegatifitas>2</electroNegatifitas>
-<firstIonizationEnergy>8.417</firstIonizationEnergy>
-<atomicRadius>190</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>6</valenceElectron>
-<meltPoint>254</meltPoint>
-<boilPoint>962</boilPoint>
-<density>9.30</density>
-<discovery>1898</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>10</sup> 6s
-                            <sup>2</sup> 6p
-                            <sup>4</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Polonium" title="Polonium">Polonium</a></engName>
-</unsur>
-
-<unsur id="85">
-<nama>Astatin</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[210]</massaAtom>
-<electroNegatifitas>2.2</electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius>no data</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>7</valenceElectron>
-<meltPoint>302</meltPoint>
-<boilPoint>337</boilPoint>
-<density> </density>
-<discovery>1940</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>10</sup> 6s
-                            <sup>2</sup> 6p
-                            <sup>5</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Astatine" title="Astatine">Astatine</a></engName>
-</unsur>
-
-<unsur id="86">
-<nama>Radon</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[222]</massaAtom>
-<electroNegatifitas>no data</electroNegatifitas>
-<firstIonizationEnergy>10.7485</firstIonizationEnergy>
-<atomicRadius>120</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>145</covalentRadius>
-<valenceElectron>8</valenceElectron>
-<meltPoint>-71</meltPoint>
-<boilPoint>-62</boilPoint>
-<density>9.73</density>
-<discovery>1900</discovery>
-<electronConfiguration>[Xe] 4f
-                            <sup>14</sup> 5d
-                            <sup>10</sup> 6s
-                            <sup>2</sup> 6p
-                            <sup>6</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Radon" title="Radon">Radon</a></engName>
-</unsur>
-
-<unsur id="87">
-<nama>Fransium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[223]</massaAtom>
-<electroNegatifitas>0.7</electroNegatifitas>
-<firstIonizationEnergy>4.0727</firstIonizationEnergy>
-<atomicRadius>no data</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>1</valenceElectron>
-<meltPoint>27</meltPoint>
-<boilPoint>677</boilPoint>
-<density> </density>
-<discovery>1939</discovery>
-<electronConfiguration>[Rn] 7s
-                            <sup>1</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Francium" title="Francium">Francium</a></engName>
-</unsur>
-
-<unsur id="88">
-<nama>Radium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[226]</massaAtom>
-<electroNegatifitas>0.9</electroNegatifitas>
-<firstIonizationEnergy>5.2784</firstIonizationEnergy>
-<atomicRadius>215</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>700</meltPoint>
-<boilPoint>1,737</boilPoint>
-<density>5.50</density>
-<discovery>1898</discovery>
-<electronConfiguration>[Rn] 7s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Radium" title="Radium">Radium</a></engName>
-</unsur>
-
-<unsur id="89">
-<nama>Aktinium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[227]</massaAtom>
-<electroNegatifitas>1.1</electroNegatifitas>
-<firstIonizationEnergy>5.17</firstIonizationEnergy>
-<atomicRadius>195</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,050</meltPoint>
-<boilPoint>3,200</boilPoint>
-<density>10.07</density>
-<discovery>1899</discovery>
-<electronConfiguration>[Rn] 6d
-                            <sup>1</sup> 7s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Actinium" title="Actinium">Actinium</a></engName>
-</unsur>
-
-<unsur id="90">
-<nama>Torium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>232.03806(2)</massaAtom>
-<electroNegatifitas>1.3</electroNegatifitas>
-<firstIonizationEnergy>6.3067</firstIonizationEnergy>
-<atomicRadius>180</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,750</meltPoint>
-<boilPoint>4,790</boilPoint>
-<density>11.72</density>
-<discovery>1829</discovery>
-<electronConfiguration>[Rn] 6d
-                            <sup>2</sup> 7s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Thorium" title="Thorium">Thorium</a></engName>
-</unsur>
-
-<unsur id="91">
-<nama>Protaktinium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>231.03588(2)</massaAtom>
-<electroNegatifitas>1.5</electroNegatifitas>
-<firstIonizationEnergy>5.89</firstIonizationEnergy>
-<atomicRadius>180</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,568</meltPoint>
-<boilPoint> </boilPoint>
-<density>15.40</density>
-<discovery>1913</discovery>
-<electronConfiguration>[Rn] 5f
-                            <sup>2</sup> 6d
-                            <sup>1</sup> 7s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Protactinium" title="Protactinium">Protactinium</a></engName>
-</unsur>
-
-<unsur id="92">
-<nama>Uranium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>238.02891(3)</massaAtom>
-<electroNegatifitas>1.38</electroNegatifitas>
-<firstIonizationEnergy>6.19405</firstIonizationEnergy>
-<atomicRadius>175</atomicRadius>
-<vanDerWaalsRadius>186</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,132</meltPoint>
-<boilPoint>3,818</boilPoint>
-<density>18.95</density>
-<discovery>1789</discovery>
-<electronConfiguration>[Rn] 5f
-                            <sup>3</sup> 6d
-                            <sup>1</sup> 7s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Uranium" title="Uranium">Uranium</a></engName>
-</unsur>
-
-<unsur id="93">
-<nama>Neptunium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[237]</massaAtom>
-<electroNegatifitas>1.36</electroNegatifitas>
-<firstIonizationEnergy>6.2657</firstIonizationEnergy>
-<atomicRadius>175</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>640</meltPoint>
-<boilPoint>3,902</boilPoint>
-<density>20.20</density>
-<discovery>1940</discovery>
-<electronConfiguration>[Rn] 5f
-                            <sup>4</sup> 6d
-                            <sup>1</sup> 7s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Neptunium" title="Neptunium">Neptunium</a></engName>
-</unsur>
-
-<unsur id="94">
-<nama>Plutonium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[244]</massaAtom>
-<electroNegatifitas>1.28</electroNegatifitas>
-<firstIonizationEnergy>6.0262</firstIonizationEnergy>
-<atomicRadius>175</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>640</meltPoint>
-<boilPoint>3,235</boilPoint>
-<density>19.84</density>
-<discovery>1940</discovery>
-<electronConfiguration>[Rn] 5f
-                            <sup>6</sup> 7s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Plutonium" title="Plutonium">Plutonium</a></engName>
-</unsur>
-
-<unsur id="95">
-<nama>Amerisium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[243]</massaAtom>
-<electroNegatifitas>1.3</electroNegatifitas>
-<firstIonizationEnergy>5.9738</firstIonizationEnergy>
-<atomicRadius>175</atomicRadius>
-<vanDerWaalsRadius>no data</vanDerWaalsRadius>
-<covalentRadius>no data</covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>994</meltPoint>
-<boilPoint>2,607</boilPoint>
-<density>13.67</density>
-<discovery>1944</discovery>
-<electronConfiguration>[Rn] 5f
-                            <sup>7</sup> 7s
-                            <sup>2</sup>
-                        </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Americium" title="Americium">Americium</a></engName>
-</unsur>
-
-<unsur id="96">
-<nama>Curium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[247]</massaAtom>
-<electroNegatifitas>1.3</electroNegatifitas>
-<firstIonizationEnergy>5.9915</firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,340</meltPoint>
-<boilPoint> </boilPoint>
-<density>13.50</density>
-<discovery>1944</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Curium" title="Curium">Curium</a></engName>
-</unsur>
-
-<unsur id="97">
-<nama>Berkelium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[247]</massaAtom>
-<electroNegatifitas>1.3</electroNegatifitas>
-<firstIonizationEnergy>6.1979</firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>986</meltPoint>
-<boilPoint> </boilPoint>
-<density>14.78</density>
-<discovery>1949</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Berkelium" title="Berkelium">Berkelium</a></engName>
-</unsur>
-
-<unsur id="98">
-<nama>Kalifornium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[251]</massaAtom>
-<electroNegatifitas>1.3</electroNegatifitas>
-<firstIonizationEnergy>6.2817</firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>900</meltPoint>
-<boilPoint> </boilPoint>
-<density>15.10</density>
-<discovery>1950</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Californium" title="Californium">Californium</a></engName>
-</unsur>
-
-<unsur id="99">
-<nama>Einsteinium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[252]</massaAtom>
-<electroNegatifitas>1.3</electroNegatifitas>
-<firstIonizationEnergy>6.42</firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>860</meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1952</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Einsteinium" title="Einsteinium">Einsteinium</a></engName>
-</unsur>
-
-<unsur id="100">
-<nama>Fermium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[257]</massaAtom>
-<electroNegatifitas>1.3</electroNegatifitas>
-<firstIonizationEnergy>6.5</firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>1,527</meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1952</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Fermium" title="Fermium">Fermium</a></engName>
-</unsur>
-
-<unsur id="101">
-<nama>Mendelevium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[258]</massaAtom>
-<electroNegatifitas>1.3</electroNegatifitas>
-<firstIonizationEnergy>6.58</firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1955</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Mendelevium" title="Mendelevium">Mendelevium</a></engName>
-</unsur>
-
-<unsur id="102">
-<nama>Nobelium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[259]</massaAtom>
-<electroNegatifitas>1.3</electroNegatifitas>
-<firstIonizationEnergy>6.65</firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron>2</valenceElectron>
-<meltPoint>827</meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1958</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Nobelium" title="Nobelium">Nobelium</a></engName>
-</unsur>
-
-<unsur id="103">
-<nama>Lawrensium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[266]</massaAtom>
-<electroNegatifitas>1.3</electroNegatifitas>
-<firstIonizationEnergy>4.9</firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron>3</valenceElectron>
-<meltPoint>1,627</meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1961</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Lawrencium" title="Lawrencium">Lawrencium</a></engName>
-</unsur>
-
-<unsur id="104">
-<nama>Rutherfordium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[267]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy>6</firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1964</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Rutherfordium" title="Rutherfordium">Rutherfordium</a></engName>
-</unsur>
-
-<unsur id="105">
-<nama>Dubnium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[268]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1967</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Dubnium" title="Dubnium">Dubnium</a></engName>
-</unsur>
-
-<unsur id="106">
-<nama>Seaborgium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[269]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1974</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Seaborgium" title="Seaborgium">Seaborgium</a></engName>
-</unsur>
-
-<unsur id="107">
-<nama>Bohrium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[270]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1981</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Bohrium" title="Bohrium">Bohrium</a></engName>
-</unsur>
-
-<unsur id="108">
-<nama>Hassium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[277]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1984</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Hassium" title="Hassium">Hassium</a></engName>
-</unsur>
-
-<unsur id="109">
-<nama>Meitnerium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[278]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1982</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Meitnerium" title="Meitnerium">Meitnerium</a></engName>
-</unsur>
-
-<unsur id="110">
-<nama>Darmstadtium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[281]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1994</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Darmstadtium" title="Darmstadtium">Darmstadtium</a></engName>
-</unsur>
-
-<unsur id="111">
-<nama>Roentgenium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[282]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1994</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Roentgenium" title="Roentgenium">Roentgenium</a></engName>
-</unsur>
-
-<unsur id="112">
-<nama>Kopernisium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[285]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1996</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Copernicium" title="Copernicium">Copernicium</a></engName>
-</unsur>
-
-<unsur id="113">
-<nama>Nihonium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[286]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>2004</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Nihonium" title="Nihonium">Nihonium</a></engName>
-</unsur>
-
-<unsur id="114">
-<nama>Flerovium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[289]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1999</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Flerovium" title="Flerovium">Flerovium</a></engName>
-</unsur>
-
-<unsur id="115">
-<nama>Moskovium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[290]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>2004</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Moscovium" title="Moscovium">Moscovium</a></engName>
-</unsur>
-
-<unsur id="116">
-<nama>Livermorium</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[293]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>1999</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Livermorium" title="Livermorium">Livermorium</a></engName>
-</unsur>
-
-<unsur id="117">
-<nama>Tenesin</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[294]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>2010</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Tennessine" title="Tennessine">Tennessine</a></engName>
-</unsur>
-
-<unsur id="118">
-<nama>Oganeson</nama>
-<penjelasan> </penjelasan>
-<massaAtom>[294]</massaAtom>
-<electroNegatifitas> </electroNegatifitas>
-<firstIonizationEnergy> </firstIonizationEnergy>
-<atomicRadius> </atomicRadius>
-<vanDerWaalsRadius> </vanDerWaalsRadius>
-<covalentRadius> </covalentRadius>
-<valenceElectron> </valenceElectron>
-<meltPoint> </meltPoint>
-<boilPoint> </boilPoint>
-<density> </density>
-<discovery>2016</discovery>
-<electronConfiguration> </electronConfiguration>
-<engName><a href="https://en.wikipedia.org/wiki/Oganesson" title="Oganesson">Oganesson</a></engName>
-</unsur>
+    <unsur id="1">
+        <nama>Hidrogen</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>1.00794(7)</massaAtom>
+        <electroNegatifitas>2.2</electroNegatifitas>
+        <firstIonizationEnergy>13.59844</firstIonizationEnergy>
+        <atomicRadius>25</atomicRadius>
+        <vanDerWaalsRadius>120</vanDerWaalsRadius>
+        <covalentRadius>38</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>-259</meltPoint>
+        <boilPoint>-253</boilPoint>
+        <density>0.09</density>
+        <discovery>1776</discovery>
+        <electronConfiguration>1s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Hydrogen" title="Hydrogen">Hydrogen</a>
+        </engName>
+    </unsur>
+
+    <unsur id="2">
+        <nama>Helium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>4.002602(2)</massaAtom>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>24.58741</firstIonizationEnergy>
+        <atomicRadius>31</atomicRadius>
+        <vanDerWaalsRadius>140</vanDerWaalsRadius>
+        <covalentRadius>32</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>-272</meltPoint>
+        <boilPoint>-269</boilPoint>
+        <density>0.18</density>
+        <discovery>1895</discovery>
+        <electronConfiguration>1s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Helium" title="Helium">Helium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="3">
+        <nama>Litium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>6.941(2)</massaAtom>
+        <electroNegatifitas>0.98</electroNegatifitas>
+        <firstIonizationEnergy>5.39172</firstIonizationEnergy>
+        <atomicRadius>145</atomicRadius>
+        <vanDerWaalsRadius>182</vanDerWaalsRadius>
+        <covalentRadius>134</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>180</meltPoint>
+        <boilPoint>1,347</boilPoint>
+        <density>0.53</density>
+        <discovery>1817</discovery>
+        <electronConfiguration>[He] 2s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Lithium" title="Lithium">Lithium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="4">
+        <nama>Berilium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>9.012182(3)</massaAtom>
+        <electroNegatifitas>1.57</electroNegatifitas>
+        <firstIonizationEnergy>9.3227</firstIonizationEnergy>
+        <atomicRadius>105</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>90</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,278</meltPoint>
+        <boilPoint>2,970</boilPoint>
+        <density>1.85</density>
+        <discovery>1797</discovery>
+        <electronConfiguration>[He] 2s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Beryllium" title="Beryllium">Beryllium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="5">
+        <nama>Boron</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>10.811(7)</massaAtom>
+        <electroNegatifitas>2.04</electroNegatifitas>
+        <firstIonizationEnergy>8.29803</firstIonizationEnergy>
+        <atomicRadius>85</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>82</covalentRadius>
+        <valenceElectron>3</valenceElectron>
+        <meltPoint>2,300</meltPoint>
+        <boilPoint>2,550</boilPoint>
+        <density>2.34</density>
+        <discovery>1808</discovery>
+        <electronConfiguration>[He] 2s
+            <sup>2</sup>
+            2p
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Boron" title="Boron">Boron</a>
+        </engName>
+    </unsur>
+
+    <unsur id="6">
+        <nama>Karbon</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>12.0107(8)</massaAtom>
+        <electroNegatifitas>2.55</electroNegatifitas>
+        <firstIonizationEnergy>11.2603</firstIonizationEnergy>
+        <atomicRadius>70</atomicRadius>
+        <vanDerWaalsRadius>170</vanDerWaalsRadius>
+        <covalentRadius>77</covalentRadius>
+        <valenceElectron>4</valenceElectron>
+        <meltPoint>3,500</meltPoint>
+        <boilPoint>4,827</boilPoint>
+        <density>2.26</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[He] 2s
+            <sup>2</sup>
+            2p
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Carbon" title="Carbon">Carbon</a>
+        </engName>
+    </unsur>
+
+    <unsur id="7">
+        <nama>Nitrogen</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>14.0067(2)</massaAtom>
+        <electroNegatifitas>3.04</electroNegatifitas>
+        <firstIonizationEnergy>14.53414</firstIonizationEnergy>
+        <atomicRadius>65</atomicRadius>
+        <vanDerWaalsRadius>155</vanDerWaalsRadius>
+        <covalentRadius>75</covalentRadius>
+        <valenceElectron>5</valenceElectron>
+        <meltPoint>-210</meltPoint>
+        <boilPoint>-196</boilPoint>
+        <density>1.25</density>
+        <discovery>1772</discovery>
+        <electronConfiguration>[He] 2s
+            <sup>2</sup>
+            2p
+            <sup>3</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Nitrogen" title="Nitrogen">Nitrogen</a>
+        </engName>
+    </unsur>
+
+    <unsur id="8">
+        <nama>Oksigen</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>15.9994(3)</massaAtom>
+        <electroNegatifitas>3.44</electroNegatifitas>
+        <firstIonizationEnergy>13.61806</firstIonizationEnergy>
+        <atomicRadius>60</atomicRadius>
+        <vanDerWaalsRadius>152</vanDerWaalsRadius>
+        <covalentRadius>73</covalentRadius>
+        <valenceElectron>6</valenceElectron>
+        <meltPoint>-218</meltPoint>
+        <boilPoint>-183</boilPoint>
+        <density>1.43</density>
+        <discovery>1774</discovery>
+        <electronConfiguration>[He] 2s
+            <sup>2</sup>
+            2p
+            <sup>4</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Oxygen" title="Oxygen">Oxygen</a>
+        </engName>
+    </unsur>
+
+    <unsur id="9">
+        <nama>Fluor</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>18.9984032(5)</massaAtom>
+        <electroNegatifitas>3.98</electroNegatifitas>
+        <firstIonizationEnergy>17.42282</firstIonizationEnergy>
+        <atomicRadius>50</atomicRadius>
+        <vanDerWaalsRadius>147</vanDerWaalsRadius>
+        <covalentRadius>71</covalentRadius>
+        <valenceElectron>7</valenceElectron>
+        <meltPoint>-220</meltPoint>
+        <boilPoint>-188</boilPoint>
+        <density>1.70</density>
+        <discovery>1886</discovery>
+        <electronConfiguration>[He] 2s
+            <sup>2</sup>
+            2p
+            <sup>5</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Fluorine" title="Fluorine">Fluorine</a>
+        </engName>
+    </unsur>
+
+    <unsur id="10">
+        <nama>Neon</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>20.10097(6)</massaAtom>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>21.5646</firstIonizationEnergy>
+        <atomicRadius>38</atomicRadius>
+        <vanDerWaalsRadius>154</vanDerWaalsRadius>
+        <covalentRadius>69</covalentRadius>
+        <valenceElectron>8</valenceElectron>
+        <meltPoint>-249</meltPoint>
+        <boilPoint>-246</boilPoint>
+        <density>0.90</density>
+        <discovery>1898</discovery>
+        <electronConfiguration>[He] 2s
+            <sup>2</sup>
+            2p
+            <sup>6</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Neon" title="Neon">Neon</a>
+        </engName>
+    </unsur>
+
+    <unsur id="11">
+        <nama>Natrium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>22.98976928(2)</massaAtom>
+        <electroNegatifitas>0.93</electroNegatifitas>
+        <firstIonizationEnergy>5.13908</firstIonizationEnergy>
+        <atomicRadius>180</atomicRadius>
+        <vanDerWaalsRadius>227</vanDerWaalsRadius>
+        <covalentRadius>154</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>98</meltPoint>
+        <boilPoint>883</boilPoint>
+        <density>0.97</density>
+        <discovery>1807</discovery>
+        <electronConfiguration>[Ne] 3s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Sodium" title="Sodium">Sodium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="12">
+        <nama>Magnesium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>24.3050(6)</massaAtom>
+        <electroNegatifitas>1.31</electroNegatifitas>
+        <firstIonizationEnergy>7.64624</firstIonizationEnergy>
+        <atomicRadius>150</atomicRadius>
+        <vanDerWaalsRadius>173</vanDerWaalsRadius>
+        <covalentRadius>130</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>639</meltPoint>
+        <boilPoint>1,090</boilPoint>
+        <density>1.74</density>
+        <discovery>1755</discovery>
+        <electronConfiguration>[Ne] 3s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Magnesium" title="Magnesium">Magnesium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="13">
+        <nama>Alumunium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>26.9815386(8)</massaAtom>
+        <electroNegatifitas>1.61</electroNegatifitas>
+        <firstIonizationEnergy>5.98577</firstIonizationEnergy>
+        <atomicRadius>125</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>118</covalentRadius>
+        <valenceElectron>3</valenceElectron>
+        <meltPoint>660</meltPoint>
+        <boilPoint>2,467</boilPoint>
+        <density>2.70</density>
+        <discovery>1825</discovery>
+        <electronConfiguration>[Ne] 3s
+            <sup>2</sup>
+            3p
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Aluminium" title="Aluminium">Aluminium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="14">
+        <nama>Silikon</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>28.0855(3)</massaAtom>
+        <electroNegatifitas>1.9</electroNegatifitas>
+        <firstIonizationEnergy>8.15169</firstIonizationEnergy>
+        <atomicRadius>110</atomicRadius>
+        <vanDerWaalsRadius>210</vanDerWaalsRadius>
+        <covalentRadius>111</covalentRadius>
+        <valenceElectron>4</valenceElectron>
+        <meltPoint>1,410</meltPoint>
+        <boilPoint>2,355</boilPoint>
+        <density>2.33</density>
+        <discovery>1824</discovery>
+        <electronConfiguration>[Ne] 3s
+            <sup>2</sup>
+            3p
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Silicon" title="Silicon">Silicon</a>
+        </engName>
+    </unsur>
+
+    <unsur id="15">
+        <nama>Fosfor</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>30.973762(2)</massaAtom>
+        <electroNegatifitas>2.19</electroNegatifitas>
+        <firstIonizationEnergy>10.48669</firstIonizationEnergy>
+        <atomicRadius>100</atomicRadius>
+        <vanDerWaalsRadius>180</vanDerWaalsRadius>
+        <covalentRadius>106</covalentRadius>
+        <valenceElectron>5</valenceElectron>
+        <meltPoint>44</meltPoint>
+        <boilPoint>280</boilPoint>
+        <density>1.82</density>
+        <discovery>1669</discovery>
+        <electronConfiguration>[Ne] 3s
+            <sup>2</sup>
+            3p
+            <sup>3</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Phosphorus" title="Phosphorus">Phosphorus</a>
+        </engName>
+    </unsur>
+
+    <unsur id="16">
+        <nama>Belerang</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>32.065(5)</massaAtom>
+        <electroNegatifitas>2.58</electroNegatifitas>
+        <firstIonizationEnergy>10.36001</firstIonizationEnergy>
+        <atomicRadius>100</atomicRadius>
+        <vanDerWaalsRadius>180</vanDerWaalsRadius>
+        <covalentRadius>102</covalentRadius>
+        <valenceElectron>6</valenceElectron>
+        <meltPoint>113</meltPoint>
+        <boilPoint>445</boilPoint>
+        <density>2.07</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[Ne] 3s
+            <sup>2</sup>
+            3p
+            <sup>4</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Sulphur" class="mw-redirect" title="Sulphur">Sulphur</a>
+        </engName>
+    </unsur>
+
+    <unsur id="17">
+        <nama>Klor</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>35.453(2)</massaAtom>
+        <electroNegatifitas>3.16</electroNegatifitas>
+        <firstIonizationEnergy>12.96764</firstIonizationEnergy>
+        <atomicRadius>100</atomicRadius>
+        <vanDerWaalsRadius>175</vanDerWaalsRadius>
+        <covalentRadius>99</covalentRadius>
+        <valenceElectron>7</valenceElectron>
+        <meltPoint>-101</meltPoint>
+        <boilPoint>-35</boilPoint>
+        <density>3.21</density>
+        <discovery>1774</discovery>
+        <electronConfiguration>[Ne] 3s
+            <sup>2</sup>
+            3p
+            <sup>5</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Chlorine" title="Chlorine">Chlorine</a>
+        </engName>
+    </unsur>
+
+    <unsur id="18">
+        <nama>Argon</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>39.948(1)</massaAtom>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>15.75962</firstIonizationEnergy>
+        <atomicRadius>71</atomicRadius>
+        <vanDerWaalsRadius>188</vanDerWaalsRadius>
+        <covalentRadius>97</covalentRadius>
+        <valenceElectron>8</valenceElectron>
+        <meltPoint>-189</meltPoint>
+        <boilPoint>-186</boilPoint>
+        <density>1.78</density>
+        <discovery>1894</discovery>
+        <electronConfiguration>[Ne] 3s
+            <sup>2</sup>
+            3p
+            <sup>6</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Argon" title="Argon">Argon</a>
+        </engName>
+    </unsur>
+
+    <unsur id="19">
+        <nama>Kalium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>39.0983(1)</massaAtom>
+        <electroNegatifitas>0.82</electroNegatifitas>
+        <firstIonizationEnergy>4.34066</firstIonizationEnergy>
+        <atomicRadius>220</atomicRadius>
+        <vanDerWaalsRadius>275</vanDerWaalsRadius>
+        <covalentRadius>196</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>64</meltPoint>
+        <boilPoint>774</boilPoint>
+        <density>0.86</density>
+        <discovery>1807</discovery>
+        <electronConfiguration>[Ar] 4s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Potassium" title="Potassium">Potassium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="20">
+        <nama>Kalsium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>40.078(4)</massaAtom>
+        <electroNegatifitas>1</electroNegatifitas>
+        <firstIonizationEnergy>6.11316</firstIonizationEnergy>
+        <atomicRadius>180</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>174</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>839</meltPoint>
+        <boilPoint>1,484</boilPoint>
+        <density>1.55</density>
+        <discovery>1808</discovery>
+        <electronConfiguration>[Ar] 4s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Calcium" title="Calcium">Calcium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="21">
+        <nama>Skandium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>44.955912(6)</massaAtom>
+        <electroNegatifitas>1.36</electroNegatifitas>
+        <firstIonizationEnergy>6.5615</firstIonizationEnergy>
+        <atomicRadius>160</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>144</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,539</meltPoint>
+        <boilPoint>2,832</boilPoint>
+        <density>2.99</density>
+        <discovery>1879</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>1</sup>
+            4s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Scandium" title="Scandium">Scandium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="22">
+        <nama>Titanium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>47.867(1)</massaAtom>
+        <electroNegatifitas>1.54</electroNegatifitas>
+        <firstIonizationEnergy>6.8281</firstIonizationEnergy>
+        <atomicRadius>140</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>136</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,660</meltPoint>
+        <boilPoint>3,287</boilPoint>
+        <density>4.54</density>
+        <discovery>1791</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>2</sup>
+            4s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Titanium" title="Titanium">Titanium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="23">
+        <nama>Vanadium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>50.9415(1)</massaAtom>
+        <electroNegatifitas>1.63</electroNegatifitas>
+        <firstIonizationEnergy>6.7462</firstIonizationEnergy>
+        <atomicRadius>135</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>125</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,890</meltPoint>
+        <boilPoint>3,380</boilPoint>
+        <density>6.11</density>
+        <discovery>1830</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>3</sup>
+            4s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Vanadium" title="Vanadium">Vanadium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="24">
+        <nama>Krom</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>51.9961(6)</massaAtom>
+        <electroNegatifitas>1.66</electroNegatifitas>
+        <firstIonizationEnergy>6.7665</firstIonizationEnergy>
+        <atomicRadius>140</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>127</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>1,857</meltPoint>
+        <boilPoint>2,672</boilPoint>
+        <density>7.19</density>
+        <discovery>1797</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>5</sup>
+            4s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Chromium" title="Chromium">Chromium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="25">
+        <nama>Mangan</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>54.938045(5)</massaAtom>
+        <electroNegatifitas>1.55</electroNegatifitas>
+        <firstIonizationEnergy>7.43402</firstIonizationEnergy>
+        <atomicRadius>140</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>139</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,245</meltPoint>
+        <boilPoint>1,962</boilPoint>
+        <density>7.43</density>
+        <discovery>1774</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>5</sup>
+            4s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Manganese" title="Manganese">Manganese</a>
+        </engName>
+    </unsur>
+
+    <unsur id="26">
+        <nama>Besi</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>55.845(2)</massaAtom>
+        <electroNegatifitas>1.83</electroNegatifitas>
+        <firstIonizationEnergy>7.9024</firstIonizationEnergy>
+        <atomicRadius>140</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>125</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,535</meltPoint>
+        <boilPoint>2,750</boilPoint>
+        <density>7.87</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>6</sup>
+            4s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Iron" title="Iron">Iron</a>
+        </engName>
+    </unsur>
+
+    <unsur id="27">
+        <nama>Kobalt</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>58.933195(5)</massaAtom>
+        <electroNegatifitas>1.91</electroNegatifitas>
+        <firstIonizationEnergy>7.6398</firstIonizationEnergy>
+        <atomicRadius>135</atomicRadius>
+        <vanDerWaalsRadius>163</vanDerWaalsRadius>
+        <covalentRadius>121</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,495</meltPoint>
+        <boilPoint>2,870</boilPoint>
+        <density>8.90</density>
+        <discovery>1735</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>7</sup>
+            4s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Cobalt" title="Cobalt">Cobalt</a>
+        </engName>
+    </unsur>
+
+    <unsur id="28">
+        <nama>Nikel</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>58.6934(4)</massaAtom>
+        <electroNegatifitas>1.88</electroNegatifitas>
+        <firstIonizationEnergy>7.881</firstIonizationEnergy>
+        <atomicRadius>135</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>126</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,453</meltPoint>
+        <boilPoint>2,732</boilPoint>
+        <density>8.90</density>
+        <discovery>1751</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>8</sup>
+            4s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Nickel" title="Nickel">Nickel</a>
+        </engName>
+    </unsur>
+
+    <unsur id="29">
+        <nama>Tembaga</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>63.546(3)</massaAtom>
+        <electroNegatifitas>1.9</electroNegatifitas>
+        <firstIonizationEnergy>7.72638</firstIonizationEnergy>
+        <atomicRadius>135</atomicRadius>
+        <vanDerWaalsRadius>140</vanDerWaalsRadius>
+        <covalentRadius>138</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>1,083</meltPoint>
+        <boilPoint>2,567</boilPoint>
+        <density>8.96</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>10</sup>
+            4s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Copper" title="Copper">Copper</a>
+        </engName>
+    </unsur>
+
+    <unsur id="30">
+        <nama>Seng</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>65.38(2)</massaAtom>
+        <electroNegatifitas>1.65</electroNegatifitas>
+        <firstIonizationEnergy>9.3942</firstIonizationEnergy>
+        <atomicRadius>135</atomicRadius>
+        <vanDerWaalsRadius>139</vanDerWaalsRadius>
+        <covalentRadius>131</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>420</meltPoint>
+        <boilPoint>907</boilPoint>
+        <density>7.13</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>10</sup>
+            4s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Zinc" title="Zinc">Zinc</a>
+        </engName>
+    </unsur>
+
+    <unsur id="31">
+        <nama>Galium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>69.723(1)</massaAtom>
+        <electroNegatifitas>1.81</electroNegatifitas>
+        <firstIonizationEnergy>5.9993</firstIonizationEnergy>
+        <atomicRadius>130</atomicRadius>
+        <vanDerWaalsRadius>187</vanDerWaalsRadius>
+        <covalentRadius>126</covalentRadius>
+        <valenceElectron>3</valenceElectron>
+        <meltPoint>30</meltPoint>
+        <boilPoint>2,403</boilPoint>
+        <density>5.91</density>
+        <discovery>1875</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>10</sup>
+            4s
+            <sup>2</sup>
+            4p
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Gallium" title="Gallium">Gallium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="32">
+        <nama>Germanium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>72.64(1)</massaAtom>
+        <electroNegatifitas>2.01</electroNegatifitas>
+        <firstIonizationEnergy>7.8994</firstIonizationEnergy>
+        <atomicRadius>125</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>122</covalentRadius>
+        <valenceElectron>4</valenceElectron>
+        <meltPoint>937</meltPoint>
+        <boilPoint>2,830</boilPoint>
+        <density>5.32</density>
+        <discovery>1886</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>10</sup>
+            4s
+            <sup>2</sup>
+            4p
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Germanium" title="Germanium">Germanium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="33">
+        <nama>Arsen</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>74.92160(2)</massaAtom>
+        <electroNegatifitas>2.18</electroNegatifitas>
+        <firstIonizationEnergy>9.7886</firstIonizationEnergy>
+        <atomicRadius>115</atomicRadius>
+        <vanDerWaalsRadius>185</vanDerWaalsRadius>
+        <covalentRadius>119</covalentRadius>
+        <valenceElectron>5</valenceElectron>
+        <meltPoint>81</meltPoint>
+        <boilPoint>613</boilPoint>
+        <density>5.72</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>10</sup>
+            4s
+            <sup>2</sup>
+            4p
+            <sup>3</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Arsenic" title="Arsenic">Arsenic</a>
+        </engName>
+    </unsur>
+
+    <unsur id="34">
+        <nama>Selenium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>78.96(3)</massaAtom>
+        <electroNegatifitas>2.55</electroNegatifitas>
+        <firstIonizationEnergy>9.75238</firstIonizationEnergy>
+        <atomicRadius>115</atomicRadius>
+        <vanDerWaalsRadius>190</vanDerWaalsRadius>
+        <covalentRadius>116</covalentRadius>
+        <valenceElectron>6</valenceElectron>
+        <meltPoint>217</meltPoint>
+        <boilPoint>685</boilPoint>
+        <density>4.79</density>
+        <discovery>1817</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>10</sup>
+            4s
+            <sup>2</sup>
+            4p
+            <sup>4</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Selenium" title="Selenium">Selenium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="35">
+        <nama>Brom</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>79.904(1)</massaAtom>
+        <electroNegatifitas>2.96</electroNegatifitas>
+        <firstIonizationEnergy>11.81381</firstIonizationEnergy>
+        <atomicRadius>115</atomicRadius>
+        <vanDerWaalsRadius>185</vanDerWaalsRadius>
+        <covalentRadius>114</covalentRadius>
+        <valenceElectron>7</valenceElectron>
+        <meltPoint>-7</meltPoint>
+        <boilPoint>59</boilPoint>
+        <density>3.12</density>
+        <discovery>1826</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>10</sup>
+            4s
+            <sup>2</sup>
+            4p
+            <sup>5</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Bromine" title="Bromine">Bromine</a>
+        </engName>
+    </unsur>
+
+    <unsur id="36">
+        <nama>Kripton</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>83.798(2)</massaAtom>
+        <electroNegatifitas>3</electroNegatifitas>
+        <firstIonizationEnergy>13.99961</firstIonizationEnergy>
+        <atomicRadius>88</atomicRadius>
+        <vanDerWaalsRadius>202</vanDerWaalsRadius>
+        <covalentRadius>110</covalentRadius>
+        <valenceElectron>8</valenceElectron>
+        <meltPoint>-157</meltPoint>
+        <boilPoint>-153</boilPoint>
+        <density>3.75</density>
+        <discovery>1898</discovery>
+        <electronConfiguration>[Ar] 3d
+            <sup>10</sup>
+            4s
+            <sup>2</sup>
+            4p
+            <sup>6</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Krypton" title="Krypton">Krypton</a>
+        </engName>
+    </unsur>
+
+    <unsur id="37">
+        <nama>Rubidium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>85.4678(3)</massaAtom>
+        <electroNegatifitas>0.82</electroNegatifitas>
+        <firstIonizationEnergy>4.17713</firstIonizationEnergy>
+        <atomicRadius>235</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>211</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>39</meltPoint>
+        <boilPoint>688</boilPoint>
+        <density>1.63</density>
+        <discovery>1861</discovery>
+        <electronConfiguration>[Kr] 5s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Rubidium" title="Rubidium">Rubidium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="38">
+        <nama>Strontium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>87.62(1)</massaAtom>
+        <electroNegatifitas>0.95</electroNegatifitas>
+        <firstIonizationEnergy>5.6949</firstIonizationEnergy>
+        <atomicRadius>200</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>192</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>769</meltPoint>
+        <boilPoint>1,384</boilPoint>
+        <density>2.54</density>
+        <discovery>1790</discovery>
+        <electronConfiguration>[Kr] 5s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Strontium" title="Strontium">Strontium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="39">
+        <nama>Itrium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>88.90585(2)</massaAtom>
+        <electroNegatifitas>1.22</electroNegatifitas>
+        <firstIonizationEnergy>6.2171</firstIonizationEnergy>
+        <atomicRadius>180</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>162</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,523</meltPoint>
+        <boilPoint>3,337</boilPoint>
+        <density>4.47</density>
+        <discovery>1794</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>1</sup>
+            5s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Yttrium" title="Yttrium">Yttrium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="40">
+        <nama>Zirkonium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>91.224(2)</massaAtom>
+        <electroNegatifitas>1.33</electroNegatifitas>
+        <firstIonizationEnergy>6.6339</firstIonizationEnergy>
+        <atomicRadius>155</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>148</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,852</meltPoint>
+        <boilPoint>4,377</boilPoint>
+        <density>6.51</density>
+        <discovery>1789</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>2</sup>
+            5s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Zirconium" title="Zirconium">Zirconium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="41">
+        <nama>Niobium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>92.90638(2)</massaAtom>
+        <electroNegatifitas>1.6</electroNegatifitas>
+        <firstIonizationEnergy>6.75885</firstIonizationEnergy>
+        <atomicRadius>145</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>137</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>2,468</meltPoint>
+        <boilPoint>4,927</boilPoint>
+        <density>8.57</density>
+        <discovery>1801</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>4</sup>
+            5s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Niobium" title="Niobium">Niobium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="42">
+        <nama>Molibden</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>95.96(2)</massaAtom>
+        <electroNegatifitas>2.16</electroNegatifitas>
+        <firstIonizationEnergy>7.09243</firstIonizationEnergy>
+        <atomicRadius>145</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>145</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>2,617</meltPoint>
+        <boilPoint>4,612</boilPoint>
+        <density>10.22</density>
+        <discovery>1781</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>5</sup>
+            5s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Molybdenum" title="Molybdenum">Molybdenum</a>
+        </engName>
+    </unsur>
+
+    <unsur id="43">
+        <nama>Teknetium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[98]</massaAtom>
+        <electroNegatifitas>1.9</electroNegatifitas>
+        <firstIonizationEnergy>7.28</firstIonizationEnergy>
+        <atomicRadius>135</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>156</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>2,200</meltPoint>
+        <boilPoint>4,877</boilPoint>
+        <density>11.50</density>
+        <discovery>1937</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>5</sup>
+            5s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Technetium" title="Technetium">Technetium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="44">
+        <nama>Ruthenium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>101.07(2)</massaAtom>
+        <electroNegatifitas>2.2</electroNegatifitas>
+        <firstIonizationEnergy>7.3605</firstIonizationEnergy>
+        <atomicRadius>130</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>126</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>2,250</meltPoint>
+        <boilPoint>3,900</boilPoint>
+        <density>12.37</density>
+        <discovery>1844</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>7</sup>
+            5s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Ruthenium" title="Ruthenium">Ruthenium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="45">
+        <nama>Rodium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>102.90550(2)</massaAtom>
+        <electroNegatifitas>2.28</electroNegatifitas>
+        <firstIonizationEnergy>7.4589</firstIonizationEnergy>
+        <atomicRadius>135</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>135</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>1,966</meltPoint>
+        <boilPoint>3,727</boilPoint>
+        <density>12.41</density>
+        <discovery>1803</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>8</sup>
+            5s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Rhodium" title="Rhodium">Rhodium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="46">
+        <nama>Paladium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>106.42(1)</massaAtom>
+        <electroNegatifitas>2.2</electroNegatifitas>
+        <firstIonizationEnergy>8.3369</firstIonizationEnergy>
+        <atomicRadius>140</atomicRadius>
+        <vanDerWaalsRadius>163</vanDerWaalsRadius>
+        <covalentRadius>131</covalentRadius>
+        <valenceElectron>18</valenceElectron>
+        <meltPoint>1,552</meltPoint>
+        <boilPoint>2,927</boilPoint>
+        <density>12.02</density>
+        <discovery>1803</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>10</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Palladium" title="Palladium">Palladium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="47">
+        <nama>Perak</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>107.8682(2)</massaAtom>
+        <electroNegatifitas>1.93</electroNegatifitas>
+        <firstIonizationEnergy>7.5762</firstIonizationEnergy>
+        <atomicRadius>160</atomicRadius>
+        <vanDerWaalsRadius>172</vanDerWaalsRadius>
+        <covalentRadius>153</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>962</meltPoint>
+        <boilPoint>2,212</boilPoint>
+        <density>10.50</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>10</sup>
+            5s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Silver" title="Silver">Silver</a>
+        </engName>
+    </unsur>
+
+    <unsur id="48">
+        <nama>Kadmium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>112.411(8)</massaAtom>
+        <electroNegatifitas>1.69</electroNegatifitas>
+        <firstIonizationEnergy>8.9938</firstIonizationEnergy>
+        <atomicRadius>155</atomicRadius>
+        <vanDerWaalsRadius>158</vanDerWaalsRadius>
+        <covalentRadius>148</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>321</meltPoint>
+        <boilPoint>765</boilPoint>
+        <density>8.65</density>
+        <discovery>1817</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>10</sup>
+            5s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Cadmium" title="Cadmium">Cadmium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="49">
+        <nama>Indium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>114.818(3)</massaAtom>
+        <electroNegatifitas>1.78</electroNegatifitas>
+        <firstIonizationEnergy>5.78636</firstIonizationEnergy>
+        <atomicRadius>155</atomicRadius>
+        <vanDerWaalsRadius>193</vanDerWaalsRadius>
+        <covalentRadius>144</covalentRadius>
+        <valenceElectron>3</valenceElectron>
+        <meltPoint>157</meltPoint>
+        <boilPoint>2,000</boilPoint>
+        <density>7.31</density>
+        <discovery>1863</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>10</sup>
+            5s
+            <sup>2</sup>
+            5p
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Indium" title="Indium">Indium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="50">
+        <nama>Timah</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>118.710(7)</massaAtom>
+        <electroNegatifitas>1.96</electroNegatifitas>
+        <firstIonizationEnergy>7.3439</firstIonizationEnergy>
+        <atomicRadius>145</atomicRadius>
+        <vanDerWaalsRadius>217</vanDerWaalsRadius>
+        <covalentRadius>141</covalentRadius>
+        <valenceElectron>4</valenceElectron>
+        <meltPoint>232</meltPoint>
+        <boilPoint>2,270</boilPoint>
+        <density>7.31</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>10</sup>
+            5s
+            <sup>2</sup>
+            5p
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Tin" title="Tin">Tin</a>
+        </engName>
+    </unsur>
+
+    <unsur id="51">
+        <nama>Antimon</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>121.760(1)</massaAtom>
+        <electroNegatifitas>2.05</electroNegatifitas>
+        <firstIonizationEnergy>8.6084</firstIonizationEnergy>
+        <atomicRadius>145</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>138</covalentRadius>
+        <valenceElectron>5</valenceElectron>
+        <meltPoint>630</meltPoint>
+        <boilPoint>1,750</boilPoint>
+        <density>6.68</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>10</sup>
+            5s
+            <sup>2</sup>
+            5p
+            <sup>3</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Antimony" title="Antimony">Antimony</a>
+        </engName>
+    </unsur>
+
+    <unsur id="52">
+        <nama>Telurium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>127.60(3)</massaAtom>
+        <electroNegatifitas>2.1</electroNegatifitas>
+        <firstIonizationEnergy>9.0096</firstIonizationEnergy>
+        <atomicRadius>140</atomicRadius>
+        <vanDerWaalsRadius>206</vanDerWaalsRadius>
+        <covalentRadius>135</covalentRadius>
+        <valenceElectron>6</valenceElectron>
+        <meltPoint>449</meltPoint>
+        <boilPoint>990</boilPoint>
+        <density>6.24</density>
+        <discovery>1783</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>10</sup>
+            5s
+            <sup>2</sup>
+            5p
+            <sup>4</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Tellurium" title="Tellurium">Tellurium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="53">
+        <nama>Yodium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>126.90447(3)</massaAtom>
+        <electroNegatifitas>2.66</electroNegatifitas>
+        <firstIonizationEnergy>10.45126</firstIonizationEnergy>
+        <atomicRadius>140</atomicRadius>
+        <vanDerWaalsRadius>198</vanDerWaalsRadius>
+        <covalentRadius>133</covalentRadius>
+        <valenceElectron>7</valenceElectron>
+        <meltPoint>114</meltPoint>
+        <boilPoint>184</boilPoint>
+        <density>4.93</density>
+        <discovery>1811</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>10</sup>
+            5s
+            <sup>2</sup>
+            5p
+            <sup>5</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Iodine" title="Iodine">Iodine</a>
+        </engName>
+    </unsur>
+
+    <unsur id="54">
+        <nama>Xenon</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>131.293(6)</massaAtom>
+        <electroNegatifitas>2.6</electroNegatifitas>
+        <firstIonizationEnergy>12.1298</firstIonizationEnergy>
+        <atomicRadius>108</atomicRadius>
+        <vanDerWaalsRadius>216</vanDerWaalsRadius>
+        <covalentRadius>130</covalentRadius>
+        <valenceElectron>8</valenceElectron>
+        <meltPoint>-112</meltPoint>
+        <boilPoint>-108</boilPoint>
+        <density>5.90</density>
+        <discovery>1898</discovery>
+        <electronConfiguration>[Kr] 4d
+            <sup>10</sup>
+            5s
+            <sup>2</sup>
+            5p
+            <sup>6</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Xenon" title="Xenon">Xenon</a>
+        </engName>
+    </unsur>
+
+    <unsur id="55">
+        <nama>Sesium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>132.9054519(2)</massaAtom>
+        <electroNegatifitas>0.79</electroNegatifitas>
+        <firstIonizationEnergy>3.8939</firstIonizationEnergy>
+        <atomicRadius>260</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>225</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>29</meltPoint>
+        <boilPoint>678</boilPoint>
+        <density>1.87</density>
+        <discovery>1860</discovery>
+        <electronConfiguration>[Xe] 6s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Caesium" title="Caesium">Caesium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="56">
+        <nama>Barium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>137.327(7)</massaAtom>
+        <electroNegatifitas>0.89</electroNegatifitas>
+        <firstIonizationEnergy>5.2117</firstIonizationEnergy>
+        <atomicRadius>215</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>198</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>725</meltPoint>
+        <boilPoint>1,140</boilPoint>
+        <density>3.59</density>
+        <discovery>1808</discovery>
+        <electronConfiguration>[Xe] 6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Barium" title="Barium">Barium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="57">
+        <nama>Lantanum</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>138.90547(7)</massaAtom>
+        <electroNegatifitas>1.1</electroNegatifitas>
+        <firstIonizationEnergy>5.5769</firstIonizationEnergy>
+        <atomicRadius>195</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>169</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>920</meltPoint>
+        <boilPoint>3,469</boilPoint>
+        <density>6.15</density>
+        <discovery>1839</discovery>
+        <electronConfiguration>[Xe] 5d
+            <sup>1</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Lanthanum" title="Lanthanum">Lanthanum</a>
+        </engName>
+    </unsur>
+
+    <unsur id="58">
+        <nama>Serium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>140.116(1)</massaAtom>
+        <electroNegatifitas>1.12</electroNegatifitas>
+        <firstIonizationEnergy>5.5387</firstIonizationEnergy>
+        <atomicRadius>185</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>795</meltPoint>
+        <boilPoint>3,257</boilPoint>
+        <density>6.77</density>
+        <discovery>1803</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>1</sup>
+            5d
+            <sup>1</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Cerium" title="Cerium">Cerium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="59">
+        <nama>Praseodimium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>140.90765(2)</massaAtom>
+        <electroNegatifitas>1.13</electroNegatifitas>
+        <firstIonizationEnergy>5.473</firstIonizationEnergy>
+        <atomicRadius>185</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>935</meltPoint>
+        <boilPoint>3,127</boilPoint>
+        <density>6.77</density>
+        <discovery>1885</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>3</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Praseodymium" title="Praseodymium">Praseodymium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="60">
+        <nama>Neodimium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>144.242(3)</massaAtom>
+        <electroNegatifitas>1.14</electroNegatifitas>
+        <firstIonizationEnergy>5.525</firstIonizationEnergy>
+        <atomicRadius>185</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,010</meltPoint>
+        <boilPoint>3,127</boilPoint>
+        <density>7.01</density>
+        <discovery>1885</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>4</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Neodymium" title="Neodymium">Neodymium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="61">
+        <nama>Prometium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[145]</massaAtom>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>5.582</firstIonizationEnergy>
+        <atomicRadius>185</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,100</meltPoint>
+        <boilPoint>3,000</boilPoint>
+        <density>7.30</density>
+        <discovery>1945</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>5</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Promethium" title="Promethium">Promethium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="62">
+        <nama>Samarium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>150.36(2)</massaAtom>
+        <electroNegatifitas>1.17</electroNegatifitas>
+        <firstIonizationEnergy>5.6436</firstIonizationEnergy>
+        <atomicRadius>185</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,072</meltPoint>
+        <boilPoint>1,900</boilPoint>
+        <density>7.52</density>
+        <discovery>1879</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>6</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Samarium" title="Samarium">Samarium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="63">
+        <nama>Europium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>151.964(1)</massaAtom>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>5.6704</firstIonizationEnergy>
+        <atomicRadius>185</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>822</meltPoint>
+        <boilPoint>1,597</boilPoint>
+        <density>5.24</density>
+        <discovery>1901</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>7</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Europium" title="Europium">Europium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="64">
+        <nama>Gadolinium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>157.25(3)</massaAtom>
+        <electroNegatifitas>1.2</electroNegatifitas>
+        <firstIonizationEnergy>6.1501</firstIonizationEnergy>
+        <atomicRadius>180</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,311</meltPoint>
+        <boilPoint>3,233</boilPoint>
+        <density>7.90</density>
+        <discovery>1880</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>7</sup>
+            5d
+            <sup>1</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Gadolinium" title="Gadolinium">Gadolinium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="65">
+        <nama>Terbium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>158.92535(2)</massaAtom>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>5.8638</firstIonizationEnergy>
+        <atomicRadius>175</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,360</meltPoint>
+        <boilPoint>3,041</boilPoint>
+        <density>8.23</density>
+        <discovery>1843</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>9</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Terbium" title="Terbium">Terbium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="66">
+        <nama>Disprosium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>162.500(1)</massaAtom>
+        <electroNegatifitas>1.22</electroNegatifitas>
+        <firstIonizationEnergy>5.9389</firstIonizationEnergy>
+        <atomicRadius>175</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,412</meltPoint>
+        <boilPoint>2,562</boilPoint>
+        <density>8.55</density>
+        <discovery>1886</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>10</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Dysprosium" title="Dysprosium">Dysprosium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="67">
+        <nama>Holmium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>164.93032(2)</massaAtom>
+        <electroNegatifitas>1.23</electroNegatifitas>
+        <firstIonizationEnergy>6.0215</firstIonizationEnergy>
+        <atomicRadius>175</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,470</meltPoint>
+        <boilPoint>2,720</boilPoint>
+        <density>8.80</density>
+        <discovery>1867</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>11</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Holmium" title="Holmium">Holmium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="68">
+        <nama>Erbium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>167.259(3)</massaAtom>
+        <electroNegatifitas>1.24</electroNegatifitas>
+        <firstIonizationEnergy>6.1077</firstIonizationEnergy>
+        <atomicRadius>175</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,522</meltPoint>
+        <boilPoint>2,510</boilPoint>
+        <density>9.07</density>
+        <discovery>1842</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>12</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Erbium" title="Erbium">Erbium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="69">
+        <nama>Tulium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>168.93421(2)</massaAtom>
+        <electroNegatifitas>1.25</electroNegatifitas>
+        <firstIonizationEnergy>6.18431</firstIonizationEnergy>
+        <atomicRadius>175</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,545</meltPoint>
+        <boilPoint>1,727</boilPoint>
+        <density>9.32</density>
+        <discovery>1879</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>13</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Thulium" title="Thulium">Thulium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="70">
+        <nama>Iterbium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>173.054(5)</massaAtom>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>6.25416</firstIonizationEnergy>
+        <atomicRadius>175</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>824</meltPoint>
+        <boilPoint>1,466</boilPoint>
+        <density>6.90</density>
+        <discovery>1878</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Ytterbium" title="Ytterbium">Ytterbium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="71">
+        <nama>Lutetium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>174.9668(1)</massaAtom>
+        <electroNegatifitas>1.27</electroNegatifitas>
+        <firstIonizationEnergy>5.4259</firstIonizationEnergy>
+        <atomicRadius>175</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>160</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,656</meltPoint>
+        <boilPoint>3,315</boilPoint>
+        <density>9.84</density>
+        <discovery>1907</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>1</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Lutetium" title="Lutetium">Lutetium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="72">
+        <nama>Hafnium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>178.49(2)</massaAtom>
+        <electroNegatifitas>1.3</electroNegatifitas>
+        <firstIonizationEnergy>6.82507</firstIonizationEnergy>
+        <atomicRadius>155</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>150</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>2,150</meltPoint>
+        <boilPoint>5,400</boilPoint>
+        <density>13.31</density>
+        <discovery>1923</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>2</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Hafnium" title="Hafnium">Hafnium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="73">
+        <nama>Tantalum</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>180.94788(2)</massaAtom>
+        <electroNegatifitas>1.5</electroNegatifitas>
+        <firstIonizationEnergy>7.5496</firstIonizationEnergy>
+        <atomicRadius>145</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>138</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>2,996</meltPoint>
+        <boilPoint>5,425</boilPoint>
+        <density>16.65</density>
+        <discovery>1802</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>3</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Tantalum" title="Tantalum">Tantalum</a>
+        </engName>
+    </unsur>
+
+    <unsur id="74">
+        <nama>Tungsten</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>183.84(1)</massaAtom>
+        <electroNegatifitas>2.36</electroNegatifitas>
+        <firstIonizationEnergy>7.864</firstIonizationEnergy>
+        <atomicRadius>135</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>146</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>3,410</meltPoint>
+        <boilPoint>5,660</boilPoint>
+        <density>19.35</density>
+        <discovery>1783</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>4</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Tungsten" title="Tungsten">Tungsten</a>
+        </engName>
+    </unsur>
+
+    <unsur id="75">
+        <nama>Renium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>186.207(1)</massaAtom>
+        <electroNegatifitas>1.9</electroNegatifitas>
+        <firstIonizationEnergy>7.8335</firstIonizationEnergy>
+        <atomicRadius>135</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>159</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>3,180</meltPoint>
+        <boilPoint>5,627</boilPoint>
+        <density>21.04</density>
+        <discovery>1925</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>5</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Rhenium" title="Rhenium">Rhenium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="76">
+        <nama>Osmium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>190.23(3)</massaAtom>
+        <electroNegatifitas>2.2</electroNegatifitas>
+        <firstIonizationEnergy>8.4382</firstIonizationEnergy>
+        <atomicRadius>130</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>128</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>3,045</meltPoint>
+        <boilPoint>5,027</boilPoint>
+        <density>22.60</density>
+        <discovery>1803</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>6</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Osmium" title="Osmium">Osmium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="77">
+        <nama>Iridium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>192.217(3)</massaAtom>
+        <electroNegatifitas>2.2</electroNegatifitas>
+        <firstIonizationEnergy>8.967</firstIonizationEnergy>
+        <atomicRadius>135</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>137</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>2,410</meltPoint>
+        <boilPoint>4,527</boilPoint>
+        <density>22.40</density>
+        <discovery>1803</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>7</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Iridium" title="Iridium">Iridium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="78">
+        <nama>Platina</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>195.084(9)</massaAtom>
+        <electroNegatifitas>2.28</electroNegatifitas>
+        <firstIonizationEnergy>8.9587</firstIonizationEnergy>
+        <atomicRadius>135</atomicRadius>
+        <vanDerWaalsRadius>175</vanDerWaalsRadius>
+        <covalentRadius>128</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>1,772</meltPoint>
+        <boilPoint>3,827</boilPoint>
+        <density>21.45</density>
+        <discovery>1735</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>9</sup>
+            6s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Platinum" title="Platinum">Platinum</a>
+        </engName>
+    </unsur>
+
+    <unsur id="79">
+        <nama>Emas</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>196.966569(4)</massaAtom>
+        <electroNegatifitas>2.54</electroNegatifitas>
+        <firstIonizationEnergy>9.2255</firstIonizationEnergy>
+        <atomicRadius>135</atomicRadius>
+        <vanDerWaalsRadius>166</vanDerWaalsRadius>
+        <covalentRadius>144</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>1,064</meltPoint>
+        <boilPoint>2,807</boilPoint>
+        <density>19.32</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>10</sup>
+            6s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Gold" title="Gold">Gold</a>
+        </engName>
+    </unsur>
+
+    <unsur id="80">
+        <nama>Raksa</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>200.59(2)</massaAtom>
+        <electroNegatifitas>2</electroNegatifitas>
+        <firstIonizationEnergy>10.4375</firstIonizationEnergy>
+        <atomicRadius>150</atomicRadius>
+        <vanDerWaalsRadius>155</vanDerWaalsRadius>
+        <covalentRadius>149</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>-39</meltPoint>
+        <boilPoint>357</boilPoint>
+        <density>13.55</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>10</sup>
+            6s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Mercury_(element)" title="Mercury (element)">Mercury</a>
+        </engName>
+    </unsur>
+
+    <unsur id="81">
+        <nama>Talium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>204.3833(2)</massaAtom>
+        <electroNegatifitas>1.62</electroNegatifitas>
+        <firstIonizationEnergy>6.1082</firstIonizationEnergy>
+        <atomicRadius>190</atomicRadius>
+        <vanDerWaalsRadius>196</vanDerWaalsRadius>
+        <covalentRadius>148</covalentRadius>
+        <valenceElectron>3</valenceElectron>
+        <meltPoint>303</meltPoint>
+        <boilPoint>1,457</boilPoint>
+        <density>11.85</density>
+        <discovery>1861</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>10</sup>
+            6s
+            <sup>2</sup>
+            6p
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Thallium" title="Thallium">Thallium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="82">
+        <nama>Timbal</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>207.2(1)</massaAtom>
+        <electroNegatifitas>2.33</electroNegatifitas>
+        <firstIonizationEnergy>7.41666</firstIonizationEnergy>
+        <atomicRadius>180</atomicRadius>
+        <vanDerWaalsRadius>202</vanDerWaalsRadius>
+        <covalentRadius>147</covalentRadius>
+        <valenceElectron>4</valenceElectron>
+        <meltPoint>327</meltPoint>
+        <boilPoint>1,740</boilPoint>
+        <density>11.35</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>10</sup>
+            6s
+            <sup>2</sup>
+            6p
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Lead" title="Lead">Lead</a>
+        </engName>
+    </unsur>
+
+    <unsur id="83">
+        <nama>Bismut</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>208.98040(1)</massaAtom>
+        <electroNegatifitas>2.02</electroNegatifitas>
+        <firstIonizationEnergy>7.2856</firstIonizationEnergy>
+        <atomicRadius>160</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>146</covalentRadius>
+        <valenceElectron>5</valenceElectron>
+        <meltPoint>271</meltPoint>
+        <boilPoint>1,560</boilPoint>
+        <density>9.75</density>
+        <discovery>ancient</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>10</sup>
+            6s
+            <sup>2</sup>
+            6p
+            <sup>3</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Bismuth" title="Bismuth">Bismuth</a>
+        </engName>
+    </unsur>
+
+    <unsur id="84">
+        <nama>Polonium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[209]</massaAtom>
+        <electroNegatifitas>2</electroNegatifitas>
+        <firstIonizationEnergy>8.417</firstIonizationEnergy>
+        <atomicRadius>190</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>6</valenceElectron>
+        <meltPoint>254</meltPoint>
+        <boilPoint>962</boilPoint>
+        <density>9.30</density>
+        <discovery>1898</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>10</sup>
+            6s
+            <sup>2</sup>
+            6p
+            <sup>4</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Polonium" title="Polonium">Polonium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="85">
+        <nama>Astatin</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[210]</massaAtom>
+        <electroNegatifitas>2.2</electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>7</valenceElectron>
+        <meltPoint>302</meltPoint>
+        <boilPoint>337</boilPoint>
+        <density></density>
+        <discovery>1940</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>10</sup>
+            6s
+            <sup>2</sup>
+            6p
+            <sup>5</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Astatine" title="Astatine">Astatine</a>
+        </engName>
+    </unsur>
+
+    <unsur id="86">
+        <nama>Radon</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[222]</massaAtom>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>10.7485</firstIonizationEnergy>
+        <atomicRadius>120</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>145</covalentRadius>
+        <valenceElectron>8</valenceElectron>
+        <meltPoint>-71</meltPoint>
+        <boilPoint>-62</boilPoint>
+        <density>9.73</density>
+        <discovery>1900</discovery>
+        <electronConfiguration>[Xe] 4f
+            <sup>14</sup>
+            5d
+            <sup>10</sup>
+            6s
+            <sup>2</sup>
+            6p
+            <sup>6</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Radon" title="Radon">Radon</a>
+        </engName>
+    </unsur>
+
+    <unsur id="87">
+        <nama>Fransium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[223]</massaAtom>
+        <electroNegatifitas>0.7</electroNegatifitas>
+        <firstIonizationEnergy>4.0727</firstIonizationEnergy>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>1</valenceElectron>
+        <meltPoint>27</meltPoint>
+        <boilPoint>677</boilPoint>
+        <density></density>
+        <discovery>1939</discovery>
+        <electronConfiguration>[Rn] 7s
+            <sup>1</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Francium" title="Francium">Francium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="88">
+        <nama>Radium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[226]</massaAtom>
+        <electroNegatifitas>0.9</electroNegatifitas>
+        <firstIonizationEnergy>5.2784</firstIonizationEnergy>
+        <atomicRadius>215</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>700</meltPoint>
+        <boilPoint>1,737</boilPoint>
+        <density>5.50</density>
+        <discovery>1898</discovery>
+        <electronConfiguration>[Rn] 7s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Radium" title="Radium">Radium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="89">
+        <nama>Aktinium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[227]</massaAtom>
+        <electroNegatifitas>1.1</electroNegatifitas>
+        <firstIonizationEnergy>5.17</firstIonizationEnergy>
+        <atomicRadius>195</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,050</meltPoint>
+        <boilPoint>3,200</boilPoint>
+        <density>10.07</density>
+        <discovery>1899</discovery>
+        <electronConfiguration>[Rn] 6d
+            <sup>1</sup>
+            7s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Actinium" title="Actinium">Actinium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="90">
+        <nama>Torium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>232.03806(2)</massaAtom>
+        <electroNegatifitas>1.3</electroNegatifitas>
+        <firstIonizationEnergy>6.3067</firstIonizationEnergy>
+        <atomicRadius>180</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,750</meltPoint>
+        <boilPoint>4,790</boilPoint>
+        <density>11.72</density>
+        <discovery>1829</discovery>
+        <electronConfiguration>[Rn] 6d
+            <sup>2</sup>
+            7s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Thorium" title="Thorium">Thorium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="91">
+        <nama>Protaktinium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>231.03588(2)</massaAtom>
+        <electroNegatifitas>1.5</electroNegatifitas>
+        <firstIonizationEnergy>5.89</firstIonizationEnergy>
+        <atomicRadius>180</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,568</meltPoint>
+        <boilPoint></boilPoint>
+        <density>15.40</density>
+        <discovery>1913</discovery>
+        <electronConfiguration>[Rn] 5f
+            <sup>2</sup>
+            6d
+            <sup>1</sup>
+            7s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Protactinium" title="Protactinium">Protactinium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="92">
+        <nama>Uranium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>238.02891(3)</massaAtom>
+        <electroNegatifitas>1.38</electroNegatifitas>
+        <firstIonizationEnergy>6.19405</firstIonizationEnergy>
+        <atomicRadius>175</atomicRadius>
+        <vanDerWaalsRadius>186</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,132</meltPoint>
+        <boilPoint>3,818</boilPoint>
+        <density>18.95</density>
+        <discovery>1789</discovery>
+        <electronConfiguration>[Rn] 5f
+            <sup>3</sup>
+            6d
+            <sup>1</sup>
+            7s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Uranium" title="Uranium">Uranium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="93">
+        <nama>Neptunium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[237]</massaAtom>
+        <electroNegatifitas>1.36</electroNegatifitas>
+        <firstIonizationEnergy>6.2657</firstIonizationEnergy>
+        <atomicRadius>175</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>640</meltPoint>
+        <boilPoint>3,902</boilPoint>
+        <density>20.20</density>
+        <discovery>1940</discovery>
+        <electronConfiguration>[Rn] 5f
+            <sup>4</sup>
+            6d
+            <sup>1</sup>
+            7s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Neptunium" title="Neptunium">Neptunium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="94">
+        <nama>Plutonium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[244]</massaAtom>
+        <electroNegatifitas>1.28</electroNegatifitas>
+        <firstIonizationEnergy>6.0262</firstIonizationEnergy>
+        <atomicRadius>175</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>640</meltPoint>
+        <boilPoint>3,235</boilPoint>
+        <density>19.84</density>
+        <discovery>1940</discovery>
+        <electronConfiguration>[Rn] 5f
+            <sup>6</sup>
+            7s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Plutonium" title="Plutonium">Plutonium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="95">
+        <nama>Amerisium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[243]</massaAtom>
+        <electroNegatifitas>1.3</electroNegatifitas>
+        <firstIonizationEnergy>5.9738</firstIonizationEnergy>
+        <atomicRadius>175</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>994</meltPoint>
+        <boilPoint>2,607</boilPoint>
+        <density>13.67</density>
+        <discovery>1944</discovery>
+        <electronConfiguration>[Rn] 5f
+            <sup>7</sup>
+            7s
+            <sup>2</sup>
+        </electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Americium" title="Americium">Americium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="96">
+        <nama>Curium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[247]</massaAtom>
+        <electroNegatifitas>1.3</electroNegatifitas>
+        <firstIonizationEnergy>5.9915</firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,340</meltPoint>
+        <boilPoint></boilPoint>
+        <density>13.50</density>
+        <discovery>1944</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Curium" title="Curium">Curium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="97">
+        <nama>Berkelium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[247]</massaAtom>
+        <electroNegatifitas>1.3</electroNegatifitas>
+        <firstIonizationEnergy>6.1979</firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>986</meltPoint>
+        <boilPoint></boilPoint>
+        <density>14.78</density>
+        <discovery>1949</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Berkelium" title="Berkelium">Berkelium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="98">
+        <nama>Kalifornium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[251]</massaAtom>
+        <electroNegatifitas>1.3</electroNegatifitas>
+        <firstIonizationEnergy>6.2817</firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>900</meltPoint>
+        <boilPoint></boilPoint>
+        <density>15.10</density>
+        <discovery>1950</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Californium" title="Californium">Californium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="99">
+        <nama>Einsteinium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[252]</massaAtom>
+        <electroNegatifitas>1.3</electroNegatifitas>
+        <firstIonizationEnergy>6.42</firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>860</meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1952</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Einsteinium" title="Einsteinium">Einsteinium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="100">
+        <nama>Fermium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[257]</massaAtom>
+        <electroNegatifitas>1.3</electroNegatifitas>
+        <firstIonizationEnergy>6.5</firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>1,527</meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1952</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Fermium" title="Fermium">Fermium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="101">
+        <nama>Mendelevium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[258]</massaAtom>
+        <electroNegatifitas>1.3</electroNegatifitas>
+        <firstIonizationEnergy>6.58</firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1955</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Mendelevium" title="Mendelevium">Mendelevium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="102">
+        <nama>Nobelium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[259]</massaAtom>
+        <electroNegatifitas>1.3</electroNegatifitas>
+        <firstIonizationEnergy>6.65</firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron>2</valenceElectron>
+        <meltPoint>827</meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1958</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Nobelium" title="Nobelium">Nobelium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="103">
+        <nama>Lawrensium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[266]</massaAtom>
+        <electroNegatifitas>1.3</electroNegatifitas>
+        <firstIonizationEnergy>4.9</firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron>3</valenceElectron>
+        <meltPoint>1,627</meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1961</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Lawrencium" title="Lawrencium">Lawrencium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="104">
+        <nama>Rutherfordium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[267]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy>6</firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1964</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Rutherfordium" title="Rutherfordium">Rutherfordium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="105">
+        <nama>Dubnium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[268]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1967</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Dubnium" title="Dubnium">Dubnium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="106">
+        <nama>Seaborgium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[269]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1974</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Seaborgium" title="Seaborgium">Seaborgium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="107">
+        <nama>Bohrium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[270]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1981</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Bohrium" title="Bohrium">Bohrium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="108">
+        <nama>Hassium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[277]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1984</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Hassium" title="Hassium">Hassium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="109">
+        <nama>Meitnerium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[278]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1982</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Meitnerium" title="Meitnerium">Meitnerium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="110">
+        <nama>Darmstadtium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[281]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1994</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Darmstadtium" title="Darmstadtium">Darmstadtium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="111">
+        <nama>Roentgenium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[282]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1994</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Roentgenium" title="Roentgenium">Roentgenium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="112">
+        <nama>Kopernisium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[285]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1996</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Copernicium" title="Copernicium">Copernicium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="113">
+        <nama>Nihonium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[286]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>2004</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Nihonium" title="Nihonium">Nihonium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="114">
+        <nama>Flerovium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[289]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1999</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Flerovium" title="Flerovium">Flerovium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="115">
+        <nama>Moskovium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[290]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>2004</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Moscovium" title="Moscovium">Moscovium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="116">
+        <nama>Livermorium</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[293]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>1999</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Livermorium" title="Livermorium">Livermorium</a>
+        </engName>
+    </unsur>
+
+    <unsur id="117">
+        <nama>Tenesin</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[294]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>2010</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Tennessine" title="Tennessine">Tennessine</a>
+        </engName>
+    </unsur>
+
+    <unsur id="118">
+        <nama>Oganeson</nama>
+        <penjelasan></penjelasan>
+        <massaAtom>[294]</massaAtom>
+        <electroNegatifitas></electroNegatifitas>
+        <firstIonizationEnergy></firstIonizationEnergy>
+        <atomicRadius></atomicRadius>
+        <vanDerWaalsRadius></vanDerWaalsRadius>
+        <covalentRadius></covalentRadius>
+        <valenceElectron></valenceElectron>
+        <meltPoint></meltPoint>
+        <boilPoint></boilPoint>
+        <density></density>
+        <discovery>2016</discovery>
+        <electronConfiguration></electronConfiguration>
+        <engName>
+            <a href="https://en.wikipedia.org/wiki/Oganesson" title="Oganesson">Oganesson</a>
+        </engName>
+    </unsur>
 </dataUnsur>

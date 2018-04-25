@@ -2,7 +2,12 @@
 <dataUnsur id="main">
     <unsur id="1">
         <nama>Hidrogen</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Hydrogen is a chemical element with symbol H and atomic number 1. With a standard atomic weight of
+            1.008, hydrogen is the lightest element on the periodic table. Its monatomic form (H) is the most abundant
+            chemical substance in the Universe, constituting roughly 75% of all baryonic mass. Non-remnant stars are
+            mainly composed of hydrogen in the plasma state. The most common isotope of hydrogen, termed protium (name
+            rarely used, symbol 1H), has one proton and no neutrons.
+        </penjelasan>
         <massaAtom>1.00794(7)</massaAtom>
         <electroNegatifitas>2.2</electroNegatifitas>
         <firstIonizationEnergy>13.59844</firstIonizationEnergy>
@@ -24,7 +29,10 @@
 
     <unsur id="2">
         <nama>Helium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Helium (from Greek: ἥλιος, translit. Helios, lit. 'Sun') is a chemical element with symbol He and
+            atomic number 2. It is a colorless, odorless, tasteless, non-toxic, inert, monatomic gas, the first in the
+            noble gas group in the periodic table. Its boiling point is the lowest among all the elements.
+        </penjelasan>
         <massaAtom>4.002602(2)</massaAtom>
         <electroNegatifitas>no data</electroNegatifitas>
         <firstIonizationEnergy>24.58741</firstIonizationEnergy>
@@ -46,7 +54,15 @@
 
     <unsur id="3">
         <nama>Litium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Lithium (from Greek: λίθος, translit. lithos, lit. 'stone') is a chemical element with symbol Li and
+            atomic number 3. It is a soft, silvery-white alkali metal. Under standard conditions, it is the lightest
+            metal and the lightest solid element. Like all alkali metals, lithium is highly reactive and flammable, and
+            is stored in mineral oil. When cut open, it exhibits a metallic luster, but moist air corrodes it quickly to
+            a dull silvery gray, then black tarnish. It never occurs freely in nature, but only in (usually ionic)
+            compounds, such as pegmatitic minerals which were once the main source of lithium. Due to its solubility as
+            an ion, it is present in ocean water and is commonly obtained from brines. Lithium metal is isolated
+            electrolytically from a mixture of lithium chloride and potassium chloride.
+        </penjelasan>
         <massaAtom>6.941(2)</massaAtom>
         <electroNegatifitas>0.98</electroNegatifitas>
         <firstIonizationEnergy>5.39172</firstIonizationEnergy>
@@ -68,7 +84,13 @@
 
     <unsur id="4">
         <nama>Berilium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Beryllium is a chemical element with symbol Be and atomic number 4. It is a relatively rare element
+            in the universe, usually occurring as a product of the spallation of larger atomic nuclei that have collided
+            with cosmic rays. Within the cores of stars beryllium is depleted as it is fused and creates larger
+            elements. It is a divalent element which occurs naturally only in combination with other elements in
+            minerals. Notable gemstones which contain beryllium include beryl (aquamarine, emerald) and chrysoberyl. As
+            a free element it is a steel-gray, strong, lightweight and brittle alkaline earth metal.
+        </penjelasan>
         <massaAtom>9.012182(3)</massaAtom>
         <electroNegatifitas>1.57</electroNegatifitas>
         <firstIonizationEnergy>9.3227</firstIonizationEnergy>
@@ -90,7 +112,12 @@
 
     <unsur id="5">
         <nama>Boron</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Boron is a chemical element with symbol B and atomic number 5. Produced entirely by cosmic ray
+            spallation and supernovae and not by stellar nucleosynthesis, it is a low-abundance element in the Solar
+            system and in the Earth's crust. Boron is concentrated on Earth by the water-solubility of its more common
+            naturally occurring compounds, the borate minerals. These are mined industrially as evaporites, such as
+            borax and kernite. The largest known boron deposits are in Turkey, the largest producer of boron minerals.
+        </penjelasan>
         <massaAtom>10.811(7)</massaAtom>
         <electroNegatifitas>2.04</electroNegatifitas>
         <firstIonizationEnergy>8.29803</firstIonizationEnergy>
@@ -114,7 +141,12 @@
 
     <unsur id="6">
         <nama>Karbon</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Carbon (from Latin: carbo "coal") is a chemical element with symbol C and atomic number 6. It is
+            nonmetallic and tetravalent—making four electrons available to form covalent chemical bonds. It belongs to
+            group 14 of the periodic table. Three isotopes occur naturally, <sup>12</sup>C and <sup>13</sup>C being
+            stable, while <sup>14</sup>C is a radionuclide, decaying with a half-life of about 5,730 years. Carbon is
+            one of the few elements known since antiquity.
+        </penjelasan>
         <massaAtom>12.0107(8)</massaAtom>
         <electroNegatifitas>2.55</electroNegatifitas>
         <firstIonizationEnergy>11.2603</firstIonizationEnergy>
@@ -138,7 +170,15 @@
 
     <unsur id="7">
         <nama>Nitrogen</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Nitrogen is a chemical element with symbol N and atomic number 7. It was first discovered and
+            isolated by Scottish physician Daniel Rutherford in 1772. Although Carl Wilhelm Scheele and Henry Cavendish
+            had independently done so at about the same time, Rutherford is generally accorded the credit because his
+            work was published first. The name nitrogène was suggested by French chemist Jean-Antoine-Claude Chaptal in
+            1790, when it was found that nitrogen was present in nitric acid and nitrates. Antoine Lavoisier suggested
+            instead the name azote, from the Greek άζωτικός "no life", as it is an asphyxiant gas; this name is instead
+            used in many languages, such as French, Russian, and Turkish, and appears in the English names of some
+            nitrogen compounds such as hydrazine, azides and azo compounds.
+        </penjelasan>
         <massaAtom>14.0067(2)</massaAtom>
         <electroNegatifitas>3.04</electroNegatifitas>
         <firstIonizationEnergy>14.53414</firstIonizationEnergy>
@@ -162,7 +202,15 @@
 
     <unsur id="8">
         <nama>Oksigen</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Oxygen is a chemical element with symbol O and atomic number 8. It is a member of the chalcogen
+            group on the periodic table, a highly reactive nonmetal, and an oxidizing agent that readily forms oxides
+            with most elements as well as with other compounds. By mass, oxygen is the third-most abundant element in
+            the universe, after hydrogen and helium. At standard temperature and pressure, two atoms of the element bind
+            to form dioxygen, a colorless and odorless diatomic gas with the formula O<sub
+                    style="font-size:inherit;line-height:inherit;vertical-align:baseline">2
+            </sub> . Diatomic oxygen gas constitutes 20.8% of the Earth's atmosphere. As compounds including oxides, the
+            element makes up almost half of the Earth's crust.
+        </penjelasan>
         <massaAtom>15.9994(3)</massaAtom>
         <electroNegatifitas>3.44</electroNegatifitas>
         <firstIonizationEnergy>13.61806</firstIonizationEnergy>
@@ -186,7 +234,11 @@
 
     <unsur id="9">
         <nama>Fluor</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Fluorine is a chemical element with symbol F and atomic number 9. It is the lightest halogen and
+            exists as a highly toxic pale yellow diatomic gas at standard conditions. As the most electronegative
+            element, it is extremely reactive: almost all other elements, including some noble gases, form compounds
+            with fluorine.
+        </penjelasan>
         <massaAtom>18.9984032(5)</massaAtom>
         <electroNegatifitas>3.98</electroNegatifitas>
         <firstIonizationEnergy>17.42282</firstIonizationEnergy>
@@ -210,7 +262,16 @@
 
     <unsur id="10">
         <nama>Neon</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Neon is a chemical element with symbol Ne and atomic number 10. It is a noble gas. Neon is a
+            colorless, odorless, inert monatomic gas under standard conditions, with about two-thirds the density of
+            air. It was discovered (along with krypton and xenon) in 1898 as one of the three residual rare inert
+            elements remaining in dry air, after nitrogen, oxygen, argon and carbon dioxide were removed. Neon was the
+            second of these three rare gases to be discovered and was immediately recognized as a new element from its
+            bright red emission spectrum. The name neon is derived from the Greek word, νέον, neuter singular form of
+            νέος (neos), meaning new. Neon is chemically inert, and no uncharged neon compounds are known. The compounds
+            of neon currently known include ionic molecules, molecules held together by van der Waals forces and
+            clathrates.
+        </penjelasan>
         <massaAtom>20.10097(6)</massaAtom>
         <electroNegatifitas>no data</electroNegatifitas>
         <firstIonizationEnergy>21.5646</firstIonizationEnergy>
@@ -234,7 +295,15 @@
 
     <unsur id="11">
         <nama>Natrium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Sodium is a chemical element with symbol Na (from Latin natrium) and atomic number 11. It is a soft,
+            silvery-white, highly reactive metal. Sodium is an alkali metal, being in group 1 of the periodic table,
+            because it has a single electron in its outer shell that it readily donates, creating a positively charged
+            ion—the Na<sup>+</sup> cation. Its only stable isotope is <sup>23</sup>Na. The free metal does not occur in
+            nature, but must be prepared from compounds. Sodium is the sixth most abundant element in the Earth's crust,
+            and exists in numerous minerals such as feldspars, sodalite, and rock salt (NaCl). Many salts of sodium are
+            highly water-soluble: sodium ions have been leached by the action of water from the Earth's minerals over
+            eons, and thus sodium and chlorine are the most common dissolved elements by weight in the oceans.
+        </penjelasan>
         <massaAtom>22.98976928(2)</massaAtom>
         <electroNegatifitas>0.93</electroNegatifitas>
         <firstIonizationEnergy>5.13908</firstIonizationEnergy>
@@ -256,7 +325,11 @@
 
     <unsur id="12">
         <nama>Magnesium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Magnesium is a chemical element with symbol Mg and atomic number 12. It is a shiny gray solid which
+            bears a close physical resemblance to the other five elements in the second column (group 2, or alkaline
+            earth metals) of the periodic table: all group 2 elements have the same electron configuration in the outer
+            electron shell and a similar crystal structure.
+        </penjelasan>
         <massaAtom>24.3050(6)</massaAtom>
         <electroNegatifitas>1.31</electroNegatifitas>
         <firstIonizationEnergy>7.64624</firstIonizationEnergy>
@@ -278,7 +351,13 @@
 
     <unsur id="13">
         <nama>Alumunium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Aluminium or aluminum is a chemical element with symbol Al and atomic number 13. It is a
+            silvery-white, soft, nonmagnetic and ductile metal in the boron group. By mass, aluminium makes up about 8%
+            of the Earth's crust; it is the third most abundant element after oxygen and silicon and the most abundant
+            metal in the crust, though it is less common in the mantle below. The chief ore of aluminium is bauxite.
+            Aluminium metal is so chemically reactive that native specimens are rare and limited to extreme reducing
+            environments. Instead, it is found combined in over 270 different minerals.
+        </penjelasan>
         <massaAtom>26.9815386(8)</massaAtom>
         <electroNegatifitas>1.61</electroNegatifitas>
         <firstIonizationEnergy>5.98577</firstIonizationEnergy>
@@ -302,7 +381,15 @@
 
     <unsur id="14">
         <nama>Silikon</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Silicon is a chemical element with symbol Si and atomic number 14. A hard and brittle crystalline
+            solid with a blue-grey metallic lustre, it is a tetravalent metalloid and semiconductor. It is a member of
+            group 14 in the periodic table, along with carbon above it and germanium, tin, and lead below. It is rather
+            unreactive, though less so than germanium, and has a very large chemical affinity for oxygen; as such, it
+            was first prepared and characterized in pure form only in 1823 by Jöns Jakob Berzelius. Its melting and
+            boiling points of 1414 °C and 3265 °C respectively are the second-highest among all the metalloids and
+            nonmetals, being only surpassed by boron (carbon sublimes rather than melts at atmospheric pressure, albeit
+            at a higher temperature than boron).
+        </penjelasan>
         <massaAtom>28.0855(3)</massaAtom>
         <electroNegatifitas>1.9</electroNegatifitas>
         <firstIonizationEnergy>8.15169</firstIonizationEnergy>
@@ -326,7 +413,12 @@
 
     <unsur id="15">
         <nama>Fosfor</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Phosphorus is a chemical element with symbol P and atomic number 15. As an element, phosphorus
+            exists in two major forms, white phosphorus and red phosphorus, but because it is highly reactive,
+            phosphorus is never found as a free element on Earth. With a concentration of 0.099%, phosphorus is the most
+            abundant pnictogen in the Earth's crust. Other than a few exceptions, minerals containing phosphorus are in
+            the maximally oxidized state as inorganic phosphate rocks.
+        </penjelasan>
         <massaAtom>30.973762(2)</massaAtom>
         <electroNegatifitas>2.19</electroNegatifitas>
         <firstIonizationEnergy>10.48669</firstIonizationEnergy>
@@ -350,7 +442,11 @@
 
     <unsur id="16">
         <nama>Belerang</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Sulfur is a chemical element with symbol S and atomic number 16. It is abundant, multivalent, and
+            nonmetallic. Under normal conditions, sulfur atoms form cyclic octatomic molecules with a chemical formula
+            S8. Elemental sulfur is a bright yellow crystalline solid at room temperature. Chemically, sulfur reacts
+            with all elements except for gold, platinum, iridium, tellurium, and the noble gases.
+        </penjelasan>
         <massaAtom>32.065(5)</massaAtom>
         <electroNegatifitas>2.58</electroNegatifitas>
         <firstIonizationEnergy>10.36001</firstIonizationEnergy>
@@ -374,7 +470,12 @@
 
     <unsur id="17">
         <nama>Klor</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Chlorine is a chemical element with symbol Cl and atomic number 17. The second-lightest of the
+            halogens, it appears between fluorine and bromine in the periodic table and its properties are mostly
+            intermediate between them. Chlorine is a yellow-green gas at room temperature. It is an extremely reactive
+            element and a strong oxidising agent: among the elements, it has the highest electron affinity and the
+            third-highest electronegativity, behind only oxygen and fluorine.
+        </penjelasan>
         <massaAtom>35.453(2)</massaAtom>
         <electroNegatifitas>3.16</electroNegatifitas>
         <firstIonizationEnergy>12.96764</firstIonizationEnergy>
@@ -398,7 +499,12 @@
 
     <unsur id="18">
         <nama>Argon</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Argon is a chemical element with symbol Ar and atomic number 18. It is in group 18 of the periodic
+            table and is a noble gas. Argon is the third-most abundant gas in the Earth's atmosphere, at 0.934% (9340
+            ppmv). It is more than twice as abundant as water vapor (which averages about 4000 ppmv, but varies
+            greatly), 23 times as abundant as carbon dioxide (400 ppmv), and more than 500 times as abundant as neon (18
+            ppmv). Argon is the most abundant noble gas in Earth's crust, comprising 0.00015% of the crust.
+        </penjelasan>
         <massaAtom>39.948(1)</massaAtom>
         <electroNegatifitas>no data</electroNegatifitas>
         <firstIonizationEnergy>15.75962</firstIonizationEnergy>
@@ -422,7 +528,15 @@
 
     <unsur id="19">
         <nama>Kalium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Potassium is a chemical element with symbol K (from Neo-Latin kalium) and atomic number 19. It was
+            first isolated from potash, the ashes of plants, from which its name derives. In the periodic table,
+            potassium is one of the alkali metals. All of the alkali metals have a single valence electron in the outer
+            electron shell, which is easily removed to create an ion with a positive charge – a cation, which combines
+            with anions to form salts. Potassium in nature occurs only in ionic salts. Elemental potassium is a soft
+            silvery-white alkali metal that oxidizes rapidly in air and reacts vigorously with water, generating
+            sufficient heat to ignite hydrogen emitted in the reaction and burning with a lilac-colored flame. It is
+            found dissolved in sea water (which is 0.04% potassium by weight), and is part of many minerals.
+        </penjelasan>
         <massaAtom>39.0983(1)</massaAtom>
         <electroNegatifitas>0.82</electroNegatifitas>
         <firstIonizationEnergy>4.34066</firstIonizationEnergy>
@@ -444,7 +558,13 @@
 
     <unsur id="20">
         <nama>Kalsium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Calcium is a chemical element with symbol Ca and atomic number 20. An alkaline earth metal, calcium
+            is a reactive pale yellow metal that forms a dark oxide-nitride layer when exposed to air. Its physical and
+            chemical properties are most similar to its heavier homologues strontium and barium. It is the fifth most
+            abundant element in Earth's crust and the third most abundant metal, after iron and aluminium. The most
+            common calcium compound on Earth is calcium carbonate, found in limestone and the fossilised remnants of
+            early sea life; gypsum, anhydrite, fluorite, and apatite are also sources of calcium.
+        </penjelasan>
         <massaAtom>40.078(4)</massaAtom>
         <electroNegatifitas>1</electroNegatifitas>
         <firstIonizationEnergy>6.11316</firstIonizationEnergy>
@@ -466,7 +586,11 @@
 
     <unsur id="21">
         <nama>Skandium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Scandium is a chemical element with symbol Sc and atomic number 21. A silvery-white metallic d-block
+            element, it has historically been classified as a rare earth element, together with yttrium and the
+            lanthanides. It was discovered in 1879 by spectral analysis of the minerals euxenite and gadolinite from
+            Scandinavia.
+        </penjelasan>
         <massaAtom>44.955912(6)</massaAtom>
         <electroNegatifitas>1.36</electroNegatifitas>
         <firstIonizationEnergy>6.5615</firstIonizationEnergy>
@@ -490,7 +614,10 @@
 
     <unsur id="22">
         <nama>Titanium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Titanium is a chemical element with symbol Ti and atomic number 22. It is a lustrous transition
+            metal with a silver color, low density, and high strength. Titanium is resistant to corrosion in sea water,
+            aqua regia, and chlorine.
+        </penjelasan>
         <massaAtom>47.867(1)</massaAtom>
         <electroNegatifitas>1.54</electroNegatifitas>
         <firstIonizationEnergy>6.8281</firstIonizationEnergy>
@@ -514,7 +641,11 @@
 
     <unsur id="23">
         <nama>Vanadium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Vanadium is a chemical element with symbol V and atomic number 23. It is a hard, silvery grey,
+            ductile, and malleable transition metal. The elemental metal is rarely found in nature, but once isolated
+            artificially, the formation of an oxide layer (passivation) somewhat stabilizes the free metal against
+            further oxidation.
+        </penjelasan>
         <massaAtom>50.9415(1)</massaAtom>
         <electroNegatifitas>1.63</electroNegatifitas>
         <firstIonizationEnergy>6.7462</firstIonizationEnergy>
@@ -538,7 +669,11 @@
 
     <unsur id="24">
         <nama>Krom</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Chromium is a chemical element with symbol Cr and atomic number 24. It is the first element in group
+            6. It is a steely-grey, lustrous, hard and brittle metal which takes a high polish, resists tarnishing, and
+            has a high melting point. The name of the element is derived from the Greek word χρῶμα, chrōma, meaning
+            color, because many chromium compounds are intensely colored.
+        </penjelasan>
         <massaAtom>51.9961(6)</massaAtom>
         <electroNegatifitas>1.66</electroNegatifitas>
         <firstIonizationEnergy>6.7665</firstIonizationEnergy>
@@ -562,7 +697,10 @@
 
     <unsur id="25">
         <nama>Mangan</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Manganese is a chemical element with symbol Mn and atomic number 25. It is not found as a free
+            element in nature; it is often found in minerals in combination with iron. Manganese is a metal with
+            important industrial metal alloy uses, particularly in stainless steels.
+        </penjelasan>
         <massaAtom>54.938045(5)</massaAtom>
         <electroNegatifitas>1.55</electroNegatifitas>
         <firstIonizationEnergy>7.43402</firstIonizationEnergy>
@@ -586,7 +724,13 @@
 
     <unsur id="26">
         <nama>Besi</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Iron is a chemical element with symbol Fe (from Latin: ferrum) and atomic number 26. It is a metal
+            in the first transition series. It is by mass the most common element on Earth, forming much of Earth's
+            outer and inner core. It is the fourth most common element in the Earth's crust. Its abundance in rocky
+            planets like Earth is due to its abundant production by fusion in high-mass stars, where it is the last
+            element to be produced with release of energy before the violent collapse of a supernova, which scatters the
+            iron into space.
+        </penjelasan>
         <massaAtom>55.845(2)</massaAtom>
         <electroNegatifitas>1.83</electroNegatifitas>
         <firstIonizationEnergy>7.9024</firstIonizationEnergy>
@@ -610,7 +754,10 @@
 
     <unsur id="27">
         <nama>Kobalt</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Cobalt is a chemical element with symbol Co and atomic number 27. Like nickel, cobalt is found in
+            the Earth's crust only in chemically combined form, save for small deposits found in alloys of natural
+            meteoric iron. The free element, produced by reductive smelting, is a hard, lustrous, silver-gray metal.
+        </penjelasan>
         <massaAtom>58.933195(5)</massaAtom>
         <electroNegatifitas>1.91</electroNegatifitas>
         <firstIonizationEnergy>7.6398</firstIonizationEnergy>
@@ -634,7 +781,14 @@
 
     <unsur id="28">
         <nama>Nikel</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Nickel is a chemical element with symbol Ni and atomic number 28. It is a silvery-white lustrous
+            metal with a slight golden tinge. Nickel belongs to the transition metals and is hard and ductile. Pure
+            nickel, powdered to maximize the reactive surface area, shows a significant chemical activity, but larger
+            pieces are slow to react with air under standard conditions because an oxide layer forms on the surface and
+            prevents further corrosion (passivation). Even so, pure native nickel is found in Earth's crust only in tiny
+            amounts, usually in ultramafic rocks, and in the interiors of larger nickel–iron meteorites that were not
+            exposed to oxygen when outside Earth's atmosphere.
+        </penjelasan>
         <massaAtom>58.6934(4)</massaAtom>
         <electroNegatifitas>1.88</electroNegatifitas>
         <firstIonizationEnergy>7.881</firstIonizationEnergy>
@@ -658,7 +812,13 @@
 
     <unsur id="29">
         <nama>Tembaga</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Copper is a chemical element with symbol Cu (from Latin: cuprum) and atomic number 29. It is a soft,
+            malleable, and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface
+            of pure copper has a reddish-orange color. Copper is used as a conductor of heat and electricity, as a
+            building material, and as a constituent of various metal alloys, such as sterling silver used in jewelry,
+            cupronickel used to make marine hardware and coins, and constantan used in strain gauges and thermocouples
+            for temperature measurement.
+        </penjelasan>
         <massaAtom>63.546(3)</massaAtom>
         <electroNegatifitas>1.9</electroNegatifitas>
         <firstIonizationEnergy>7.72638</firstIonizationEnergy>
@@ -682,7 +842,14 @@
 
     <unsur id="30">
         <nama>Seng</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Zinc is a chemical element with symbol Zn and atomic number 30. It is the first element in group 12
+            of the periodic table. In some respects zinc is chemically similar to magnesium: both elements exhibit only
+            one normal oxidation state (+2), and the Zn<sup>2+</sup> and Mg<sup>2+</sup> ions are of similar size. Zinc
+            is the 24th most abundant element in Earth's crust and has five stable isotopes. The most common zinc ore is
+            sphalerite (zinc blende), a zinc sulfide mineral. The largest workable lodes are in Australia, Asia, and the
+            United States. Zinc is refined by froth flotation of the ore, roasting, and final extraction using
+            electricity (electrowinning).
+        </penjelasan>
         <massaAtom>65.38(2)</massaAtom>
         <electroNegatifitas>1.65</electroNegatifitas>
         <firstIonizationEnergy>9.3942</firstIonizationEnergy>
@@ -706,7 +873,13 @@
 
     <unsur id="31">
         <nama>Galium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Gallium is a chemical element with symbol Ga and atomic number 31. It is in group 13 of the periodic
+            table, and thus has similarities to the other metals of the group, aluminium, indium, and thallium. Gallium
+            does not occur as a free element in nature, but as gallium(III) compounds in trace amounts in zinc ores and
+            in bauxite. Elemental gallium is a soft, silvery blue metal at standard temperature and pressure, a brittle
+            solid at low temperatures, and a liquid at temperatures greater than 29.76 °C (85.57 °F) (above room
+            temperature, but below the normal human body temperature).
+        </penjelasan>
         <massaAtom>69.723(1)</massaAtom>
         <electroNegatifitas>1.81</electroNegatifitas>
         <firstIonizationEnergy>5.9993</firstIonizationEnergy>
@@ -732,7 +905,11 @@
 
     <unsur id="32">
         <nama>Germanium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Germanium is a chemical element with symbol Ge and atomic number 32. It is a lustrous, hard,
+            grayish-white metalloid in the carbon group, chemically similar to its group neighbors tin and silicon. Pure
+            germanium is a semiconductor with an appearance similar to elemental silicon. Like silicon, germanium
+            naturally reacts and forms complexes with oxygen in nature.
+        </penjelasan>
         <massaAtom>72.64(1)</massaAtom>
         <electroNegatifitas>2.01</electroNegatifitas>
         <firstIonizationEnergy>7.8994</firstIonizationEnergy>
@@ -758,7 +935,10 @@
 
     <unsur id="33">
         <nama>Arsen</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Arsenic is a chemical element with symbol As and atomic number 33. Arsenic occurs in many minerals,
+            usually in combination with sulfur and metals, but also as a pure elemental crystal. Arsenic is a metalloid.
+            It has various allotropes, but only the gray form is important to industry.
+        </penjelasan>
         <massaAtom>74.92160(2)</massaAtom>
         <electroNegatifitas>2.18</electroNegatifitas>
         <firstIonizationEnergy>9.7886</firstIonizationEnergy>
@@ -784,7 +964,13 @@
 
     <unsur id="34">
         <nama>Selenium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Selenium is a chemical element with symbol Se and atomic number 34. It is a nonmetal with properties
+            that are intermediate between the elements above and below in the periodic table, sulfur and tellurium, and
+            also has similarities to arsenic. It rarely occurs in its elemental state or as pure ore compounds in the
+            Earth's crust. Selenium (from Ancient Greek σελήνη (selḗnē) "Moon") was discovered in 1817 by Jöns Jacob
+            Berzelius, who noted the similarity of the new element to the previously discovered tellurium (named for the
+            Earth).
+        </penjelasan>
         <massaAtom>78.96(3)</massaAtom>
         <electroNegatifitas>2.55</electroNegatifitas>
         <firstIonizationEnergy>9.75238</firstIonizationEnergy>
@@ -810,7 +996,12 @@
 
     <unsur id="35">
         <nama>Brom</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Bromine is a chemical element with symbol Br and atomic number 35. It is the third-lightest halogen,
+            and is a fuming red-brown liquid at room temperature that evaporates readily to form a similarly coloured
+            gas. Its properties are thus intermediate between those of chlorine and iodine. Isolated independently by
+            two chemists, Carl Jacob Löwig (in 1825) and Antoine Jérôme Balard (in 1826), its name was derived from the
+            Ancient Greek βρῶμος ("stench"), referencing its sharp and disagreeable smell.
+        </penjelasan>
         <massaAtom>79.904(1)</massaAtom>
         <electroNegatifitas>2.96</electroNegatifitas>
         <firstIonizationEnergy>11.81381</firstIonizationEnergy>
@@ -836,7 +1027,11 @@
 
     <unsur id="36">
         <nama>Kripton</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Krypton (from Ancient Greek: κρυπτός, translit. kryptos "the hidden one") is a chemical element with
+            symbol Kr and atomic number 36. It is a member of group 18 (noble gases) elements. A colorless, odorless,
+            tasteless noble gas, krypton occurs in trace amounts in the atmosphere and is often used with other rare
+            gases in fluorescent lamps. With rare exceptions, krypton is chemically inert.
+        </penjelasan>
         <massaAtom>83.798(2)</massaAtom>
         <electroNegatifitas>3</electroNegatifitas>
         <firstIonizationEnergy>13.99961</firstIonizationEnergy>
@@ -862,7 +1057,13 @@
 
     <unsur id="37">
         <nama>Rubidium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Rubidium is a chemical element with symbol Rb and atomic number 37. Rubidium is a soft,
+            silvery-white metallic element of the alkali metal group, with a standard atomic weight of 85.4678.
+            Elemental rubidium is highly reactive, with properties similar to those of other alkali metals, including
+            rapid oxidation in air. On Earth, natural rubidium comprises two isotopes: 72% is the stable isotope, <sup>
+                85</sup>Rb; 28% is the slightly radioactive <sup>87</sup>Rb, with a half-life of 49 billion years—more
+            than three times longer than the estimated age of the universe.
+        </penjelasan>
         <massaAtom>85.4678(3)</massaAtom>
         <electroNegatifitas>0.82</electroNegatifitas>
         <firstIonizationEnergy>4.17713</firstIonizationEnergy>
@@ -884,7 +1085,15 @@
 
     <unsur id="38">
         <nama>Strontium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Strontium is the chemical element with symbol Sr and atomic number 38. An alkaline earth metal,
+            strontium is a soft silver-white yellowish metallic element that is highly reactive chemically. The metal
+            forms a dark oxide layer when it is exposed to air. Strontium has physical and chemical properties similar
+            to those of its two vertical neighbors in the periodic table, calcium and barium. It occurs naturally mainly
+            in the minerals celestine, strontianite and is mined mostly from the first two of these. While natural
+            strontium is stable, the synthetic <sup>90</sup>Sr isotope is radioactive and is one of the most dangerous
+            components of nuclear fallout, as strontium is absorbed by the body in a similar manner to calcium. Natural
+            stable strontium, on the other hand, is not hazardous to health.
+        </penjelasan>
         <massaAtom>87.62(1)</massaAtom>
         <electroNegatifitas>0.95</electroNegatifitas>
         <firstIonizationEnergy>5.6949</firstIonizationEnergy>
@@ -906,7 +1115,12 @@
 
     <unsur id="39">
         <nama>Itrium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Yttrium is a chemical element with symbol Y and atomic number 39. It is a silvery-metallic
+            transition metal chemically similar to the lanthanides and has often been classified as a "rare-earth
+            element". Yttrium is almost always found in combination with lanthanide elements in rare-earth minerals, and
+            is never found in nature as a free element. <sup>89</sup>Y is the only stable isotope, and the only isotope
+            found in the Earth's crust.
+        </penjelasan>
         <massaAtom>88.90585(2)</massaAtom>
         <electroNegatifitas>1.22</electroNegatifitas>
         <firstIonizationEnergy>6.2171</firstIonizationEnergy>
@@ -930,7 +1144,15 @@
 
     <unsur id="40">
         <nama>Zirkonium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Zirconium is a chemical element with symbol Zr and atomic number 40. The name zirconium is taken
+            from the name of the mineral zircon, the most important source of zirconium. The word zircon comes from the
+            Persian word zargun زرگون, meaning "gold-colored". It is a lustrous, grey-white, strong transition metal
+            that resembles hafnium and, to a lesser extent, titanium. Zirconium is mainly used as a refractory and
+            opacifier, although small amounts are used as an alloying agent for its strong resistance to corrosion.
+            Zirconium forms a variety of inorganic and organometallic compounds such as zirconium dioxide and
+            zirconocene dichloride, respectively. Five isotopes occur naturally, three of which are stable. Zirconium
+            compounds have no known biological role.
+        </penjelasan>
         <massaAtom>91.224(2)</massaAtom>
         <electroNegatifitas>1.33</electroNegatifitas>
         <firstIonizationEnergy>6.6339</firstIonizationEnergy>
@@ -954,7 +1176,12 @@
 
     <unsur id="41">
         <nama>Niobium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Niobium, formerly known as columbium, is a chemical element with symbol Nb (formerly Cb) and atomic
+            number 41. It is a soft, grey, crystalline, ductile transition metal, often found in the minerals pyrochlore
+            and columbite, hence the former name "columbium". Its name comes from Greek mythology, specifically Niobe,
+            who was the daughter of Tantalus, the namesake of tantalum. The name reflects the great similarity between
+            the two elements in their physical and chemical properties, making them difficult to distinguish.
+        </penjelasan>
         <massaAtom>92.90638(2)</massaAtom>
         <electroNegatifitas>1.6</electroNegatifitas>
         <firstIonizationEnergy>6.75885</firstIonizationEnergy>
@@ -978,7 +1205,12 @@
 
     <unsur id="42">
         <nama>Molibden</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Molybdenum is a chemical element with symbol Mo and atomic number 42. The name is from Neo-Latin
+            molybdaenum, from Ancient Greek Μόλυβδος molybdos, meaning lead, since its ores were confused with lead
+            ores. Molybdenum minerals have been known throughout history, but the element was discovered (in the sense
+            of differentiating it as a new entity from the mineral salts of other metals) in 1778 by Carl Wilhelm
+            Scheele. The metal was first isolated in 1781 by Peter Jacob Hjelm.
+        </penjelasan>
         <massaAtom>95.96(2)</massaAtom>
         <electroNegatifitas>2.16</electroNegatifitas>
         <firstIonizationEnergy>7.09243</firstIonizationEnergy>
@@ -1002,7 +1234,15 @@
 
     <unsur id="43">
         <nama>Teknetium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Technetium is a chemical element with symbol Tc and atomic number 43. It is the lightest element
+            whose isotopes are all radioactive; none are stable, excluding the fully ionized state of <sup>97</sup>Tc.
+            Nearly all technetium is produced synthetically, and only about 18000 tons can be found at any given time in
+            the Earth's crust. Naturally occurring technetium is a spontaneous fission product in uranium ore and
+            thorium ore, the most common source, or the product of neutron capture in molybdenum ores. The chemical
+            properties of this silvery gray, crystalline transition metal are intermediate between rhenium and
+            manganese, which it lies between in group 7 of the periodic table. The most common naturally occurring
+            isotope is <sup>99</sup>Tc.
+        </penjelasan>
         <massaAtom>[98]</massaAtom>
         <electroNegatifitas>1.9</electroNegatifitas>
         <firstIonizationEnergy>7.28</firstIonizationEnergy>
@@ -1026,7 +1266,16 @@
 
     <unsur id="44">
         <nama>Ruthenium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Ruthenium is a chemical element with symbol Ru and atomic number 44. It is a rare transition metal
+            belonging to the platinum group of the periodic table. Like the other metals of the platinum group,
+            ruthenium is inert to most other chemicals. The Russian-born scientist of Baltic-German ancestry and a
+            member of the Russian Academy of Science Karl Ernst Claus discovered the element in 1844 at Kazan State
+            University in Russia and named it after the Latin name of his homeland, Rus. Ruthenium is usually found as a
+            minor component of platinum ores; the annual production is about 20 tonnes.[5] Most ruthenium produced is
+            used in wear-resistant electrical contacts and thick-film resistors. A minor application for ruthenium is in
+            platinum alloys and as a chemistry catalyst. A new application of ruthenium is as the capping layer for
+            extreme ultraviolet photomasks.
+        </penjelasan>
         <massaAtom>101.07(2)</massaAtom>
         <electroNegatifitas>2.2</electroNegatifitas>
         <firstIonizationEnergy>7.3605</firstIonizationEnergy>
@@ -1050,7 +1299,12 @@
 
     <unsur id="45">
         <nama>Rodium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Rhodium is a chemical element with symbol Rh and atomic number 45. It is a rare, silvery-white,
+            hard, corrosion-resistant and chemically inert transition metal. It is a noble metal and a member of the
+            platinum group. It has only one naturally occurring isotope, <sup>103</sup>Rh. Naturally occurring rhodium
+            is usually found as the free metal, alloyed with similar metals, and rarely as a chemical compound in
+            minerals such as bowieite and rhodplumsite. It is one of the rarest and most valuable precious metals.
+        </penjelasan>
         <massaAtom>102.90550(2)</massaAtom>
         <electroNegatifitas>2.28</electroNegatifitas>
         <firstIonizationEnergy>7.4589</firstIonizationEnergy>
@@ -1074,7 +1328,13 @@
 
     <unsur id="46">
         <nama>Paladium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Palladium is a chemical element with symbol Pd and atomic number 46. It is a rare and lustrous
+            silvery-white metal discovered in 1803 by William Hyde Wollaston. He named it after the asteroid Pallas,
+            which was itself named after the epithet of the Greek goddess Athena, acquired by her when she slew Pallas.
+            Palladium, platinum, rhodium, ruthenium, iridium and osmium form a group of elements referred to as the
+            platinum group metals (PGMs). These have similar chemical properties, but palladium has the lowest melting
+            point and is the least dense of them.
+        </penjelasan>
         <massaAtom>106.42(1)</massaAtom>
         <electroNegatifitas>2.2</electroNegatifitas>
         <firstIonizationEnergy>8.3369</firstIonizationEnergy>
@@ -1096,7 +1356,13 @@
 
     <unsur id="47">
         <nama>Perak</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Silver is a chemical element with symbol Ag (from the Latin argentum, derived from the
+            Proto-Indo-European h₂erǵ: "shiny" or "white") and atomic number 47. A soft, white, lustrous transition
+            metal, it exhibits the highest electrical conductivity, thermal conductivity, and reflectivity of any metal.
+            The metal is found in the Earth's crust in the pure, free elemental form ("native silver"), as an alloy with
+            gold and other metals, and in minerals such as argentite and chlorargyrite. Most silver is produced as a
+            byproduct of copper, gold, lead, and zinc refining.
+        </penjelasan>
         <massaAtom>107.8682(2)</massaAtom>
         <electroNegatifitas>1.93</electroNegatifitas>
         <firstIonizationEnergy>7.5762</firstIonizationEnergy>
@@ -1120,7 +1386,15 @@
 
     <unsur id="48">
         <nama>Kadmium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Cadmium is a chemical element with symbol Cd and atomic number 48. This soft, bluish-white metal is
+            chemically similar to the two other stable metals in group 12, namely zinc and mercury. Like zinc, it
+            demonstrates oxidation state +2 in most of its compounds, and like mercury, it has a lower melting point
+            than the transition metals in groups 3 through 11. Cadmium and its congeners in group 12 are often not
+            considered transition metals, in that they do not have partly filled d or f electron shells in the elemental
+            or common oxidation states. The average concentration of cadmium in Earth's crust is between 0.1 and 0.5
+            parts per million (ppm). It was discovered in 1817 simultaneously by Stromeyer and Hermann, both in Germany,
+            as an impurity in zinc carbonate.
+        </penjelasan>
         <massaAtom>112.411(8)</massaAtom>
         <electroNegatifitas>1.69</electroNegatifitas>
         <firstIonizationEnergy>8.9938</firstIonizationEnergy>
@@ -1144,7 +1418,13 @@
 
     <unsur id="49">
         <nama>Indium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Indium is a chemical element with symbol In and atomic number 49. It is a post-transition metal that
+            makes up 0.21 parts per million of the Earth's crust. Very soft and malleable, indium has a melting point
+            higher than sodium and gallium, but lower than lithium and tin. Chemically, indium is similar to gallium and
+            thallium, and it is largely intermediate between the two in terms of its properties. Indium was discovered
+            in 1863 by Ferdinand Reich and Hieronymous Theodor Richter by spectroscopic methods. They named it for the
+            indigo blue line in its spectrum. Indium was isolated the next year.
+        </penjelasan>
         <massaAtom>114.818(3)</massaAtom>
         <electroNegatifitas>1.78</electroNegatifitas>
         <firstIonizationEnergy>5.78636</firstIonizationEnergy>
@@ -1170,7 +1450,16 @@
 
     <unsur id="50">
         <nama>Timah</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Tin is a chemical element with the symbol Sn (from Latin: stannum) and atomic number 50. It is a
+            post-transition metal in group 14 of the periodic table. It is obtained chiefly from the mineral
+            cassiterite, which contains tin dioxide, SnO<sub>2</sub>. Tin shows a chemical similarity to both of its
+            neighbors in group 14, germanium and lead, and has two main oxidation states, +2 and the slightly more
+            stable +4. Tin is the 49th most abundant element and has, with 10 stable isotopes, the largest number of
+            stable isotopes in the periodic table, thanks to its magic number of protons. It has two main allotropes: at
+            room temperature, the stable allotrope is β-tin, a silvery-white, malleable metal, but at low temperatures
+            it transforms into the less dense grey α-tin, which has the diamond cubic structure. Metallic tin does not
+            easily oxidize in air.
+        </penjelasan>
         <massaAtom>118.710(7)</massaAtom>
         <electroNegatifitas>1.96</electroNegatifitas>
         <firstIonizationEnergy>7.3439</firstIonizationEnergy>
@@ -1196,7 +1485,13 @@
 
     <unsur id="51">
         <nama>Antimon</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Antimony is a chemical element with symbol Sb (from Latin: stibium) and atomic number 51. A lustrous
+            gray metalloid, it is found in nature mainly as the sulfide mineral stibnite (Sb<sub>2</sub>S<sub>3</sub>).
+            Antimony compounds have been known since ancient times and were powdered for use as medicine and cosmetics,
+            often known by the Arabic name, kohl. Metallic antimony was also known, but it was erroneously identified as
+            lead upon its discovery. The earliest known description of the metal in the West was written in 1540 by
+            Vannoccio Biringuccio.
+        </penjelasan>
         <massaAtom>121.760(1)</massaAtom>
         <electroNegatifitas>2.05</electroNegatifitas>
         <firstIonizationEnergy>8.6084</firstIonizationEnergy>
@@ -1222,7 +1517,13 @@
 
     <unsur id="52">
         <nama>Telurium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Tellurium is a chemical element with symbol Te and atomic number 52. It is a brittle, mildly toxic,
+            rare, silver-white metalloid. Tellurium is chemically related to selenium and sulfur. It is occasionally
+            found in native form as elemental crystals. Tellurium is far more common in the universe as a whole than on
+            Earth. Its extreme rarity in the Earth's crust, comparable to that of platinum, is due partly to its high
+            atomic number, but also to its formation of a volatile hydride which caused it to be lost to space as a gas
+            during the hot nebular formation of the planet.
+        </penjelasan>
         <massaAtom>127.60(3)</massaAtom>
         <electroNegatifitas>2.1</electroNegatifitas>
         <firstIonizationEnergy>9.0096</firstIonizationEnergy>
@@ -1248,7 +1549,12 @@
 
     <unsur id="53">
         <nama>Yodium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Iodine is a chemical element with symbol I and atomic number 53. The heaviest of the stable
+            halogens, it exists as a lustrous, purple-black metallic solid at standard conditions that sublimes readily
+            to form a violet gas. The elemental form was discovered by the French chemist Bernard Courtois in 1811. It
+            was named two years later by Joseph-Louis Gay-Lussac from this property, after the Greek ἰώδης
+            "violet-coloured".
+        </penjelasan>
         <massaAtom>126.90447(3)</massaAtom>
         <electroNegatifitas>2.66</electroNegatifitas>
         <firstIonizationEnergy>10.45126</firstIonizationEnergy>
@@ -1274,7 +1580,11 @@
 
     <unsur id="54">
         <nama>Xenon</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Xenon is a chemical element with symbol Xe and atomic number 54. It is a colorless, dense, odorless
+            noble gas found in the Earth's atmosphere in trace amounts. Although generally unreactive, xenon can undergo
+            a few chemical reactions such as the formation of xenon hexafluoroplatinate, the first noble gas compound to
+            be synthesized.
+        </penjelasan>
         <massaAtom>131.293(6)</massaAtom>
         <electroNegatifitas>2.6</electroNegatifitas>
         <firstIonizationEnergy>12.1298</firstIonizationEnergy>
@@ -1300,7 +1610,15 @@
 
     <unsur id="55">
         <nama>Sesium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Caesium (British spelling and IUPAC spelling) or cesium (American spelling) is a chemical element
+            with symbol Cs and atomic number 55. It is a soft, silvery-gold alkali metal with a melting point of 28.5 °C
+            (83.3 °F), which makes it one of only five elemental metals that are liquid at or near room temperature.
+            Caesium has physical and chemical properties similar to those of rubidium and potassium. The most reactive
+            of all metals, it is pyrophoric and reacts with water even at −116 °C (−177 °F). It is the least
+            electronegative element, with a value of 0.79 on the Pauling scale. It has only one stable isotope,
+            caesium-133. Caesium is mined mostly from pollucite, while the radioisotopes, especially caesium-137, a
+            fission product, are extracted from waste produced by nuclear reactors.
+        </penjelasan>
         <massaAtom>132.9054519(2)</massaAtom>
         <electroNegatifitas>0.79</electroNegatifitas>
         <firstIonizationEnergy>3.8939</firstIonizationEnergy>
@@ -1322,7 +1640,11 @@
 
     <unsur id="56">
         <nama>Barium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Barium is a chemical element with symbol Ba and atomic number 56. It is the fifth element in group 2
+            and is a soft, silvery alkaline earth metal. Because of its high chemical reactivity, barium is never found
+            in nature as a free element. Its hydroxide, known in pre-modern history as baryta, does not occur as a
+            mineral, but can be prepared by heating barium carbonate.
+        </penjelasan>
         <massaAtom>137.327(7)</massaAtom>
         <electroNegatifitas>0.89</electroNegatifitas>
         <firstIonizationEnergy>5.2117</firstIonizationEnergy>
@@ -1344,7 +1666,14 @@
 
     <unsur id="57">
         <nama>Lantanum</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Lanthanum is a chemical element with symbol La and atomic number 57. It is a soft, ductile,
+            silvery-white metal that tarnishes rapidly when exposed to air and is soft enough to be cut with a knife. It
+            is the eponym of the lanthanide series, a group of 15 similar elements between lanthanum and lutetium in the
+            periodic table, of which lanthanum is the first and the prototype. It is also sometimes considered the first
+            element of the 6th-period transition metals and is traditionally counted among the rare earth elements. The
+            usual oxidation state is +3. Lanthanum has no biological role in humans but is essential to some bacteria.
+            It is not particularly toxic to humans but does show some antimicrobial activity.
+        </penjelasan>
         <massaAtom>138.90547(7)</massaAtom>
         <electroNegatifitas>1.1</electroNegatifitas>
         <firstIonizationEnergy>5.5769</firstIonizationEnergy>
@@ -1368,7 +1697,13 @@
 
     <unsur id="58">
         <nama>Serium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Cerium is a chemical element with symbol Ce and atomic number 58. Cerium is a soft, ductile and
+            silvery-white metal that tarnishes when exposed to air, and it is soft enough to be cut with a knife. Cerium
+            is the second element in the lanthanide series, and while it often shows the +3 oxidation state
+            characteristic of the series, it also exceptionally has a stable +4 state that does not oxidize water. It is
+            also traditionally considered one of the rare-earth elements. Cerium has no biological role and is not very
+            toxic.
+        </penjelasan>
         <massaAtom>140.116(1)</massaAtom>
         <electroNegatifitas>1.12</electroNegatifitas>
         <firstIonizationEnergy>5.5387</firstIonizationEnergy>
@@ -1394,7 +1729,12 @@
 
     <unsur id="59">
         <nama>Praseodimium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Praseodymium is a chemical element with symbol Pr and atomic number 59. It is the third member of
+            the lanthanide series and is traditionally considered to be one of the rare-earth metals. Praseodymium is a
+            soft, silvery, malleable and ductile metal, valued for its magnetic, electrical, chemical, and optical
+            properties. It is too reactive to be found in native form, and pure praseodymium metal slowly develops a
+            green oxide coating when exposed to air.
+        </penjelasan>
         <massaAtom>140.90765(2)</massaAtom>
         <electroNegatifitas>1.13</electroNegatifitas>
         <firstIonizationEnergy>5.473</firstIonizationEnergy>
@@ -1418,7 +1758,14 @@
 
     <unsur id="60">
         <nama>Neodimium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Neodymium is a chemical element with symbol Nd and atomic number 60. It is a soft silvery metal that
+            tarnishes in air. Neodymium was discovered in 1885 by the Austrian chemist Carl Auer von Welsbach. It is
+            present in significant quantities in the ore minerals monazite and bastnäsite. Neodymium is not found
+            naturally in metallic form or unmixed with other lanthanides, and it is usually refined for general use.
+            Although neodymium is classed as a rare earth, it is a fairly common element, no rarer than cobalt, nickel,
+            or copper, and is widely distributed in the Earth's crust. Most of the world's commercial neodymium is mined
+            in China.
+        </penjelasan>
         <massaAtom>144.242(3)</massaAtom>
         <electroNegatifitas>1.14</electroNegatifitas>
         <firstIonizationEnergy>5.525</firstIonizationEnergy>
@@ -1442,8 +1789,13 @@
 
     <unsur id="61">
         <nama>Prometium</nama>
-        <penjelasan></penjelasan>
-        <massaAtom>[145]</massaAtom>
+        <penjelasan>Promethium (formerly prometheum) is a chemical element with symbol Pm and atomic number 61. All of
+            its isotopes are radioactive; it is extremely rare, with only about 500-600 grams naturally occurring in
+            Earth's crust at any given time, and one of only two such elements that are followed in the periodic table
+            by elements with stable forms, a distinction shared with technetium. Chemically, promethium is a lanthanide,
+            which forms salts when combined with other elements. Promethium shows only one stable oxidation state of +3.
+        </penjelasan>
+        <massaAtom>145</massaAtom>
         <electroNegatifitas>no data</electroNegatifitas>
         <firstIonizationEnergy>5.582</firstIonizationEnergy>
         <atomicRadius>185</atomicRadius>
@@ -1466,7 +1818,12 @@
 
     <unsur id="62">
         <nama>Samarium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Samarium is a chemical element with symbol Sm and atomic number 62. It is a moderately hard silvery
+            metal that slowly oxidizes in air. Being a typical member of the lanthanide series, samarium usually assumes
+            the oxidation state +3. Compounds of samarium(II) are also known, most notably the monoxide SmO,
+            monochalcogenides SmS, SmSe and SmTe, as well as samarium(II) iodide. The last compound is a common reducing
+            agent in chemical synthesis. Samarium has no significant biological role but is only slightly toxic.
+        </penjelasan>
         <massaAtom>150.36(2)</massaAtom>
         <electroNegatifitas>1.17</electroNegatifitas>
         <firstIonizationEnergy>5.6436</firstIonizationEnergy>
@@ -1490,7 +1847,15 @@
 
     <unsur id="63">
         <nama>Europium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Europium is a chemical element with symbol Eu and atomic number 63. It was isolated in 1901 and is
+            named after the continent of Europe. It is a moderately hard, silvery metal which readily oxidizes in air
+            and water. Being a typical member of the lanthanide series, europium usually assumes the oxidation state +3,
+            but the oxidation state +2 is also common. All europium compounds with oxidation state +2 are slightly
+            reducing. Europium has no significant biological role and is relatively non-toxic compared to other heavy
+            metals. Most applications of europium exploit the phosphorescence of europium compounds. Europium is one of
+            the least abundant elements in the universe; only about 5×10<sup>−8</sup>% of all matter in the universe is
+            europium.
+        </penjelasan>
         <massaAtom>151.964(1)</massaAtom>
         <electroNegatifitas>no data</electroNegatifitas>
         <firstIonizationEnergy>5.6704</firstIonizationEnergy>
@@ -1514,7 +1879,13 @@
 
     <unsur id="64">
         <nama>Gadolinium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Gadolinium is a chemical element with symbol Gd and atomic number 64. Gadolinium is a silvery-white,
+            malleable, and ductile rare earth metal. It is found in nature only in oxidized form, and even when
+            separated, it usually has impurities of the other rare earths. Gadolinium was discovered in 1880 by Jean
+            Charles de Marignac, who detected its oxide by using spectroscopy. It is named after the mineral gadolinite,
+            one of the minerals in which gadolinium is found, itself named for the chemist Johan Gadolin. Pure
+            gadolinium was first isolated by the chemist Paul Emile Lecoq de Boisbaudran around 1886.
+        </penjelasan>
         <massaAtom>157.25(3)</massaAtom>
         <electroNegatifitas>1.2</electroNegatifitas>
         <firstIonizationEnergy>6.1501</firstIonizationEnergy>
@@ -1540,7 +1911,12 @@
 
     <unsur id="65">
         <nama>Terbium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Terbium is a chemical element with symbol Tb and atomic number 65. It is a silvery-white, rare earth
+            metal that is malleable, ductile, and soft enough to be cut with a knife. The ninth member of the lanthanide
+            series, terbium is a fairly electropositive metal that reacts with water, evolving hydrogen gas. Terbium is
+            never found in nature as a free element, but it is contained in many minerals, including cerite, gadolinite,
+            monazite, xenotime, and euxenite.
+        </penjelasan>
         <massaAtom>158.92535(2)</massaAtom>
         <electroNegatifitas>no data</electroNegatifitas>
         <firstIonizationEnergy>5.8638</firstIonizationEnergy>
@@ -1564,7 +1940,11 @@
 
     <unsur id="66">
         <nama>Disprosium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Dysprosium is a chemical element with symbol Dy and atomic number 66. It is a rare earth element
+            with a metallic silver luster. Dysprosium is never found in nature as a free element, though it is found in
+            various minerals, such as xenotime. Naturally occurring dysprosium is composed of seven isotopes, the most
+            abundant of which is <sup>164</sup>Dy.
+        </penjelasan>
         <massaAtom>162.500(1)</massaAtom>
         <electroNegatifitas>1.22</electroNegatifitas>
         <firstIonizationEnergy>5.9389</firstIonizationEnergy>
@@ -1588,7 +1968,11 @@
 
     <unsur id="67">
         <nama>Holmium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Holmium is a chemical element with symbol Ho and atomic number 67. Part of the lanthanide series,
+            holmium is a rare-earth element. Holmium was discovered by Swedish chemist Per Theodor Cleve. Its oxide was
+            first isolated from rare-earth ores in 1878. The element's name comes from Holmia, the Latin name for the
+            city of Stockholm.
+        </penjelasan>
         <massaAtom>164.93032(2)</massaAtom>
         <electroNegatifitas>1.23</electroNegatifitas>
         <firstIonizationEnergy>6.0215</firstIonizationEnergy>
@@ -1612,7 +1996,11 @@
 
     <unsur id="68">
         <nama>Erbium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Erbium is a chemical element with symbol Er and atomic number 68. A silvery-white solid metal when
+            artificially isolated, natural erbium is always found in chemical combination with other elements. It is a
+            lanthanide, a rare earth element, originally found in the gadolinite mine in Ytterby in Sweden, from which
+            it got its name.
+        </penjelasan>
         <massaAtom>167.259(3)</massaAtom>
         <electroNegatifitas>1.24</electroNegatifitas>
         <firstIonizationEnergy>6.1077</firstIonizationEnergy>
@@ -1636,7 +2024,13 @@
 
     <unsur id="69">
         <nama>Tulium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Thulium is a chemical element with symbol Tm and atomic number 69. It is the thirteenth and
+            third-last element in the lanthanide series. Like the other lanthanides, the most common oxidation state is
+            +3, seen in its oxide, halides and other compounds; because it occurs so late in the series, however, the +2
+            oxidation state is also stabilized by the nearly full 4f shell that results. In aqueous solution, like
+            compounds of other late lanthanides, soluble thulium compounds form coordination complexes with nine water
+            molecules.
+        </penjelasan>
         <massaAtom>168.93421(2)</massaAtom>
         <electroNegatifitas>1.25</electroNegatifitas>
         <firstIonizationEnergy>6.18431</firstIonizationEnergy>
@@ -1660,7 +2054,14 @@
 
     <unsur id="70">
         <nama>Iterbium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Ytterbium is a chemical element with symbol Yb and atomic number 70. It is the fourteenth and
+            penultimate element in the lanthanide series, which is the basis of the relative stability of its +2
+            oxidation state. However, like the other lanthanides, its most common oxidation state is +3, as in its
+            oxide, halides, and other compounds. In aqueous solution, like compounds of other late lanthanides, soluble
+            ytterbium compounds form complexes with nine water molecules. Because of its closed-shell electron
+            configuration, its density and melting and boiling points differ significantly from those of most other
+            lanthanides.
+        </penjelasan>
         <massaAtom>173.054(5)</massaAtom>
         <electroNegatifitas>no data</electroNegatifitas>
         <firstIonizationEnergy>6.25416</firstIonizationEnergy>
@@ -1684,7 +2085,11 @@
 
     <unsur id="71">
         <nama>Lutetium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Lutetium is a chemical element with symbol Lu and atomic number 71. It is a silvery white metal,
+            which resists corrosion in dry air, but not in moist air. Lutetium is the last element in the lanthanide
+            series, and it is traditionally counted among the rare earths. Lutetium is sometimes considered the first
+            element of the 6th-period transition metals, although lanthanum is more often considered as such.
+        </penjelasan>
         <massaAtom>174.9668(1)</massaAtom>
         <electroNegatifitas>1.27</electroNegatifitas>
         <firstIonizationEnergy>5.4259</firstIonizationEnergy>
@@ -1710,7 +2115,12 @@
 
     <unsur id="72">
         <nama>Hafnium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Hafnium is a chemical element with symbol Hf and atomic number 72. A lustrous, silvery gray,
+            tetravalent transition metal, hafnium chemically resembles zirconium and is found in many zirconium
+            minerals. Its existence was predicted by Dmitri Mendeleev in 1869, though it was not identified until 1923,
+            by Coster and Hevesy, making it the last stable element to be discovered. Hafnium is named after Hafnia, the
+            Latin name for Copenhagen, where it was discovered.
+        </penjelasan>
         <massaAtom>178.49(2)</massaAtom>
         <electroNegatifitas>1.3</electroNegatifitas>
         <firstIonizationEnergy>6.82507</firstIonizationEnergy>
@@ -1736,7 +2146,17 @@
 
     <unsur id="73">
         <nama>Tantalum</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Tantalum is a chemical element with symbol Ta and atomic number 73. Previously known as tantalium,
+            its name comes from Tantalus, a villain from Greek mythology. Tantalum is a rare, hard, blue-gray, lustrous
+            transition metal that is highly corrosion-resistant. It is part of the refractory metals group, which are
+            widely used as minor components in alloys. The chemical inertness of tantalum makes it a valuable substance
+            for laboratory equipment and a substitute for platinum. Its main use today is in tantalum capacitors in
+            electronic equipment such as mobile phones, DVD players, video game systems and computers. Tantalum, always
+            together with the chemically similar niobium, occurs in the minerals tantalite, columbite and coltan (a mix
+            of columbite and tantalite, though not recognised as a separate mineral species). The latter are actually a
+            series names, e.g., tantalite refers to either tantalite-(Fe), namely FeTa<sub>2</sub>O<sub>2</sub>,
+            tantalite-(Mn), equal to MnTa<sub>2</sub>O<sub>2</sub> or eventually tantalite-(Mg).[7]
+        </penjelasan>
         <massaAtom>180.94788(2)</massaAtom>
         <electroNegatifitas>1.5</electroNegatifitas>
         <firstIonizationEnergy>7.5496</firstIonizationEnergy>
@@ -1762,7 +2182,12 @@
 
     <unsur id="74">
         <nama>Tungsten</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Tungsten, or wolfram, is a chemical element with symbol W and atomic number 74. The name tungsten
+            comes from the former Swedish name for the tungstate mineral scheelite, from tung sten "heavy stone".
+            Tungsten is a rare metal found naturally on Earth almost exclusively in chemical compounds. It was
+            identified as a new element in 1781 and first isolated as a metal in 1783. Its important ores include
+            wolframite and scheelite.
+        </penjelasan>
         <massaAtom>183.84(1)</massaAtom>
         <electroNegatifitas>2.36</electroNegatifitas>
         <firstIonizationEnergy>7.864</firstIonizationEnergy>
@@ -1788,7 +2213,14 @@
 
     <unsur id="75">
         <nama>Renium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Rhenium is a chemical element with symbol Re and atomic number 75. It is a silvery-gray, heavy,
+            third-row transition metal in group 7 of the periodic table. With an estimated average concentration of 1
+            part per billion (ppb), rhenium is one of the rarest elements in the Earth's crust. Rhenium has the
+            third-highest melting point and second-highest boiling point of any element at 5903 K. Rhenium resembles
+            manganese and technetium chemically and is mainly obtained as a by-product of the extraction and refinement
+            of molybdenum and copper ores. Rhenium shows in its compounds a wide variety of oxidation states ranging
+            from −1 to +7.
+        </penjelasan>
         <massaAtom>186.207(1)</massaAtom>
         <electroNegatifitas>1.9</electroNegatifitas>
         <firstIonizationEnergy>7.8335</firstIonizationEnergy>
@@ -1814,7 +2246,13 @@
 
     <unsur id="76">
         <nama>Osmium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Osmium (from Greek ὀσμή osme, "smell") is a chemical element with symbol Os and atomic number 76. It
+            is a hard, brittle, bluish-white transition metal in the platinum group that is found as a trace element in
+            alloys, mostly in platinum ores. Osmium is the densest naturally occurring element, with a density of 22.59
+            g/cm<sup>3</sup>. Manufacturers use its alloys with platinum, iridium, and other platinum-group metals to
+            make fountain pen nib tipping, electrical contacts, and in other applications that require extreme
+            durability and hardness.
+        </penjelasan>
         <massaAtom>190.23(3)</massaAtom>
         <electroNegatifitas>2.2</electroNegatifitas>
         <firstIonizationEnergy>8.4382</firstIonizationEnergy>
@@ -1840,7 +2278,12 @@
 
     <unsur id="77">
         <nama>Iridium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Iridium is a chemical element with symbol Ir and atomic number 77. A very hard, brittle,
+            silvery-white transition metal of the platinum group, iridium is the second densest element (after osmium).
+            It is also the most corrosion-resistant metal, even at temperatures as high as 2000 °C. Although only
+            certain molten salts and halogens are corrosive to solid iridium, finely divided iridium dust is much more
+            reactive and can be flammable.
+        </penjelasan>
         <massaAtom>192.217(3)</massaAtom>
         <electroNegatifitas>2.2</electroNegatifitas>
         <firstIonizationEnergy>8.967</firstIonizationEnergy>
@@ -1866,7 +2309,10 @@
 
     <unsur id="78">
         <nama>Platina</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Platinum is a chemical element with symbol Pt and atomic number 78. It is a dense, malleable,
+            ductile, highly unreactive, precious, silverish-white transition metal. Its name is derived from the Spanish
+            term platina, meaning "little silver".
+        </penjelasan>
         <massaAtom>195.084(9)</massaAtom>
         <electroNegatifitas>2.28</electroNegatifitas>
         <firstIonizationEnergy>8.9587</firstIonizationEnergy>
@@ -1892,7 +2338,15 @@
 
     <unsur id="79">
         <nama>Emas</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Gold is a chemical element with symbol Au (from Latin: aurum) and atomic number 79, making it one of
+            the higher atomic number elements that occur naturally. In its purest form, it is a bright, slightly reddish
+            yellow, dense, soft, malleable, and ductile metal. Chemically, gold is a transition metal and a group 11
+            element. It is one of the least reactive chemical elements and is solid under standard conditions. Gold
+            often occurs in free elemental (native) form, as nuggets or grains, in rocks, in veins, and in alluvial
+            deposits. It occurs in a solid solution series with the native element silver (as electrum) and also
+            naturally alloyed with copper and palladium. Less commonly, it occurs in minerals as gold compounds, often
+            with tellurium (gold tellurides).
+        </penjelasan>
         <massaAtom>196.966569(4)</massaAtom>
         <electroNegatifitas>2.54</electroNegatifitas>
         <firstIonizationEnergy>9.2255</firstIonizationEnergy>
@@ -1918,7 +2372,12 @@
 
     <unsur id="80">
         <nama>Raksa</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Mercury is a chemical element with symbol Hg and atomic number 80. It is commonly known as
+            quicksilver and was formerly named hydrargyrum (/haɪˈdrɑːrdʒərəm/). A heavy, silvery d-block element,
+            mercury is the only metallic element that is liquid at standard conditions for temperature and pressure; the
+            only other element that is liquid under these conditions is bromine, though metals such as caesium, gallium,
+            and rubidium melt just above room temperature.
+        </penjelasan>
         <massaAtom>200.59(2)</massaAtom>
         <electroNegatifitas>2</electroNegatifitas>
         <firstIonizationEnergy>10.4375</firstIonizationEnergy>
@@ -1944,7 +2403,15 @@
 
     <unsur id="81">
         <nama>Talium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Thallium is a chemical element with symbol Tl and atomic number 81. It is a gray post-transition
+            metal that is not found free in nature. When isolated, thallium resembles tin, but discolors when exposed to
+            air. Chemists William Crookes and Claude-Auguste Lamy discovered thallium independently in 1861, in residues
+            of sulfuric acid production. Both used the newly developed method of flame spectroscopy, in which thallium
+            produces a notable green spectral line. Thallium, from Greek θαλλός, thallós, meaning "a green shoot or
+            twig", was named by Crookes. It was isolated by both Lamy and Crookes in 1862; Lamy by electrolysis, and
+            Crookes by precipitation and melting of the resultant powder. Crookes exhibited it as a powder precipitated
+            by zinc at the International exhibition, which opened on 1 May that year.
+        </penjelasan>
         <massaAtom>204.3833(2)</massaAtom>
         <electroNegatifitas>1.62</electroNegatifitas>
         <firstIonizationEnergy>6.1082</firstIonizationEnergy>
@@ -1972,7 +2439,12 @@
 
     <unsur id="82">
         <nama>Timbal</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Lead is a chemical element with symbol Pb (from the Latin plumbum) and atomic number 82. It is a
+            heavy metal that is denser than most common materials. Lead is soft and malleable, and has a relatively low
+            melting point. When freshly cut, lead is bluish-white; it tarnishes to a dull gray color when exposed to
+            air. Lead has the highest atomic number of any stable element and three of its isotopes each conclude a
+            major decay chain of heavier elements.
+        </penjelasan>
         <massaAtom>207.2(1)</massaAtom>
         <electroNegatifitas>2.33</electroNegatifitas>
         <firstIonizationEnergy>7.41666</firstIonizationEnergy>
@@ -2000,7 +2472,13 @@
 
     <unsur id="83">
         <nama>Bismut</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Bismuth is a chemical element with symbol Bi and atomic number 83. Bismuth, a pentavalent
+            post-transition metal and one of the pnictogens, chemically resembles its lighter homologs arsenic and
+            antimony. Elemental bismuth may occur naturally, although its sulfide and oxide form important commercial
+            ores. The free element is 86% as dense as lead. It is a brittle metal with a silvery white color when
+            freshly produced, but surface oxidation can give it a pink tinge. Bismuth is slightly radioactive and the
+            most naturally diamagnetic element, and has one of the lowest values of thermal conductivity among metals.
+        </penjelasan>
         <massaAtom>208.98040(1)</massaAtom>
         <electroNegatifitas>2.02</electroNegatifitas>
         <firstIonizationEnergy>7.2856</firstIonizationEnergy>
@@ -2028,7 +2506,16 @@
 
     <unsur id="84">
         <nama>Polonium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Polonium is a chemical element with symbol Po and atomic number 84. A rare and highly radioactive
+            metal with no stable isotopes, polonium is chemically similar to selenium and tellurium, though its metallic
+            character resembles that of its horizontal neighbors in the periodic table: thallium, lead, and bismuth. Due
+            to the short half-life of all its isotopes, its natural occurrence is limited to tiny traces of the fleeting
+            polonium-210 (with a half-life of 138 days) in uranium ores, as it is the penultimate daughter of natural
+            uranium-238. Though slightly longer-lived isotopes exist, they are much more difficult to produce. Today,
+            polonium is usually produced in milligram quantities by the neutron irradiation of bismuth. Due to its
+            intense radioactivity, which results in the radiolysis of chemical bonds and radioactive self-heating, its
+            chemistry has mostly been investigated on the trace scale only.
+        </penjelasan>
         <massaAtom>[209]</massaAtom>
         <electroNegatifitas>2</electroNegatifitas>
         <firstIonizationEnergy>8.417</firstIonizationEnergy>
@@ -2056,7 +2543,12 @@
 
     <unsur id="85">
         <nama>Astatin</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Astatine is a radioactive chemical element with symbol At and atomic number 85. It is the rarest
+            naturally occurring element in the Earth's crust, occurring only as the decay product of various heavier
+            elements. All of astatine's isotopes are short-lived; the most stable is astatine-210, with a half-life of
+            8.1 hours. A sample of the pure element has never been assembled, because any macroscopic specimen would be
+            immediately vaporized by the heat of its own radioactivity.
+        </penjelasan>
         <massaAtom>[210]</massaAtom>
         <electroNegatifitas>2.2</electroNegatifitas>
         <firstIonizationEnergy></firstIonizationEnergy>
@@ -2084,7 +2576,17 @@
 
     <unsur id="86">
         <nama>Radon</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Radon is a chemical element with symbol Rn and atomic number 86. It is a radioactive, colorless,
+            odorless, tasteless noble gas. It occurs naturally in minute quantities as an intermediate step in the
+            normal radioactive decay chains through which thorium and uranium slowly decay into lead and various other
+            short-lived radioactive elements; radon itself is the immediate decay product of radium. Its most stable
+            isotope, <sup>222</sup>Rn, has a half-life of only 3.8 days, making radon one of the rarest elements since
+            it decays away so quickly. However, since thorium and uranium are two of the most common radioactive
+            elements on Earth, and they have three isotopes with very long half-lives, on the order of several billions
+            of years, radon will be present on Earth long into the future in spite of its short half-life as it is
+            continually being generated. The decay of radon produces many other short-lived nuclides known as radon
+            daughters, ending at stable isotopes of lead.
+        </penjelasan>
         <massaAtom>[222]</massaAtom>
         <electroNegatifitas>no data</electroNegatifitas>
         <firstIonizationEnergy>10.7485</firstIonizationEnergy>
@@ -2112,7 +2614,13 @@
 
     <unsur id="87">
         <nama>Fransium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Francium is a chemical element with symbol Fr and atomic number 87. It used to be known as
+            eka-caesium. It is extremely radioactive; its most stable isotope, francium-223 (originally called actinium
+            K after the natural decay chain it appears in), has a half-life of only 22 minutes. It is the second-least
+            electronegative element, behind only caesium, and is the second rarest naturally occurring element (after
+            astatine). The isotopes of francium decay quickly into astatine, radium, and radon. As an alkali metal, it
+            has one valence electron.
+        </penjelasan>
         <massaAtom>[223]</massaAtom>
         <electroNegatifitas>0.7</electroNegatifitas>
         <firstIonizationEnergy>4.0727</firstIonizationEnergy>
@@ -2134,7 +2642,14 @@
 
     <unsur id="88">
         <nama>Radium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Radium is a chemical element with symbol Ra and atomic number 88. It is the sixth element in group 2
+            of the periodic table, also known as the alkaline earth metals. Pure radium is silvery-white, but it readily
+            reacts with nitrogen (rather than oxygen) on exposure to air, forming a black surface layer of radium
+            nitride (Ra<sub>3</sub>N<sub>2</sub>). All isotopes of radium are highly radioactive, with the most stable
+            isotope being radium-226, which has a half-life of 1600 years and decays into radon gas (specifically the
+            isotope radon-222). When radium decays, ionizing radiation is a product, which can excite fluorescent
+            chemicals and cause radioluminescence.
+        </penjelasan>
         <massaAtom>[226]</massaAtom>
         <electroNegatifitas>0.9</electroNegatifitas>
         <firstIonizationEnergy>5.2784</firstIonizationEnergy>
@@ -2156,7 +2671,13 @@
 
     <unsur id="89">
         <nama>Aktinium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Actinium is a chemical element with symbol Ac and atomic number 89. It was discovered by Friedrich
+            Oskar Giesel in 1902, who isolated the element the same year. Actinium gave the name to the actinide series,
+            a group of 15 similar elements between actinium and lawrencium in the periodic table. It is also sometimes
+            considered the first of the 7th-period transition metals, although lawrencium is less commonly given that
+            position. Together with polonium, radium, and radon, actinium was one of the first non-primordial
+            radioactive elements to be isolated.
+        </penjelasan>
         <massaAtom>[227]</massaAtom>
         <electroNegatifitas>1.1</electroNegatifitas>
         <firstIonizationEnergy>5.17</firstIonizationEnergy>
@@ -2180,7 +2701,11 @@
 
     <unsur id="90">
         <nama>Torium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Thorium is a weakly radioactive metallic chemical element with symbol Th and atomic number 90.
+            Thorium is silvery and tarnishes black when it is exposed to air, forming the dioxide; it is moderately
+            hard, malleable, and has a high melting point. Thorium is an electropositive actinide whose chemistry is
+            dominated by the +4 oxidation state; it is quite reactive and can ignite in air when finely divided.
+        </penjelasan>
         <massaAtom>232.03806(2)</massaAtom>
         <electroNegatifitas>1.3</electroNegatifitas>
         <firstIonizationEnergy>6.3067</firstIonizationEnergy>
@@ -2204,7 +2729,15 @@
 
     <unsur id="91">
         <nama>Protaktinium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Protactinium (formerly protoactinium) is a chemical element with symbol Pa and atomic number 91. It
+            is a dense, silvery-gray actinide metal which readily reacts with oxygen, water vapor and inorganic acids.
+            It forms various chemical compounds in which protactinium is usually present in the oxidation state +5, but
+            it can also assume +4 and even +3 or +2 states. Concentrations of protactinium in the Earth's crust are
+            typically a few parts per trillion, but may reach up to a few parts per million in some uraninite ore
+            deposits. Because of its scarcity, high radioactivity and high toxicity, there are currently no uses for
+            protactinium outside scientific research, and for this purpose, protactinium is mostly extracted from spent
+            nuclear fuel.
+        </penjelasan>
         <massaAtom>231.03588(2)</massaAtom>
         <electroNegatifitas>1.5</electroNegatifitas>
         <firstIonizationEnergy>5.89</firstIonizationEnergy>
@@ -2230,7 +2763,16 @@
 
     <unsur id="92">
         <nama>Uranium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Uranium is a chemical element with symbol U and atomic number 92. It is a silvery-white metal in the
+            actinide series of the periodic table. A uranium atom has 92 protons and 92 electrons, of which 6 are
+            valence electrons. Uranium is weakly radioactive because all isotopes of uranium are unstable, with
+            half-lives varying between 159,200 years and 4.5 billion years. The most common isotopes in natural uranium
+            are uranium-238 (which has 146 neutrons and accounts for over 99%) and uranium-235 (which has 143 neutrons).
+            Uranium has the highest atomic weight of the primordially occurring elements. Its density is about 70%
+            higher than that of lead, and slightly lower than that of gold or tungsten. It occurs naturally in low
+            concentrations of a few parts per million in soil, rock and water, and is commercially extracted from
+            uranium-bearing minerals such as uraninite.
+        </penjelasan>
         <massaAtom>238.02891(3)</massaAtom>
         <electroNegatifitas>1.38</electroNegatifitas>
         <firstIonizationEnergy>6.19405</firstIonizationEnergy>
@@ -2256,7 +2798,14 @@
 
     <unsur id="93">
         <nama>Neptunium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Neptunium is a chemical element with symbol Np and atomic number 93. A radioactive actinide metal,
+            neptunium is the first transuranic element. Its position in the periodic table just after uranium, named
+            after the planet Uranus, led to it being named after Neptune, the next planet beyond Uranus. A neptunium
+            atom has 93 protons and 93 electrons, of which seven are valence electrons. Neptunium metal is silvery and
+            tarnishes when exposed to air. The element occurs in three allotropic forms and it normally exhibits five
+            oxidation states, ranging from +3 to +7. It is radioactive, poisonous, pyrophoric, and can accumulate in
+            bones, which makes the handling of neptunium dangerous.
+        </penjelasan>
         <massaAtom>[237]</massaAtom>
         <electroNegatifitas>1.36</electroNegatifitas>
         <firstIonizationEnergy>6.2657</firstIonizationEnergy>
@@ -2282,7 +2831,13 @@
 
     <unsur id="94">
         <nama>Plutonium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Plutonium is a radioactive chemical element with symbol Pu and atomic number 94. It is an actinide
+            metal of silvery-gray appearance that tarnishes when exposed to air, and forms a dull coating when oxidized.
+            The element normally exhibits six allotropes and four oxidation states. It reacts with carbon, halogens,
+            nitrogen, silicon and hydrogen. When exposed to moist air, it forms oxides and hydrides that can expand the
+            sample up to 70% in volume, which in turn flake off as a powder that is pyrophoric. It is radioactive and
+            can accumulate in bones, which makes the handling of plutonium dangerous.
+        </penjelasan>
         <massaAtom>[244]</massaAtom>
         <electroNegatifitas>1.28</electroNegatifitas>
         <firstIonizationEnergy>6.0262</firstIonizationEnergy>
@@ -2306,7 +2861,10 @@
 
     <unsur id="95">
         <nama>Amerisium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Americium is a synthetic chemical element with symbol Am and atomic number 95. It is a transuranic
+            member of the actinide series, in the periodic table located under the lanthanide element europium, and thus
+            by analogy was named after the Americas.
+        </penjelasan>
         <massaAtom>[243]</massaAtom>
         <electroNegatifitas>1.3</electroNegatifitas>
         <firstIonizationEnergy>5.9738</firstIonizationEnergy>
@@ -2330,19 +2888,27 @@
 
     <unsur id="96">
         <nama>Curium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Curium is a transuranic radioactive chemical element with symbol Cm and atomic number 96. This
+            element of the actinide series was named after Marie and Pierre Curie – both were known for their research
+            on radioactivity. Curium was first intentionally produced and identified in July 1944 by the group of Glenn
+            T. Seaborg at the University of California, Berkeley. The discovery was kept secret and only released to the
+            public in November 1945. Most curium is produced by bombarding uranium or plutonium with neutrons in nuclear
+            reactors – one tonne of spent nuclear fuel contains about 20 grams of curium.
+        </penjelasan>
         <massaAtom>[247]</massaAtom>
         <electroNegatifitas>1.3</electroNegatifitas>
         <firstIonizationEnergy>5.9915</firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
+        <atomicRadius>empirical: 174 pm</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>169±3 pm</covalentRadius>
         <valenceElectron>2</valenceElectron>
         <meltPoint>1,340</meltPoint>
-        <boilPoint></boilPoint>
+        <boilPoint>3383 K ​(3110 °C, ​5630 °F)</boilPoint>
         <density>13.50</density>
         <discovery>1944</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>7</sup> 6d<sup>1</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Curium" title="Curium">Curium</a>
         </engName>
@@ -2350,19 +2916,26 @@
 
     <unsur id="97">
         <nama>Berkelium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Berkelium is a transuranic radioactive chemical element with symbol Bk and atomic number 97. It is a
+            member of the actinide and transuranium element series. It is named after the city of Berkeley, California,
+            the location of the Lawrence Berkeley National Laboratory (then the University of California Radiation
+            Laboratory) where it was discovered in December 1949. Berkelium was the fifth transuranium element
+            discovered after neptunium, plutonium, curium and americium.
+        </penjelasan>
         <massaAtom>[247]</massaAtom>
         <electroNegatifitas>1.3</electroNegatifitas>
         <firstIonizationEnergy>6.1979</firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
+        <atomicRadius>empirical: 170 pm</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
         <valenceElectron>2</valenceElectron>
         <meltPoint>986</meltPoint>
-        <boilPoint></boilPoint>
+        <boilPoint>2,627</boilPoint>
         <density>14.78</density>
         <discovery>1949</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>9</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Berkelium" title="Berkelium">Berkelium</a>
         </engName>
@@ -2370,19 +2943,27 @@
 
     <unsur id="98">
         <nama>Kalifornium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Californium is a radioactive chemical element with symbol Cf and atomic number 98. The element was
+            first synthesized in 1950 at the Lawrence Berkeley National Laboratory (then the University of California
+            Radiation Laboratory), by bombarding curium with alpha particles (helium-4 ions). It is an actinide element,
+            the sixth transuranium element to be synthesized, and has the second-highest atomic mass of all the elements
+            that have been produced in amounts large enough to see with the unaided eye (after einsteinium). The element
+            was named after the university and the state of California.
+        </penjelasan>
         <massaAtom>[251]</massaAtom>
         <electroNegatifitas>1.3</electroNegatifitas>
         <firstIonizationEnergy>6.2817</firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>200 pm</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
         <valenceElectron>2</valenceElectron>
         <meltPoint>900</meltPoint>
-        <boilPoint></boilPoint>
+        <boilPoint>1,472</boilPoint>
         <density>15.10</density>
         <discovery>1950</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>Rn 5f<sup>10</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Californium" title="Californium">Californium</a>
         </engName>
@@ -2390,19 +2971,34 @@
 
     <unsur id="99">
         <nama>Einsteinium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Einsteinium is a synthetic element with symbol Es and atomic number 99. A member of the actinide
+            series, it is the seventh transuranic element.
+            Einsteinium was discovered as a component of the debris of the first hydrogen bomb explosion in 1952, and
+            named after Albert Einstein. Its most common isotope einsteinium-253 (half-life 20.47 days) is produced
+            artificially from decay of californium-253 in a few dedicated high-power nuclear reactors with a total yield
+            on the order of one milligram per year. The reactor synthesis is followed by a complex process of separating
+            einsteinium-253 from other actinides and products of their decay. Other isotopes are synthesized in various
+            laboratories, but at much smaller amounts, by bombarding heavy actinide elements with light ions. Owing to
+            the small amounts of produced einsteinium and the short half-life of its most easily produced isotope, there
+            are currently almost no practical applications for it outside basic scientific research. In particular,
+            einsteinium was used to synthesize, for the first time, 17 atoms of the new element mendelevium in 1955.
+        </penjelasan>
         <massaAtom>[252]</massaAtom>
         <electroNegatifitas>1.3</electroNegatifitas>
         <firstIonizationEnergy>6.42</firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>200 pm</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
         <valenceElectron>2</valenceElectron>
         <meltPoint>860</meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <boilPoint>no data</boilPoint>
+        <density>8.84 g/cm
+            <sup>3</sup>
+        </density>
         <discovery>1952</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>Rn 5f<sup>11</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Einsteinium" title="Einsteinium">Einsteinium</a>
         </engName>
@@ -2410,19 +3006,27 @@
 
     <unsur id="100">
         <nama>Fermium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Fermium is a synthetic element with symbol Fm and atomic number 100. It is an actinide and the
+            heaviest element that can be formed by neutron bombardment of lighter elements, and hence the last element
+            that can be prepared in macroscopic quantities, although pure fermium metal has not yet been prepared. A
+            total of 19 isotopes are known, with <sup>257</sup>Fm being the longest-lived with a half-life of 100.5
+            days.
+        </penjelasan>
         <massaAtom>[257]</massaAtom>
         <electroNegatifitas>1.3</electroNegatifitas>
         <firstIonizationEnergy>6.5</firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>200 pm</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
         <valenceElectron>2</valenceElectron>
         <meltPoint>1,527</meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <boilPoint>no data</boilPoint>
+        <density>9.7(1) g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1952</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>Rn 5f<sup>12</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Fermium" title="Fermium">Fermium</a>
         </engName>
@@ -2430,19 +3034,30 @@
 
     <unsur id="101">
         <nama>Mendelevium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Mendelevium is a synthetic element with chemical symbol Md (formerly Mv) and atomic number 101. A
+            metallic radioactive transuranic element in the actinide series, it is the first element that currently
+            cannot be produced in macroscopic quantities through neutron bombardment of lighter elements. It is the
+            third-to-last actinide and the ninth transuranic element. It can only be produced in particle accelerators
+            by bombarding lighter elements with charged particles. A total of sixteen mendelevium isotopes are known,
+            the most stable being <sup>258</sup>Md with a half-life of 51 days; nevertheless, the shorter-lived <sup>
+                256</sup>Md (half-life 1.17 hours) is most commonly used in chemistry because it can be produced on a
+            larger scale.
+        </penjelasan>
         <massaAtom>[258]</massaAtom>
         <electroNegatifitas>1.3</electroNegatifitas>
         <firstIonizationEnergy>6.58</firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>200 pm</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
         <valenceElectron>2</valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <meltPoint>826.8</meltPoint>
+        <boilPoint>no data</boilPoint>
+        <density>10.3(7) g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1955</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>Rn 5f<sup>13</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Mendelevium" title="Mendelevium">Mendelevium</a>
         </engName>
@@ -2450,19 +3065,29 @@
 
     <unsur id="102">
         <nama>Nobelium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Nobelium is a synthetic chemical element with symbol No and atomic number 102. It is named in honor
+            of Alfred Nobel, the inventor of dynamite and benefactor of science. A radioactive metal, it is the tenth
+            transuranic element and is the penultimate member of the actinide series. Like all elements with atomic
+            number over 100, nobelium can only be produced in particle accelerators by bombarding lighter elements with
+            charged particles. A total of twelve nobelium isotopes are known to exist; the most stable is <sup>259</sup>No
+            with a half-life of 58 minutes, but the shorter-lived <sup>255</sup>No (half-life 3.1 minutes) is most
+            commonly used in chemistry because it can be produced on a larger scale.
+        </penjelasan>
         <massaAtom>[259]</massaAtom>
         <electroNegatifitas>1.3</electroNegatifitas>
         <firstIonizationEnergy>6.65</firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>200 pm</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
         <valenceElectron>2</valenceElectron>
         <meltPoint>827</meltPoint>
         <boilPoint></boilPoint>
-        <density></density>
+        <density>9.9(4) g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1958</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>Rn 5f<sup>14</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Nobelium" title="Nobelium">Nobelium</a>
         </engName>
@@ -2470,19 +3095,30 @@
 
     <unsur id="103">
         <nama>Lawrensium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Lawrencium is a synthetic chemical element with symbol Lr (formerly Lw) and atomic number 103. It is
+            named in honor of Ernest Lawrence, inventor of the cyclotron, a device that was used to discover many
+            artificial radioactive elements. A radioactive metal, lawrencium is the eleventh transuranic element and is
+            also the final member of the actinide series. Like all elements with atomic number over 100, lawrencium can
+            only be produced in particle accelerators by bombarding lighter elements with charged particles. Twelve
+            isotopes of lawrencium are currently known; the most stable is <sup>266</sup>Lr with a half-life of 11
+            hours, but the shorter-lived <sup>260</sup>Lr (half-life 2.7 minutes) is most commonly used in chemistry
+            because it can be produced on a larger scale.
+        </penjelasan>
         <massaAtom>[266]</massaAtom>
         <electroNegatifitas>1.3</electroNegatifitas>
         <firstIonizationEnergy>4.9</firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>200 pm</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
         <valenceElectron>3</valenceElectron>
         <meltPoint>1,627</meltPoint>
         <boilPoint></boilPoint>
-        <density></density>
+        <density>~15.6–16.6 g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1961</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>Rn 5f<sup>14</sup> 7s<sup>2</sup> 7p
+            <sup>1</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Lawrencium" title="Lawrencium">Lawrencium</a>
         </engName>
@@ -2490,19 +3126,26 @@
 
     <unsur id="104">
         <nama>Rutherfordium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Rutherfordium is a synthetic chemical element with symbol Rf and atomic number 104, named after
+            physicist Ernest Rutherford. As a synthetic element, it is not found in nature and can only be created in a
+            laboratory. It is radioactive; the most stable known isotope, <sup>267</sup>Rf, has a half-life of
+            approximately 1.3 hours.
+        </penjelasan>
         <massaAtom>[267]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
+        <electroNegatifitas>no data</electroNegatifitas>
         <firstIonizationEnergy>6</firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>200 pm</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>2100 °C</meltPoint>
+        <boilPoint>5500 °C</boilPoint>
+        <density>23.2 g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1964</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>Rn 5f<sup>14</sup> 6d<sup>2</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Rutherfordium" title="Rutherfordium">Rutherfordium</a>
         </engName>
@@ -2510,19 +3153,32 @@
 
     <unsur id="105">
         <nama>Dubnium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Dubnium is a synthetic chemical element with symbol Db and atomic number 105. Dubnium is highly
+            radioactive: the most stable known isotope, dubnium-268, has a half-life of just over a day. This greatly
+            limits the extent of research on dubnium.
+            Dubnium does not occur naturally on Earth and is produced artificially. The Soviet Joint Institute for
+            Nuclear Research (JINR) claimed the first discovery of the element in 1968, followed by the American
+            Lawrence Berkeley Laboratory in 1970. Both teams proposed their names for the new element and used them
+            without formal approval. The long-standing dispute was resolved in 1993 by an official investigation of the
+            discovery claims by the IUPAC/IUPAP Joint Working Party, resulting in credit for the discovery being
+            officially shared between both teams. The element was officially named dubnium in 1997 after the town of
+            Dubna, the site of the JINR.
+        </penjelasan>
         <massaAtom>[268]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>200 pm</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>no data</meltPoint>
+        <boilPoint>no data</boilPoint>
+        <density>29.3 g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1967</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>14</sup> 6d<sup>3</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Dubnium" title="Dubnium">Dubnium</a>
         </engName>
@@ -2530,19 +3186,31 @@
 
     <unsur id="106">
         <nama>Seaborgium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Seaborgium is a synthetic chemical element with symbol Sg and atomic number 106. It is named after
+            the American nuclear chemist Glenn T. Seaborg. It is a synthetic element (an element that can be created in
+            a laboratory but is not found in nature) and radioactive; the most stable known isotope, <sup>269</sup>Sg,
+            has a half-life of approximately 3.1 minutes.
+            In the periodic table of the elements, it is a d-block transactinide element. It is a member of the 7th
+            period and belongs to the group 6 elements as the fourth member of the 6d series of transition metals.
+            Chemistry experiments have confirmed that seaborgium behaves as the heavier homologue to tungsten in group
+            6. The chemical properties of seaborgium are characterized only partly, but they compare well with the
+            chemistry of the other group 6 elements.
+        </penjelasan>
         <massaAtom>[269]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>200 pm</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>no data</meltPoint>
+        <boilPoint>no data</boilPoint>
+        <density>35.0 g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1974</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>14</sup> 6d<sup>4</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Seaborgium" title="Seaborgium">Seaborgium</a>
         </engName>
@@ -2550,19 +3218,31 @@
 
     <unsur id="107">
         <nama>Bohrium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Bohrium is a synthetic chemical element with symbol Bh and atomic number 107. It is named after
+            Danish physicist Niels Bohr. As a synthetic element, it can be created in a laboratory but is not found in
+            nature. It is radioactive: its most stable known isotope, <sup>270</sup>Bh, has a half-life of approximately
+            61 seconds, though the unconfirmed <sup>278</sup>Bh may have a longer half-life of about 690 seconds.
+            In the periodic table of the elements, it is a d-block transactinide element. It is a member of the 7th
+            period and belongs to the group 7 elements as the fifth member of the 6d series of transition metals.
+            Chemistry experiments have confirmed that bohrium behaves as the heavier homologue to rhenium in group 7.
+            The chemical properties of bohrium are characterized only partly, but they compare well with the chemistry
+            of the other group 7 elements.
+        </penjelasan>
         <massaAtom>[270]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>200 pm</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>no data</meltPoint>
+        <boilPoint>no data</boilPoint>
+        <density>37.1 g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1981</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>14</sup> 6d<sup>5</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Bohrium" title="Bohrium">Bohrium</a>
         </engName>
@@ -2570,19 +3250,32 @@
 
     <unsur id="108">
         <nama>Hassium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Hassium is a synthetic chemical element with symbol Hs and atomic number 108. It is named after the
+            German state of Hesse. It is a synthetic element and radioactive; the most stable known isotope, <sup>
+                270</sup>Hs, has a half-life of approximately 10 seconds. More than 100 atoms of hassium have been
+            synthesized to date.
+            In the periodic table of the elements, it is a d-block transactinide element. Hassium is a member of the 7th
+            period and belongs to the group 8 elements: it is thus the sixth member of the 6d series of transition
+            metals. Chemistry experiments have confirmed that hassium behaves as the heavier homologue to osmium in
+            group 8. The chemical properties of hassium are characterized only partly, but they compare well with the
+            chemistry of the other group 8 elements. In bulk quantities, hassium is expected to be a silvery metal that
+            reacts readily with oxygen in the air, forming a volatile tetroxide.
+        </penjelasan>
         <massaAtom>[277]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>200 pm</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>no data</meltPoint>
+        <boilPoint>no data</boilPoint>
+        <density>41 g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1984</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>14</sup> 6d<sup>6</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Hassium" title="Hassium">Hassium</a>
         </engName>
@@ -2590,19 +3283,31 @@
 
     <unsur id="109">
         <nama>Meitnerium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Meitnerium is a synthetic chemical element with symbol Mt and atomic number 109. It is an extremely
+            radioactive synthetic element (an element not found in nature that can be created in a laboratory). The most
+            stable known isotope, meitnerium-278, has a half-life of 7.6 seconds, although the unconfirmed
+            meitnerium-282 may have a longer half-life of 67 seconds. The GSI Helmholtz Centre for Heavy Ion Research
+            near Darmstadt, Germany, first created this element in 1982. It is named after Lise Meitner.
+            In the periodic table, meitnerium is a d-block transactinide element. It is a member of the 7th period and
+            is placed in the group 9 elements, although no chemical experiments have yet been carried out to confirm
+            that it behaves as the heavier homologue to iridium in group 9 as the seventh member of the 6d series of
+            transition metals. Meitnerium is calculated to have similar properties to its lighter homologues, cobalt,
+            rhodium, and iridium.
+        </penjelasan>
         <massaAtom>[278]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>200 pm</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>no data</meltPoint>
+        <boilPoint>no data</boilPoint>
+        <density>37.4 g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1982</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>14</sup> 6d<sup>7</sup> 7s<sup>2</sup> (calculated)
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Meitnerium" title="Meitnerium">Meitnerium</a>
         </engName>
@@ -2610,19 +3315,31 @@
 
     <unsur id="110">
         <nama>Darmstadtium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Darmstadtium is a synthetic chemical element with symbol Ds and atomic number 110. It is an
+            extremely radioactive synthetic element. The most stable known isotope, darmstadtium-281, has a half-life of
+            approximately 10 seconds. Darmstadtium was first created in 1994 by the GSI Helmholtz Centre for Heavy Ion
+            Research near the city of Darmstadt, Germany, after which it was named.
+            In the periodic table, it is a d-block transactinide element. It is a member of the 7th period and is placed
+            in the group 10 elements, although no chemical experiments have yet been carried out to confirm that it
+            behaves as the heavier homologue to platinum in group 10 as the eighth member of the 6d series of transition
+            metals. Darmstadtium is calculated to have similar properties to its lighter homologues, nickel, palladium,
+            and platinum.
+        </penjelasan>
         <massaAtom>[281]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>118 pm (predicted)</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>128 pm (predicted)</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>no data</meltPoint>
+        <boilPoint>no data</boilPoint>
+        <density>34.8 g/cm
+            <sup>3</sup>
+        </density>
         <discovery>1994</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>14</sup> 6d<sup>8</sup> 7s<sup>2</sup> (predicted)
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Darmstadtium" title="Darmstadtium">Darmstadtium</a>
         </engName>
@@ -2630,19 +3347,32 @@
 
     <unsur id="111">
         <nama>Roentgenium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Roentgenium is a chemical element with symbol Rg and atomic number 111. It is an extremely
+            radioactive synthetic element that can be created in a laboratory but is not found in nature. The most
+            stable known isotope, roentgenium-282, has a half-life of 2.1 minutes, although the unconfirmed
+            roentgenium-286 may have a longer half-life of about 10.7 minutes. Roentgenium was first created in 1994 by
+            the GSI Helmholtz Centre for Heavy Ion Research near Darmstadt, Germany. It is named after the physicist
+            Wilhelm Röntgen (also spelled Roentgen), who discovered X-rays.
+            In the periodic table, it is a d-block transactinide element. It is a member of the 7th period and is placed
+            in the group 11 elements, although no chemical experiments have been carried out to confirm that it behaves
+            as the heavier homologue to gold in group 11 as the ninth member of the 6d series of transition metals.
+            Roentgenium is calculated to have similar properties to its lighter homologues, copper, silver, and gold,
+            although it may show some differences from them.
+        </penjelasan>
         <massaAtom>[282]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>114 pm (predicted)</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>no data</meltPoint>
+        <boilPoint>no data</boilPoint>
+        <density>28.7 g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1994</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>14</sup> 6d<sup>9</sup> 7s<sup>2</sup> (predicted)
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Roentgenium" title="Roentgenium">Roentgenium</a>
         </engName>
@@ -2650,19 +3380,39 @@
 
     <unsur id="112">
         <nama>Kopernisium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Copernicium is a synthetic chemical element with symbol Cn and atomic number 112. It is an extremely
+            radioactive element, and can only be created in a laboratory. The most stable known isotope,
+            copernicium-285, has a half-life of approximately 29 seconds. Copernicium was first created in 1996 by the
+            GSI Helmholtz Centre for Heavy Ion Research near Darmstadt, Germany. It is named after the astronomer
+            Nicolaus Copernicus.
+            In the periodic table of the elements, copernicium is a d-block transactinide element. During reactions with
+            gold, it has been shown to be an extremely volatile metal and a group 12 element, so much so that it is
+            probably a gas at standard temperature and pressure.
+            Copernicium is calculated to have several properties that differ from its lighter homologues in group 12,
+            zinc, cadmium and mercury; due to relativistic effects, it may even give up its 6d electrons instead of its
+            7s ones. Copernicium has also been calculated to possibly show the oxidation state +4, while mercury shows
+            it in only one compound of disputed existence and zinc and cadmium do not show it at all. It has also been
+            predicted to be more difficult to oxidize copernicium from its neutral state than the other group 12
+            elements.
+        </penjelasan>
         <massaAtom>[285]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>110 pm (predicted)</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>84
+            <sup>+112</sup>
+            <sub>−108</sub>
+        </meltPoint>
+        <boilPoint>no data</boilPoint>
+        <density>23.7 g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1996</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Copernicium" title="Copernicium">Copernicium</a>
         </engName>
@@ -2670,19 +3420,37 @@
 
     <unsur id="113">
         <nama>Nihonium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Nihonium is a synthetic chemical element with symbol Nh and atomic number 113. It is extremely
+            radioactive; its most stable known isotope, nihonium-286, has a half-life of about 10 seconds. In the
+            periodic table, nihonium is a transactinide element in the p-block. It is a member of the 7th period and is
+            placed in group 13, although it has not been confirmed to behave as the heavier homologue to thallium.
+            Nihonium was first reported to have been created in 2003 by a Russian–American collaboration at the Joint
+            Institute for Nuclear Research (JINR) in Dubna, Russia, and in 2004 by a team of Japanese scientists at
+            RIKEN in Wakō, Japan. The confirmation of their claims that took place in the ensuing years was an
+            international endeavour, involving independent teams of scientists working in the United States, Germany,
+            Sweden, and China, as well as the original claimants working in Russia and Japan. In 2015, the IUPAC–IUPAP
+            Joint Working Party recognized the element and assigned the priority of the discovery and naming rights for
+            the element to RIKEN, as it judged that the RIKEN team had persuasively demonstrated that their observations
+            originated from element 113 before the JINR team managed to do so for theirs. The RIKEN team suggested the
+            name nihonium in 2016, which was approved and made official the same year. The name comes from the common
+            Japanese name for Japan (日本 nihon).
+        </penjelasan>
         <massaAtom>[286]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>170 pm (predicted)</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>430</meltPoint>
+        <boilPoint>1130</boilPoint>
+        <density>16 g/cm
+            <sup>3</sup>
+        </density>
         <discovery>2004</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p
+            <sup>1</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Nihonium" title="Nihonium">Nihonium</a>
         </engName>
@@ -2690,19 +3458,27 @@
 
     <unsur id="114">
         <nama>Flerovium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Flerovium is a superheavy artificial chemical element with symbol Fl and atomic number 114. It is an
+            extremely radioactive synthetic element. The element is named after the Flerov Laboratory of Nuclear
+            Reactions of the Joint Institute for Nuclear Research in Dubna, Russia, where the element was discovered in
+            1998. The name of the laboratory, in turn, honours the Russian physicist Georgy Flyorov (Флёров in Cyrillic,
+            hence the transliteration of "yo" to "e"). The name was adopted by IUPAC on 30 May 2012.
+        </penjelasan>
         <massaAtom>[289]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>160 pm (estimated)</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>70 (predicted)</meltPoint>
+        <boilPoint>150 (predicted)</boilPoint>
+        <density>14 g/cm<sup>3</sup> (predicted)
+        </density>
         <discovery>1999</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p
+            <sup>2</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Flerovium" title="Flerovium">Flerovium</a>
         </engName>
@@ -2710,19 +3486,37 @@
 
     <unsur id="115">
         <nama>Moskovium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Moscovium is a synthetic chemical element with symbol Mc and atomic number 115. It was first
+            synthesized in 2003 by a joint team of Russian and American scientists at the Joint Institute for Nuclear
+            Research (JINR) in Dubna, Russia. In December 2015, it was recognized as one of four new elements by the
+            Joint Working Party of international scientific bodies IUPAC and IUPAP. On 28 November 2016, it was
+            officially named after the Moscow oblast, which the JINR is situated in.
+            Moscovium is an extremely radioactive element: its most stable known isotope, moscovium-290, has a half-life
+            of only 0.8 seconds.[9] In the periodic table, it is a p-block transactinide element. It is a member of the
+            7th period and is placed in group 15 as the heaviest pnictogen, although it has not been confirmed to behave
+            as a heavier homologue of the pnictogen bismuth. Moscovium is calculated to have some properties similar to
+            its lighter homologues, nitrogen, phosphorus, arsenic, antimony, and bismuth, and to be a post-transition
+            metal, although it should also show several major differences from them. In particular, moscovium should
+            also have significant similarities to thallium, as both have one rather loosely bound electron outside a
+            quasi-closed shell. About 100 atoms of moscovium have been observed to date, all of which have been shown to
+            have mass numbers from 287 to 290.
+        </penjelasan>
         <massaAtom>[290]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>187 pm (predicted)</atomicRadius>
         <vanDerWaalsRadius></vanDerWaalsRadius>
         <covalentRadius></covalentRadius>
         <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <meltPoint>400</meltPoint>
+        <boilPoint>~1100</boilPoint>
+        <density>13.5 g/cm
+            <sup>3</sup>
+        </density>
         <discovery>2004</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p
+            <sup>3</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Moscovium" title="Moscovium">Moscovium</a>
         </engName>
@@ -2730,19 +3524,32 @@
 
     <unsur id="116">
         <nama>Livermorium</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Livermorium is a synthetic chemical element with symbol Lv and atomic number 116. It is an extremely
+            radioactive element that has only been created in the laboratory and has not been observed in nature. The
+            element is named after the Lawrence Livermore National Laboratory in the United States, which collaborated
+            with the Joint Institute for Nuclear Research in Dubna, Russia to discover livermorium during experiments
+            made between 2000 and 2006. The name of the laboratory refers to the city of Livermore, California where it
+            is located, which in turn was named after the rancher and landowner Robert Livermore. The name was adopted
+            by IUPAC on May 30, 2012. Four isotopes of livermorium are known, with mass numbers between 290 and 293
+            inclusive; the longest-lived among them is livermorium-293 with a half-life of about 60 milliseconds. A
+            fifth possible isotope with mass number 294 has been reported but not yet confirmed.
+        </penjelasan>
         <massaAtom>[293]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>empirical: 183 pm (predicted)</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>162–166 pm (extrapolated)</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>364–507</meltPoint>
+        <boilPoint>762–862</boilPoint>
+        <density>12.9 g/cm
+            <sup>3</sup>
+        </density>
         <discovery>1999</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p
+            <sup>4</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Livermorium" title="Livermorium">Livermorium</a>
         </engName>
@@ -2750,19 +3557,33 @@
 
     <unsur id="117">
         <nama>Tenesin</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Tennessine is a synthetic chemical element with symbol Ts and atomic number 117. It is the
+            second-heaviest known element and the penultimate element of the 7th period of the periodic table.
+            The discovery of tennessine was officially announced in Dubna, Russia, by a Russian–American collaboration
+            in April 2010, which makes it the most recently discovered element as of 2017. One of its daughter isotopes
+            was created directly in 2011, partially confirming the results of the experiment. The experiment itself was
+            repeated successfully by the same collaboration in 2012 and by a joint German–American team in May 2014. In
+            December 2015, the Joint Working Party of the International Union of Pure and Applied Chemistry (IUPAC) and
+            the International Union of Pure and Applied Physics, which evaluates claims of discovery of new elements,
+            recognized the element and assigned the priority to the Russian–American team. In June 2016, the IUPAC
+            published a declaration stating that the discoverers had suggested the name tennessine after Tennessee,
+            United States. In November 2016, they officially adopted the name "tennessine".
+        </penjelasan>
         <massaAtom>[294]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>empirical: 138 pm (predicted)</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>350–550</meltPoint>
+        <boilPoint>610</boilPoint>
+        <density>7.1–7.3 g/cm<sup>3</sup> (extrapolated)
+        </density>
         <discovery>2010</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p
+            <sup>5</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Tennessine" title="Tennessine">Tennessine</a>
         </engName>
@@ -2770,19 +3591,31 @@
 
     <unsur id="118">
         <nama>Oganeson</nama>
-        <penjelasan></penjelasan>
+        <penjelasan>Oganesson is a synthetic chemical element with symbol Og and atomic number 118. It was first
+            synthesized in 2002 at the Joint Institute for Nuclear Research (JINR) in Dubna, Russia by a joint team of
+            Russian and American scientists. In December 2015, it was recognized as one of four new elements by the
+            Joint Working Party of the international scientific bodies IUPAC and IUPAP. It was formally named on 28
+            November 2016. The name is in line with the tradition of honoring a scientist, in this case the nuclear
+            physicist Yuri Oganessian, who has played a leading role in the discovery of the heaviest elements in the
+            periodic table. It is one of only two elements named after a living person at the time of naming, the other
+            being seaborgium.
+        </penjelasan>
         <massaAtom>[294]</massaAtom>
-        <electroNegatifitas></electroNegatifitas>
-        <firstIonizationEnergy></firstIonizationEnergy>
-        <atomicRadius></atomicRadius>
-        <vanDerWaalsRadius></vanDerWaalsRadius>
-        <covalentRadius></covalentRadius>
-        <valenceElectron></valenceElectron>
-        <meltPoint></meltPoint>
-        <boilPoint></boilPoint>
-        <density></density>
+        <electroNegatifitas>no data</electroNegatifitas>
+        <firstIonizationEnergy>no data</firstIonizationEnergy>
+        <atomicRadius>no data</atomicRadius>
+        <vanDerWaalsRadius>no data</vanDerWaalsRadius>
+        <covalentRadius>no data</covalentRadius>
+        <valenceElectron>no data</valenceElectron>
+        <meltPoint>no data</meltPoint>
+        <boilPoint>80±30</boilPoint>
+        <density>4.9–5.1 g/cm
+            <sup>3</sup>
+        </density>
         <discovery>2016</discovery>
-        <electronConfiguration></electronConfiguration>
+        <electronConfiguration>[Rn] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p
+            <sup>6</sup>
+        </electronConfiguration>
         <engName>
             <a href="https://en.wikipedia.org/wiki/Oganesson" title="Oganesson">Oganesson</a>
         </engName>

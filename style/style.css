@@ -203,7 +203,7 @@ td .synthetic {
 /* The Close Button */
 .close {
     position: absolute;
-    top: -25px;
+    top: -25px; 
     right: -9px;
     color: #D50000;
     float: right;

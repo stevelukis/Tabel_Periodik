@@ -247,7 +247,7 @@ td .synthetic {
 }
 
 /* Style the tab content */
-.tabcontent {
+.tabContent {
     display: none;
     padding: 6px 12px;
     border: 1px solid #ccc;

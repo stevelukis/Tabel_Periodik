@@ -88,10 +88,12 @@ table.navbar tr.horizontal {
 
 table.navbar td {
     border: 1px solid #FFF;
+    width: 63px;
 }
 
 table.navbar td.info {
     height: 42px;
+    width: 63px;
 }
 
 table.navbar td div {
@@ -107,7 +109,7 @@ table.navbar td div {
 }
 table td div.lanthanide.key,table td div.actinide.key{
     height: 30px;
-    width: 70px;
+    width: 60px;
     padding: 10px 5px;
 }
 
@@ -132,7 +134,7 @@ table.navbar td .key1 {
     padding: 3px 5px;
     text-align: center;
     text-decoration: none;
-    width: 68px
+    width: 60px
 }
 
 td .liquid {

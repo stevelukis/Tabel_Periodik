@@ -50,13 +50,9 @@ function requestCallback(atomicNumber, callback) {
 function getXML(url, callback) {
     var request = new XMLHttpRequest();
     request.open('GET', url, true);
-    request.onreadystatechange = function () {
-
-        // Callback if the request success
-        if (request.readyState === XMLHttpRequest.DONE && request.status === 200) {
-            xmlDoc = new DOMParser().parseFromString(request.responseText, "text/xml");
-            callback();
-        }
-    };
+    request.addEventListener("load", function (event) {
+        xmlDoc = new DOMParser().parseFromString(request.responseText, "text/xml");
+        callback();
+    });
     request.send(null)
 }

@@ -5,7 +5,7 @@ var xmlDoc = null;
 var dialog = null;
 
 function onElementClick(atomicNumber) {
-    getElement(atomicNumber, function (element) {
+    requestUnsur(atomicNumber, function (element) {
         if (dialog === null) {
             dialog = document.getElementById('dialogResult');
         }
@@ -24,27 +24,29 @@ function onElementClick(atomicNumber) {
     });
 }
 
-function getElement(atomicNumber, callback) {
+function requestUnsur(atomicNumber, callback) {
 
     if (xmlDoc === null) {
         getXML(DATA_URL, function () {
-            requestCallback(atomicNumber, callback);
+            var unsur = getUnsurObject(atomicNumber);
+            callback(unsur);
         });
     } else {
-        requestCallback(atomicNumber, callback);
+        var unsur = getUnsurObject(atomicNumber);
+        callback(unsur);
     }
 }
 
-function requestCallback(atomicNumber, callback) {
+function getUnsurObject(atomicNumber) {
     var element = xmlDoc.getElementById(atomicNumber);
-    var childs = element.childNodes;
+    var children = element.childNodes;
     var result = {};
 
-    childs.forEach(function (it) {
+    children.forEach(function (it) {
         result[it.tagName] = it.innerHTML;
     });
 
-    callback(result);
+    return result;
 }
 
 function getXML(url, callback) {

@@ -12,10 +12,6 @@ function onElementClick(atomicNumber) {
         dialog.style.display = 'block';
 
         for (var key in element) {
-
-            // skip loop if the property is from prototype
-            if (!element.hasOwnProperty(key)) continue;
-
             var doc = document.getElementById(key);
             if (doc !== null) {
                 doc.getElementsByTagName('p')[0].innerHTML = element[key];

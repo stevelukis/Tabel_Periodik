@@ -1,7 +1,13 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
 body{
    font-family: arial, verdana, sans-serif; }
 
-.centerr {
+.center {
     margin: auto;
     width: 90%;
 } 
@@ -48,10 +54,6 @@ body{
     color: white;
 
     background: #a90000;
-
-}
-
-.popup-main {padding: 60px;}
 
 }
 

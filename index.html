@@ -7,6 +7,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=0.6">
     <script src="script/main.js"></script>
     <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <script src="https://www.gstatic.com/firebasejs/5.0.1/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyAlY2XL-3OgEVaPHHqGMr-vv5lERVydzAw",
+            authDomain: "periodictable-be9c8.firebaseapp.com",
+            databaseURL: "https://periodictable-be9c8.firebaseio.com",
+            projectId: "periodictable-be9c8",
+            storageBucket: "periodictable-be9c8.appspot.com",
+            messagingSenderId: "327738215999"
+        };
+        firebase.initializeApp(config);
+    </script>
+    <script src="script/login.js"></script>
 
 </head>
 <body>
@@ -21,20 +35,24 @@
 
     </div>
 
-  <div class="centerr">
+      <div class="center" id="dialog-login">
    <div class="popup-main">
      <div class="g-signin2">
       <div class="abcRioButton abcRioButtonLightBlue" style="height:60px;width:300px;">
-        <div class="abcRioButtonContentWrapper">
+          <div class="abcRioButtonContentWrapper" onclick="login()">
           <div class="abcRioButtonIcon" style="padding:5px">
             <div class="abcRioButtonSvgImageWithFallback abcRioButtonIconImage abcRioButtonIconImage18">
               <svg class="abcRioButtonSvg" viewBox="0 0 50 50" width="104px" height="54px" version="1.1">
                 <g>
-                <path fill="#ea4335" d="M 24 9.5 c 3.54 0 6.71 1.22 9.21 3.6 l 6.85 -6.85 C 35.9 2.38 30.47 0 24 0 C 14.62 0 6.51 5.38 2.56 13.22 l 7.98 6.19 C 12.43 13.72 17.74 9.5 24 9.5 Z" />
-                <path fill="#4285f4" d="M 46.98 24.55 c 0 -1.57 -0.15 -3.09 -0.38 -4.55 H 24 v 9.02 h 12.94 c -0.58 2.96 -2.26 5.48 -4.78 7.18 l 7.73 6 c 4.51 -4.18 7.09 -10.36 7.09 -17.65 Z" />
-                <path fill="#fbbc05" d="M 10.53 28.59 c -0.48 -1.45 -0.76 -2.99 -0.76 -4.59 s 0.27 -3.14 0.76 -4.59 l -7.98 -6.19 C 0.92 16.46 0 20.12 0 24 c 0 3.88 0.92 7.54 2.56 10.78 l 7.97 -6.19 Z" />
-                <path fill="#34a853" d="M 24 48 c 6.48 0 11.93 -2.13 15.89 -5.81 l -7.73 -6 c -2.15 1.45 -4.92 2.3 -8.16 2.3 c -6.26 0 -11.57 -4.22 -13.47 -9.91 l -7.98 6.19 C 6.51 42.62 14.62 48 24 48 Z" />
-                <path fill="none" d="M 0 0 h 48 v 48 H 0 Z" />
+                    <path fill="#ea4335"
+                          d="M 24 9.5 c 3.54 0 6.71 1.22 9.21 3.6 l 6.85 -6.85 C 35.9 2.38 30.47 0 24 0 C 14.62 0 6.51 5.38 2.56 13.22 l 7.98 6.19 C 12.43 13.72 17.74 9.5 24 9.5 Z"></path>
+                    <path fill="#4285f4"
+                          d="M 46.98 24.55 c 0 -1.57 -0.15 -3.09 -0.38 -4.55 H 24 v 9.02 h 12.94 c -0.58 2.96 -2.26 5.48 -4.78 7.18 l 7.73 6 c 4.51 -4.18 7.09 -10.36 7.09 -17.65 Z"></path>
+                    <path fill="#fbbc05"
+                          d="M 10.53 28.59 c -0.48 -1.45 -0.76 -2.99 -0.76 -4.59 s 0.27 -3.14 0.76 -4.59 l -7.98 -6.19 C 0.92 16.46 0 20.12 0 24 c 0 3.88 0.92 7.54 2.56 10.78 l 7.97 -6.19 Z"></path>
+                    <path fill="#34a853"
+                          d="M 24 48 c 6.48 0 11.93 -2.13 15.89 -5.81 l -7.73 -6 c -2.15 1.45 -4.92 2.3 -8.16 2.3 c -6.26 0 -11.57 -4.22 -13.47 -9.91 l -7.98 6.19 C 6.51 42.62 14.62 48 24 48 Z"></path>
+                    <path fill="none" d="M 0 0 h 48 v 48 H 0 Z"></path>
               </g>
             </svg>
             </div>

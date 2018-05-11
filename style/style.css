@@ -15,7 +15,7 @@ body{
 
 .popup {
 
-    display: block;
+    display: none;
     position: fixed;
     z-index: 1;
     padding-top: 110px;
@@ -78,6 +78,7 @@ body {
     position: relative;
     right:50%;
     text-align: left;
+    transition: margin-left .5s;
 }
 table {
     position: relative;
@@ -136,6 +137,62 @@ body table.navbar .key{
     text-decoration: none;
 }
 
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: grey; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+.sidenav p {
+    font-size: 12px;
+    padding: 0 5px;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+#lanjut_button {
+    align-self: center;
+    width: 60%;
+    margin-left: 20%;
+}
+
+#sideKotak {
+    width: 150px;
+    height: 180px;
+    border: 5px solid #000;
+    padding: 10px;
+    margin: auto;
+    font-size: 60px;
+    text-align: center;
+}
+
+#sideKotak div#nomor_atom {
+    padding: 10px;
+    font-size: 25px;
+}
+
+#nmor_atom {
+    text-align: left;
+}
+
+#massa_atom {
+    align: right;
+}
+
+
 table.navbar tr.horizontal {
     text-align: center;
 }
@@ -191,16 +248,19 @@ table.navbar td .key1 {
     width: 60px
 }
 
-td .liquid {
+.liquid {
     color: #00f
 }
-td .solid {
+
+.solid {
     color: #000
 }
-td .gases {
+
+.gases {
     color: #006400
 }
-td .synthetic {
+
+.synthetic {
     color: brown
 }
 

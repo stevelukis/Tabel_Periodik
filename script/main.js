@@ -5,6 +5,29 @@ var xmlDoc = null;
 var dialog = null;
 
 function onElementClick(atomicNumber) {
+    openNav();
+    var kotak = document.getElementById(atomicNumber);
+    var sideKotak = document.getElementById("sideKotak");
+
+    sideKotak.children[0].innerHTML = atomicNumber;
+    if (kotak.children[0].children[2] == null) {
+        var child = sideKotak.children[1];
+        child.innerHTML = kotak.children[0].innerHTML;
+        child.removeChild(child.children[0]);
+        child.removeChild(child.children[0]);
+    } else {
+        sideKotak.children[1].innerHTML = kotak.children[0].children[2].innerHTML;
+    }
+    sideKotak.setAttribute("class", kotak.children[0].getAttribute("class"));
+    requestUnsur(atomicNumber, function (unsur) {
+        var penjelasan = unsur["penjelasan"];
+        document.getElementById("overview").innerHTML = penjelasan;
+    });
+}
+
+function popup() {
+    closeNav();
+    var atomicNumber = document.getElementById("nomor_atom").innerHTML;
     requestUnsur(atomicNumber, function (element) {
         if (dialog === null) {
             dialog = document.getElementById('dialogResult');
@@ -18,6 +41,17 @@ function onElementClick(atomicNumber) {
             }
         }
     });
+}
+
+function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+    document.getElementById("all").style.right = "44%";
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+    document.getElementById("all").style.right = "50%";
 }
 
 function requestUnsur(atomicNumber, callback) {

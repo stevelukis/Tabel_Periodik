@@ -497,98 +497,86 @@
 
         <!-- Tabs -->
         <div class="tab">
-            <button class="tablinks" onclick="openTab(event, 'nama')">Nama</button>
+            <button class="tablinks" onclick="openTab(event, 'umum')">Umum</button>
             <button class="tablinks" onclick="openTab(event, 'penjelasan')">Penjelasan</button>
-            <button class="tablinks" onclick="openTab(event, 'massaAtom')">Massa Atom Relatif</button>
-            <button class="tablinks" onclick="openTab(event, 'electroNegatifitas')">Elektronegatifitas (Pauling)
-            </button>
-            <button class="tablinks" onclick="openTab(event, 'firstIonizationEnergy')">Energi Ionisasi Pertama
-            </button>
-            <button class="tablinks" onclick="openTab(event, 'atomicRadius')">Jari - Jari Atom</button>
-            <button class="tablinks" onclick="openTab(event, 'vanDerWaalsRadius')">Jari - Jari Van Der Waals</button>
-            <button class="tablinks" onclick="openTab(event, 'covalentRadius')">Jari - Jari kovalen</button>
-            <button class="tablinks" onclick="openTab(event, 'valenceElectron')">Elektron Valensi</button>
-            <button class="tablinks" onclick="openTab(event, 'meltPoint')">Titik Leleh</button>
-            <button class="tablinks" onclick="openTab(event, 'boilPoint')">Titik Didih</button>
-            <button class="tablinks" onclick="openTab(event, 'density')">Kepadatan</button>
-            <button class="tablinks" onclick="openTab(event, 'discovery')">Tahun Penemuan</button>
-            <button class="tablinks" onclick="openTab(event, 'electronConfiguration')">Konfigurasi Elektron</button>
             <button class="tablinks" onclick="openTab(event, 'engName')">Referensi</button>
         </div>
 
         <!-- Tab content -->
-        <div id="nama" class="tabContent">
-            <h3>Nama</h3>
-            <p>Besi</p>
-        </div>
-
         <div id="penjelasan" class="tabContent">
             <h3>Penjelasan</h3>
             <p></p>
         </div>
 
-        <div id="massaAtom" class="tabContent">
-            <h3>Massa Atom Relatif (amu)</h3>
-            <p>55.845(2)</p>
-        </div>
+        <div id="umum" class="tabContent">
+            <div id="nama">
+                <h3>Nama</h3>
+                <p>Besi</p>
+            </div>
 
-        <div id="electroNegatifitas" class="tabContent">
-            <h3>Elektronegatifitas (Pauling)</h3>
-            <p>1.83</p>
-        </div>
+            <div id="massaAtom">
+                <h3>Massa Atom Relatif (amu)</h3>
+                <p>55.845(2)</p>
+            </div>
 
-        <div id="firstIonizationEnergy" class="tabContent">
-            <h3>Energi Ionisasi Pertama (ev)</h3>
-            <p>7.9024</p>
-        </div>
+            <div id="electroNegatifitas">
+                <h3>Elektronegatifitas (Pauling)</h3>
+                <p>1.83</p>
+            </div>
 
-        <div id="atomicRadius" class="tabContent">
-            <h3>Jari - Jari Atom (pm)</h3>
-            <p>140</p>
-        </div>
+            <div id="firstIonizationEnergy">
+                <h3>Energi Ionisasi Pertama (ev)</h3>
+                <p>7.9024</p>
+            </div>
 
-        <div id="vanDerWaalsRadius" class="tabContent">
-            <h3>Jari - Jari Van Der Waals (pm)</h3>
-            <p>no data</p>
-        </div>
+            <div id="atomicRadius">
+                <h3>Jari - Jari Atom (pm)</h3>
+                <p>140</p>
+            </div>
 
-        <div id="covalentRadius" class="tabContent">
-            <h3>Jari - Jari kovalen (pm)</h3>
-            <p>125</p>
-        </div>
+            <div id="vanDerWaalsRadius">
+                <h3>Jari - Jari Van Der Waals (pm)</h3>
+                <p>no data</p>
+            </div>
 
-        <div id="valenceElectron" class="tabContent">
-            <h3>Elektron Valensi</h3>
-            <p>2</p>
-        </div>
+            <div id="covalentRadius">
+                <h3>Jari - Jari kovalen (pm)</h3>
+                <p>125</p>
+            </div>
 
-        <div id="meltPoint" class="tabContent">
-            <h3>Titik Leleh (<sup>o</sup>C)</h3>
-            <p>1,535</p>
-        </div>
+            <div id="valenceElectron">
+                <h3>Elektron Valensi</h3>
+                <p>2</p>
+            </div>
 
-        <div id="boilPoint" class="tabContent">
-            <h3>Titik Didih (<sup>o</sup>C)</h3>
-            <p>2,750</p>
-        </div>
+            <div id="meltPoint">
+                <h3>Titik Leleh (<sup>o</sup>C)</h3>
+                <p>1,535</p>
+            </div>
 
-        <div id="density" class="tabContent">
-            <h3>Kepadatan (g/cm<sup>3</sup>)</h3>
-            <p>7.87</p>
-        </div>
+            <div id="boilPoint">
+                <h3>Titik Didih (<sup>o</sup>C)</h3>
+                <p>2,750</p>
+            </div>
 
-        <div id="discovery" class="tabContent">
-            <h3>Tahun Penemuan</h3>
-            <p>ancient</p>
-        </div>
+            <div id="density">
+                <h3>Kepadatan (g/cm<sup>3</sup>)</h3>
+                <p>7.87</p>
+            </div>
 
-        <div id="electronConfiguration" class="tabContent">
-            <h3>Konfigurasi Elektron</h3>
-            <p>[Ar] 3d
-                <sup>6</sup>
-                4s
-                <sup>2</sup>
-            </p>
+            <div id="discovery">
+                <h3>Tahun Penemuan</h3>
+                <p>ancient</p>
+            </div>
+
+            <div id="electronConfiguration">
+                <h3>Konfigurasi Elektron</h3>
+                <p>[Ar] 3d
+                    <sup>6</sup>
+                    4s
+                    <sup>2</sup>
+                </p>
+            </div>
         </div>
 
         <div id="engName" class="tabContent">

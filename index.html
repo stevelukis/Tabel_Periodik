@@ -206,62 +206,8 @@
                 <div class="ngas unsur" title="argon "><sup>18</sup><br>Ar</div>
             </td>
         </tr>
-        <tr>
+        <tr id="group_4">
             <td class="info">4</td>
-            <td id="19" class="element" onclick="onElementClick(19)">
-                <div class="alkali solid unsur" title="potassium "><sup>19</sup><br>K</div>
-            </td>
-            <td id="20" class="element" onclick="onElementClick(20)">
-                <div class="alkalie solid unsur" title="calcium "><sup>20</sup><br>Ca</div>
-            </td>
-            <td id="21" class="element" onclick="onElementClick(21)">
-                <div class="tmetals solid unsur" title="scandium "><sup>21</sup><br>Sc</div>
-            </td>
-            <td id="22" class="element" onclick="onElementClick(22)">
-                <div class="tmetals solid unsur" title="titanium "><sup>22</sup><br>Ti</div>
-            </td>
-            <td id="23" class="element" onclick="onElementClick(23)">
-                <div class="tmetals solid unsur" title="vanadium "><sup>23</sup><br>V</div>
-            </td>
-            <td id="24" class="element" onclick="onElementClick(24)">
-                <div class="tmetals solid unsur" title="chromium "><sup>24</sup><br>Cr</div>
-            </td>
-            <td id="25" class="element" onclick="onElementClick(25)">
-                <div class="tmetals solid unsur" title="manganese "><sup>25</sup><br>Mn</div>
-            </td>
-            <td id="26" class="element" onclick="onElementClick(26)">
-                <div class="tmetals solid unsur" title="iron "><sup>26</sup><br>Fe</div>
-            </td>
-            <td id="27" class="element" onclick="onElementClick(27)">
-                <div class="tmetals solid unsur" title="cobalt "><sup>27</sup><br>Co</div>
-            </td>
-            <td id="28" class="element" onclick="onElementClick(28)">
-                <div class="tmetals solid unsur" title="nickel "><sup>28</sup><br>Ni</div>
-            </td>
-            <td id="29" class="element" onclick="onElementClick(29)">
-                <div class="tmetals solid unsur" title="copper "><sup>29</sup><br>Cu</div>
-            </td>
-            <td id="30" class="element" onclick="onElementClick(30)">
-                <div class="tmetals solid unsur" title="zinc "><sup>30</sup><br>Zn</div>
-            </td>
-            <td id="31" class="element" onclick="onElementClick(31)">
-                <div class="ptmetals liquid unsur" title="gallium "><sup>31</sup><br>Ga</div>
-            </td>
-            <td id="32" class="element" onclick="onElementClick(32)">
-                <div class="metalloid solid unsur" title="germanium "><sup>32</sup><br>Ge</div>
-            </td>
-            <td id="33" class="element" onclick="onElementClick(33)">
-                <div class="metalloid solid unsur" title="arsenic "><sup>33</sup><br>As</div>
-            </td>
-            <td id="34" class="element" onclick="onElementClick(34)">
-                <div class="non-metal solid unsur" title="selenium "><sup>34</sup><br>Se</div>
-            </td>
-            <td id="35" class="element" onclick="onElementClick(35)">
-                <div class="halogens liquid unsur" title="bromine "><sup>35</sup><br>Br</div>
-            </td>
-            <td id="36" class="element" onclick="onElementClick(36)">
-                <div class="ngas unsur" title="krypton "><sup>36</sup><br>Kr</div>
-            </td>
         </tr>
         <tr>
             <td class="info">5</td>
@@ -697,6 +643,54 @@
         }
     }
 
+    var classDiv = [
+        "alkali solid unsur", "alkalie solid unsur", "tmetals solid unsur", "tmetals solid unsur",
+        "tmetals solid unsur", "tmetals solid unsur", "tmetals solid unsur", "tmetals solid unsur",
+        "tmetals solid unsur", "tmetals solid unsur", "tmetals solid unsur", "tmetals solid unsur",
+        "ptmetals liquid unsur", "metalloid solid unsur", "metalloid solid unsur",
+        "non-metal solid unsur", "halogens liquid unsur", "ngas unsur"
+    ];
+
+    var titlediv = [
+        "potassium", "calcium", "scandium", "titanium", "vanadium", "chromium", "manganese", "iron",
+        "cobalt", "nickel", "copper", "zinc", "gallium", "germanium", "arsenic", "selenium", "bromine",
+        "krypton"
+    ];
+
+    var symbolAtom = [
+        "K", "Ca", "Sc", "Ti", "V", "Cr", "Mn", "Fe", "Co", "Ni", "Cu", "Zn", "Ga", "Ge",
+        "As", "Se", "Br", "Kr"
+    ];
+
+    var group = document.getElementById("group_4");
+    for (var i = 19; i <= 36; i++) {
+        j = i - 19;
+        var td = document.createElement('td');
+        td.setAttribute('id', i);
+        td.setAttribute('class', 'element');
+        td.setAttribute('onclick', 'onElementClick(' + i + ")");
+
+        var div = document.createElement('div');
+        div.setAttribute('class', classDiv[j]);
+        div.setAttribute('title', titlediv[j]);
+
+        var sup = document.createElement('sup');
+        sup.innerHTML = i;
+
+        var br = document.createElement('br');
+
+        var span = document.createElement('span');
+        span.innerHTML = symbolAtom[j];
+
+        div.appendChild(sup);
+        div.appendChild(br);
+        div.appendChild(span);
+
+
+        td.appendChild(div);
+
+        group.appendChild(td);
+    }
 
 </script>
 

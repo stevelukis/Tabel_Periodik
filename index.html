@@ -2,14 +2,55 @@
 <html lang="en-US">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
     <title>Tabel Periodik Elemen</title>
     <link rel="stylesheet" href="./style/style.css" type="text/css" media="screen">
     <meta name="viewport" content="width=device-width, initial-scale=0.6">
     <script src="script/main.js"></script>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
 
 </head>
 <body>
+    <div id="popupBox" class="popup">
+
+  <div class="popup-content">
+
+    <div class="popup-head">
+
+      
+      Login
+
+    </div>
+
+  <div class="centerr">
+   <div class="popup-main">
+     <div class="g-signin2">
+      <div class="abcRioButton abcRioButtonLightBlue" style="height:60px;width:300px;">
+        <div class="abcRioButtonContentWrapper">
+          <div class="abcRioButtonIcon" style="padding:5px">
+            <div class="abcRioButtonSvgImageWithFallback abcRioButtonIconImage abcRioButtonIconImage18">
+              <svg class="abcRioButtonSvg" viewBox="0 0 50 50" width="104px" height="54px" version="1.1">
+                <g>
+                <path fill="#ea4335" d="M 24 9.5 c 3.54 0 6.71 1.22 9.21 3.6 l 6.85 -6.85 C 35.9 2.38 30.47 0 24 0 C 14.62 0 6.51 5.38 2.56 13.22 l 7.98 6.19 C 12.43 13.72 17.74 9.5 24 9.5 Z" />
+                <path fill="#4285f4" d="M 46.98 24.55 c 0 -1.57 -0.15 -3.09 -0.38 -4.55 H 24 v 9.02 h 12.94 c -0.58 2.96 -2.26 5.48 -4.78 7.18 l 7.73 6 c 4.51 -4.18 7.09 -10.36 7.09 -17.65 Z" />
+                <path fill="#fbbc05" d="M 10.53 28.59 c -0.48 -1.45 -0.76 -2.99 -0.76 -4.59 s 0.27 -3.14 0.76 -4.59 l -7.98 -6.19 C 0.92 16.46 0 20.12 0 24 c 0 3.88 0.92 7.54 2.56 10.78 l 7.97 -6.19 Z" />
+                <path fill="#34a853" d="M 24 48 c 6.48 0 11.93 -2.13 15.89 -5.81 l -7.73 -6 c -2.15 1.45 -4.92 2.3 -8.16 2.3 c -6.26 0 -11.57 -4.22 -13.47 -9.91 l -7.98 6.19 C 6.51 42.62 14.62 48 24 48 Z" />
+                <path fill="none" d="M 0 0 h 48 v 48 H 0 Z" />
+              </g>
+            </svg>
+            </div>
+          </div>
+          <span class="abcRioButtonContents" style="font-size:28px;line-height:70px;" >
+            <b>MASUK</b>
+        </span>
+      </div>
+    </div>
+    </div>
+
+    </div>
+  </div>
+  </div>
+
+</div>
 <div id="all">
 <table class="navbar">
     <tbody>
@@ -594,6 +635,10 @@
 </div>
 
 <script>
+    var popup = document.getElementById('popupBox');
+
+    popup.style.display = "block";
+
     var close = document.getElementById("dialogClose");
 
     // When the user clicks on <close> (x), close the modal
@@ -635,6 +680,8 @@
             tablinks[i].className = tablinks[i].className.replace(" active", "");
         }
     }
+
+
 </script>
 
 <!-- Script to modify the HTML -->

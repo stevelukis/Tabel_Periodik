@@ -14,7 +14,7 @@ body{
 
 .popup {
 
-    display: none;
+    display: block;
     position: fixed;
     z-index: 1;
     padding-top: 110px;
